@@ -1,5 +1,5 @@
 title = "Code4IT"
-baseURL = "https://www.code4it.dev/"
+baseURL = "https://incredible-snickerdoodle-95e2af.netlify.app/"
 
 # Option 1 (recommended): adding the theme as a Hugo module
 theme = "github.com/Lednerb/bilberry-hugo-theme/v3"
