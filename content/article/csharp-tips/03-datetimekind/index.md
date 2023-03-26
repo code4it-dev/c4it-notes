@@ -6,6 +6,7 @@ tags:
 url: /csharptips/datetimekind
 categories:
 - CSharp Tips
+toc: true
 ---
 
 One of the most common issues we face when developing applications is handling dates, times, and time zones.

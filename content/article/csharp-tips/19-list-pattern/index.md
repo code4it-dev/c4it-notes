@@ -6,6 +6,7 @@ tags:
 url: /csharptips/list-pattern
 categories:
 - CSharp Tips
+toc: true
 ---
 
 With C# 11 we have an interesting new feature: **list patterns**.

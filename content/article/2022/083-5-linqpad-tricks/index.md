@@ -7,6 +7,7 @@ tags:
 url: /blog/5-linqpad-tricks
 categories:
 - Blog
+toc: true
 ---
 
 LINQPad is one of my best friends: I use it daily, and it helps me A LOT when I need to run some throwaway code.

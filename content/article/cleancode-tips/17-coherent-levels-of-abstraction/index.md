@@ -6,6 +6,7 @@ tags:
 url: /cleancodetips/coherent-levels-of-abstraction
 categories:
 - Clean Code Tips
+toc: true
 ---
 
 Mixed levels of abstraction make the code harder to understand.

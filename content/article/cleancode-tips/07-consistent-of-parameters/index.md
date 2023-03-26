@@ -6,6 +6,7 @@ tags:
 url: /cleancodetips/consistent-of-parameters
 categories:
 - Clean Code Tips
+toc: true
 ---
 
 If you have a set of related functions, use always a coherent order of parameters.

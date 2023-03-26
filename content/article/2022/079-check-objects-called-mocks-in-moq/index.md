@@ -7,6 +7,7 @@ tags:
 url: /blog/check-objects-called-mocks-in-moq
 categories:
 - Blog
+toc: true
 ---
 
 When writing unit tests, you can use Mocks to simulate the usage of class dependencies.

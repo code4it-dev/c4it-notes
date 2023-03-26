@@ -6,6 +6,7 @@ tags:
 url: /cleancodetips/principle-of-least-surprise
 categories:
 - Clean Code Tips
+toc: true
 ---
 
 The **Principle of least surprise**, also called **Principle of least astonishment** is a quite simple principle about Software design with some interesting aspects.

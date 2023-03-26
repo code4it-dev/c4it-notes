@@ -6,6 +6,7 @@ tags:
 url: /blog/serilog-log-on-console
 categories:
 - Blog
+toc: true
 ---
 
 Having meaningful logs is crucial for any application: without logs, we would not be able to see if errors occur, what's the status of the application, if there are strange behaviors that should worry us, and so on.

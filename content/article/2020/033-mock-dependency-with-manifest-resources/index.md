@@ -8,6 +8,7 @@ tags:
 url: /blog/mock-dependency-with-manifest-resources
 categories:
 - Blog
+toc: true
 ---
 
 It happened that I needed to read a really complex JSON from an external API and elaborate it to adapt the result to my business needs.

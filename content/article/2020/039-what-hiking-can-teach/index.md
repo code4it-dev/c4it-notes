@@ -8,6 +8,7 @@ tags:
 url: /blog/what-hiking-can-teach
 categories:
 - Blog
+toc: true
 ---
 
 I just finished my holidays. For the first time in my life instead of relaxing and getting a tan on the beach, I spent my summer holidays in the mountains. For sure I won't show a perfect tan in the office this year, because - even though **it was almost the first time** for me - I spent almost every day hiking. That was quite extreme for me 'cause, trust me, I'm a lazy guy! Just to give you an example, if I'm watching a movie, and I have to choose between staying on the couch or getting up to get some snacks, I'd rather stay hungry than leaving the couch!

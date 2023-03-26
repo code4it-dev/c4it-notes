@@ -6,6 +6,7 @@ tags:
 url: /blog/clean-code-abstraction-and-objects
 categories:
 - Blog
+toc: true
 ---
 
 This is the third part of my series of tips about clean code.

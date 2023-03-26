@@ -6,6 +6,7 @@ tags:
 url: /blog/createdAtRoute-createdAtAction
 categories:
 - Blog
+toc: true
 ---
 
 Even though many devs (including me!) often forget about it, REST is not a synonym of HTTP API: it is an architectural style based on the central idea of **resource**.

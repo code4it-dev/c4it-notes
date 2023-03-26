@@ -6,6 +6,7 @@ tags:
 url: /blog/intro-priority-queue
 categories:
 - Blog
+toc: true
 ---
 
 Starting from .NET 6 and C# 10, we finally have built-in support for PriorityQueues 🥳

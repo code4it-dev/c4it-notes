@@ -6,6 +6,7 @@ tags:
 url: /blog/measure-maintainability-with-ndepend
 categories:
 - Blog
+toc: true
 ---
 
 Software systems can be easy to build, but hard to maintain. The more a system will be maintained, the more updates to the code will be needed.

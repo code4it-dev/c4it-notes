@@ -8,6 +8,7 @@ tags:
 url: /blog/azure-service-bus-queue-vs-topic
 categories:
 - Blog
+toc: true
 ---
 
 In the previous article, we've seen that with Azure Service Bus, the message broker provided by Microsoft, you can send messages in a queue in a way that the first application that receives it, also removes that message from the queue.

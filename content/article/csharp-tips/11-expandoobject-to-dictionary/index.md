@@ -6,6 +6,7 @@ tags:
 url: /csharptips/expandoobject-to-dictionary
 categories:
 - CSharp Tips
+toc: true
 ---
 
 In C#, `ExpandoObjects` are dynamically-populated objects without a predefined _shape_.

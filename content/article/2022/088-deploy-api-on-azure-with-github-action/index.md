@@ -8,6 +8,7 @@ tags:
 url: /blog/deploy-api-on-azure-with-github-action
 categories:
 - Blog
+toc: true
 ---
 
 With **Continuous Delivery (CD)**, you can deploy your code in a fast-paced and stable way.

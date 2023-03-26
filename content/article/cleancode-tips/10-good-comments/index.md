@@ -6,6 +6,7 @@ tags:
 url: /cleancodetips/good-comments
 categories:
 - Clean Code Tips
+toc: true
 ---
 
 Many developers say that

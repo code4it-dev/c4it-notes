@@ -6,6 +6,7 @@ tags:
 url: /blog/5-things-enums-csharp
 categories:
 - Blog
+toc: true
 ---
 
 Enums are really useful if you want to, well, enumerate the possible values for a field. An example of enumeration is the list of movie genres:

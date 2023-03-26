@@ -6,6 +6,7 @@ tags:
 url: /cleancodetips/dry-or-not-dry
 categories:
 - Clean Code Tips
+toc: true
 ---
 
 You've probably heard about the **DRY principle: Don't Repeat Yourself**.

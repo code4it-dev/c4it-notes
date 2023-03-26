@@ -6,6 +6,7 @@ tags:
 url: /blog/advanced-int-tryparse
 categories:
 - Blog
+toc: true
 ---
 
 You have probably used the `int.TryParse` method with this signature:

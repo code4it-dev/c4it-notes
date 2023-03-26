@@ -6,6 +6,7 @@ tags:
 url: /blog/dotnet-type-or-namespace-not-found
 categories:
 - Blog
+toc: true
 ---
 
 Something strange happened today.

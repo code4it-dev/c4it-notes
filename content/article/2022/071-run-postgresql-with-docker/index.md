@@ -8,6 +8,7 @@ tags:
 url: /blog/run-postgresql-with-docker
 categories:
 - Blog
+toc: true
 ---
 
 PostgreSQL is a relational database characterized for being open source and with a growing community supporting the project.

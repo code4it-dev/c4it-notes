@@ -6,6 +6,7 @@ tags:
 url: /cleancodetips/aaa-pattern-for-tests
 categories:
 - Clean Code Tips
+toc: true
 ---
 
 Even though many developers underestimate this part, tests should be written even more clearly than production code.

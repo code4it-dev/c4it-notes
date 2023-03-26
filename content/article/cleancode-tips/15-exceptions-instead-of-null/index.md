@@ -6,6 +6,7 @@ tags:
 url: /cleancodetips/exceptions-instead-of-null
 categories:
 - Clean Code Tips
+toc: true
 ---
 
 **When you don't have any fallback** operation to manage null values (eg: retry pattern), you should throw an exception instead of returning null.

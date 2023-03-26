@@ -7,6 +7,7 @@ tags:
 url: /blog/solve-constructor-exception-with-httpclientfactory
 categories:
 - Blog
+toc: true
 ---
 
 A few days ago I was preparing the demo for a new article. The demo included a class with an `IHttpClientFactory` service injected into the constructor. Nothing more.

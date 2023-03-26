@@ -6,6 +6,7 @@ tags:
 url: /cleancodetips/too-many-imports
 categories:
 - Clean Code Tips
+toc: true
 ---
 
 Actually, this article is not about a tip to write cleaner code, but it is an article that aims at pointing out a code smell.

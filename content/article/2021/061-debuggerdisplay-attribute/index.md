@@ -8,6 +8,7 @@ tags:
 url: /blog/debuggerdisplay-attribute
 categories:
 - Blog
+toc: true
 ---
 
 Picture this: you are debugging a .NET application, and you need to retrieve a list of objects. To make sure that the items are as you expect, you need to look at the content of each item.

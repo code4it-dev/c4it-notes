@@ -7,6 +7,7 @@ tags:
 url: /blog/mstests-assert-overview
 categories:
 - Blog
+toc: true
 ---
 
 You know, **Unit Tests are our friends**. Usually skipped, often misused, but they are still with us.  

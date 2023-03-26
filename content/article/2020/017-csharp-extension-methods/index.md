@@ -7,6 +7,7 @@ tags:
 url: /blog/csharp-extension-methods
 categories:
 - Blog
+toc: true
 ---
 
 Probably you have already heard of **extension methods**: those are C# methods used to add new functionalities to an existing class.

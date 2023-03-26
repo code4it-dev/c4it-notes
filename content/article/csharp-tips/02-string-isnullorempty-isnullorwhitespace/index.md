@@ -6,6 +6,7 @@ tags:
 url: /csharptips/string-isnullorempty-isnullorwhitespace
 categories:
 - CSharp Tips
+toc: true
 ---
 
 Imagine this: you have created a method that creates a new user in your system, like this:

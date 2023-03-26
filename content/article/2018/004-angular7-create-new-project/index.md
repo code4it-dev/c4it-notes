@@ -6,6 +6,7 @@ tags:
 url: /blog/angular7-create-new-project
 categories:
 - Blog
+toc: true
 ---
 
 Before reading this article, be sure you know what **Node.js**, **NPM** and **Angular** are. If you are not sure, [here's a short reminder](/blog/angular-vs-npm-vs-node-js "A recap of Node.js, NPM and Angular").

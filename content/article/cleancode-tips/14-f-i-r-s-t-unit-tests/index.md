@@ -6,6 +6,7 @@ tags:
 url: /cleancodetips/f-i-r-s-t-unit-tests
 categories:
 - Clean Code Tips
+toc: true
 ---
 
 **FIRST** is an acronym that you should always remember if you want to write clean and extensible tests.

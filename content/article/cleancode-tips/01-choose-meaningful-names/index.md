@@ -6,6 +6,7 @@ tags:
 url: /cleancodetips/choose-meaningful-names
 categories:
 - Clean Code Tips
+toc: true
 ---
 
 One of the fundamentals of clean code is: use meaningful names.

@@ -6,6 +6,7 @@ tags:
 url: /csharptips/profile-code-with-miniprofiler
 categories:
 - CSharp Tips
+toc: true
 ---
 
 Do you need to tune up the performance of your code? You can create some StopWatch objects and store the execution times or rely on external libraries like **MiniProfiler**.

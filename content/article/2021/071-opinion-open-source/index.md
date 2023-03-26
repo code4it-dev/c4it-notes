@@ -6,6 +6,7 @@ tags:
 url: /blog/opinion-open-source
 categories:
 - Blog
+toc: true
 ---
 
 After the Log4J vulnerability, we should reflect on how open source impacts our projects, and what are the benefits and disadvantages of using such libraries.

@@ -7,6 +7,7 @@ tags:
 url: /blog/serilog-logging-scope
 categories:
 - Blog
+toc: true
 ---
 
 Even though it's not one of the first things we usually set up when creating a new application, logging is a real game-changer in the long run.

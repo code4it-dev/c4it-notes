@@ -8,6 +8,7 @@ tags:
 url: /blog/asynchronous-programming-in-csharp
 categories:
 - Blog
+toc: true
 ---
 
 Asynchronous programming is a HUGE topic. That's why I'm not gonna talk of everything (even because I'm still learning).

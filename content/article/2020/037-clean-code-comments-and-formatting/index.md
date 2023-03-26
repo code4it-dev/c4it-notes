@@ -6,6 +6,7 @@ tags:
 url: /blog/clean-code-comments-and-formatting
 categories:
 - Blog
+toc: true
 ---
 
 This is the second part of my series of tips about clean code. We'll talk about comments, why many of them are useless or even dangerous, why some are necessary and how to improve your comments. We'll also have a look at why formatting is so important, and we can't afford to write messy code.

@@ -6,6 +6,7 @@ tags:
 url: /blog/clean-code-error-handling
 categories:
 - Blog
+toc: true
 ---
 
 We all know that nothing goes perfectly smoothly: network errors, invalid formats, null references... We can have a long, long list of what can go wrong in our applications. So, it is important to handle errors with the same care we have for all the rest of our code.

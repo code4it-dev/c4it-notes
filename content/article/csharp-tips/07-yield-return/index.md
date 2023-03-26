@@ -6,6 +6,7 @@ tags:
 url: /csharptips/yield-return
 categories:
 - CSharp Tips
+toc: true
 ---
 
 To me, `yield return` has always been one of the most difficult things to understand.

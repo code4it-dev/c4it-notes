@@ -7,6 +7,7 @@ tags:
 url: /blog/tech-talk-13-tips
 categories:
 - Blog
+toc: true
 ---
 
 I love to deliver tech talks: they help me improve both my technical and communication skills.

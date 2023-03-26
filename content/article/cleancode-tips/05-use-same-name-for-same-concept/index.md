@@ -6,6 +6,7 @@ tags:
 url: /cleancodetips/use-same-name-for-same-concept
 categories:
 - Clean Code Tips
+toc: true
 ---
 
 As I always say, naming things is hard. We've already talked about this in [a previous article](./choose-meaningful-names "How to choose meaningful names tip on Code4IT").

@@ -6,6 +6,7 @@ tags:
 url: /csharptips/ping-endpoint
 categories:
 - CSharp Tips
+toc: true
 ---
 
 What if you wanted to see if a remote website is up and running?

@@ -7,6 +7,7 @@ tags:
 url: /blog/assembly-version-via-api-endpoint-routing
 categories:
 - Blog
+toc: true
 ---
 
 Sometimes it can be useful to show the version of the running Assembly in one .NET Core API endpoint: for example, when you want to know which version of your code is running in an environment, or to expose a simple endpoint that acts as a "minimal" health check.

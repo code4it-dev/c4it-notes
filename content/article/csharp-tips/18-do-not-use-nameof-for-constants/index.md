@@ -6,6 +6,7 @@ tags:
 url: /csharptips/do-not-use-nameof-for-constants
 categories:
 - CSharp Tips
+toc: true
 ---
 
 As per Microsoft's definition,

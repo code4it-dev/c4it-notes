@@ -9,6 +9,7 @@ tags:
 url: /blog/postgres-crud-operations-npgsql
 categories:
 - Blog
+toc: true
 ---
 
 PostgreSQL is one of the most famous relational databases. It has got tons of features, and it is open source.

@@ -5,6 +5,7 @@ tags: []
 url: /blog/8-things-about-records-csharp
 categories:
 - Blog
+toc: true
 ---
 
 Records are the new data type introduced in 2021 with C# 9 and .NET Core 5.

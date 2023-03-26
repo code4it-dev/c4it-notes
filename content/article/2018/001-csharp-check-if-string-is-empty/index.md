@@ -6,6 +6,7 @@ tags:
 url: /blog/csharp-check-if-string-is-empty
 categories:
 - Blog
+toc: true
 ---
 
 > To be, or not to be (empty), that is the question...

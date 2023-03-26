@@ -7,6 +7,7 @@ tags:
 url: /blog/inject-and-test-datetime-dependency
 categories:
 - Blog
+toc: true
 ---
 
 Testing static properties can be tough. Even more when you don't have full control over them. So, what to do?

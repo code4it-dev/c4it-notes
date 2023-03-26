@@ -8,6 +8,7 @@ tags:
 url: /blog/ssms-how-to-get-instance-name
 categories:
 - Blog
+toc: true
 ---
 
 This article is just a note for something I forget the most: my LocalDB instance names.

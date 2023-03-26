@@ -6,6 +6,7 @@ tags:
 url: /csharptips/debug-assert
 categories:
 - CSharp Tips
+toc: true
 ---
 
 Sometimes, while debugging, you want to check if the state of your code is still valid, or, at least, it corresponds to some expectations.

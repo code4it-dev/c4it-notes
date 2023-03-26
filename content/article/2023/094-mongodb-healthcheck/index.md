@@ -7,6 +7,7 @@ tags:
 url: /blog/mongodb-healthcheck
 categories:
 - Blog
+toc: true
 ---
 
 In any complex system, you have to deal with external dependencies.

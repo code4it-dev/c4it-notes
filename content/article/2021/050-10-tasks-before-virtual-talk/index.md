@@ -7,6 +7,7 @@ tags:
 url: /blog/10-tasks-before-virtual-talk
 categories:
 - Blog
+toc: true
 ---
 
 More and more developers crave to be also tech speakers. We can see every day dozens of meetups, live streaming, and YouTube videos by developers from all over the world. But regardless of the topic and the type of talk you're doing, there are a few tips you should keep in mind to rock the execution.

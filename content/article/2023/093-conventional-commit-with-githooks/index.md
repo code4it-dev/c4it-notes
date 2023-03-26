@@ -7,6 +7,7 @@ tags:
 url: /blog/conventional-commit-with-githooks
 categories:
 - Blog
+toc: true
 ---
 
 Setting teams conventions is a crucial step to have the project prepared to live long and prosper 🖖

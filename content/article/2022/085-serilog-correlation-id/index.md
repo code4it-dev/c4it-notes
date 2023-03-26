@@ -7,6 +7,7 @@ tags:
 url: /blog/serilog-correlation-id
 categories:
 - Blog
+toc: true
 ---
 
 _Correlation IDs_ are values that are passed across different systems to correlate the operations performed during a "macro" operation.

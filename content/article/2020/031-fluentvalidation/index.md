@@ -7,6 +7,7 @@ tags:
 url: /blog/fluentvalidation
 categories:
 - Blog
+toc: true
 ---
 
 Needless to say, validating inputs is important. Invalid inputs may break your application and bring your system to an unstable state.

@@ -6,6 +6,7 @@ tags:
 url: /blog/clean-code-tests
 categories:
 - Blog
+toc: true
 ---
 
 Clean code principles apply not only to production code but even to tests. Indeed, a test should be even more clean, easy-to-understand, and meaningful than production code.

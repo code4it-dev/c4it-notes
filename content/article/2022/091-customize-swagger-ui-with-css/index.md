@@ -6,6 +6,7 @@ tags:
 url: /blog/customize-swagger-ui-with-css
 categories:
 - Blog
+toc: true
 ---
 
 Brace yourself, Christmas is coming! 🎅

@@ -6,6 +6,7 @@ tags:
 url: /csharptips/using-alias
 categories:
 - CSharp Tips
+toc: true
 ---
 
 You may have to reference classes or services that come from different namespaces or packages, but that have the same name. It may become tricky to understand which reference refers to a specific type.

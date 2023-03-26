@@ -6,6 +6,7 @@ tags:
 url: /blog/tcpping-azure-portal
 categories:
 - Blog
+toc: true
 ---
 
 Probably you already know what **ping** is: it is a command that you can run on your terminal to see if a host is up and running.

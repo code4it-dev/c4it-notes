@@ -7,6 +7,7 @@ tags:
 url: /blog/testing-internals-with-internalsvisibleto
 categories:
 - Blog
+toc: true
 ---
 
 Do you remember the [**internal** access modifier](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/internal "Internal keyword reference")? It allows you to **access classes, methods and properties only within files in the same assembly**.

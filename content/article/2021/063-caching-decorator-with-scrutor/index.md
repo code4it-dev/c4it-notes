@@ -6,6 +6,7 @@ tags:
 url: /blog/caching-decorator-with-scrutor
 categories:
 - Blog
+toc: true
 ---
 
 When fetching external resources - like performing a GET on some remote APIs - you often need to cache the result. Even a simple caching mechanism can boost the performance of your application: the fewer actual calls to the external system, the faster the response time of the overall application.

@@ -6,6 +6,7 @@ tags:
 url: /csharptips/sorted-set
 categories:
 - CSharp Tips
+toc: true
 ---
 
 As you probably know, you can create collections of items without duplicates by using a `HashSet<T>` object.

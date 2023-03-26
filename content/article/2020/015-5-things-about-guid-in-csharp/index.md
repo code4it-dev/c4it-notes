@@ -6,6 +6,7 @@ tags:
 url: /blog/5-things-about-guid-in-csharp
 categories:
 - Blog
+toc: true
 ---
 
 I'm pretty sure that you've already used Guids in C#, but have you ever stopped to think what they are under the hood?

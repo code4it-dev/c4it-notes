@@ -6,6 +6,7 @@ tags:
 url: /cleancodetips/smaller-functions-smarter-exceptions
 categories:
 - Clean Code Tips
+toc: true
 ---
 
 Small functions not only improve your code readability but also help to debug faster your applications in case of unhandled exceptions.

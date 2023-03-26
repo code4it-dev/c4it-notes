@@ -9,6 +9,7 @@ tags:
 url: /blog/postgres-crud-entityframework
 categories:
 - Blog
+toc: true
 ---
 
 When working with relational databases, you often come across two tasks: writing SQL queries and mapping the results to some DTO objects.

@@ -8,6 +8,7 @@ tags:
 url: /blog/improving-application-performance-part2
 categories:
 - Blog
+toc: true
 ---
 
 In this second article, I'm going to share some more tips that brought me to improve the performance of an API from 14sec to less than 3 seconds: an improvement of 82%.

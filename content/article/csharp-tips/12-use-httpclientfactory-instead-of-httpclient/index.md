@@ -6,6 +6,7 @@ tags:
 url: /csharptips/use-httpclientfactory-instead-of-httpclient
 categories:
 - CSharp Tips
+toc: true
 ---
 
 ## The problem with HttpClient

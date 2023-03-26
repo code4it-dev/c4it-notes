@@ -6,6 +6,7 @@ tags:
 url: /blog/5-things-datetime-timezones-and-formatting
 categories:
 - Blog
+toc: true
 ---
 
 Working with dates, if not done carefully, can bring to bugs that can impact your systems. You must always take care of time zones and use the best formatting practices, or else you'll get some trouble.

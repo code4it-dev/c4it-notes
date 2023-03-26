@@ -6,6 +6,7 @@ tags:
 url: /blog/automate-blogging-workflow-github-powershell-azure
 categories:
 - Blog
+toc: true
 ---
 
 This is my 100th article 🥳 To celebrate it, I want to share with you the full process I use for writing and publishing articles.

@@ -7,6 +7,7 @@ tags:
 url: /blog/auto-creating-fields-vs
 categories:
 - Blog
+toc: true
 ---
 
 We, as developers, **hate** repetitive tasks, isn't it? In fact, we often auto-generate code by using our IDE's capabilities. Yet, sometimes the auto-generated code does not follow our team rules or our personal taste, so we have to rename stuff every single time.

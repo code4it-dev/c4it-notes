@@ -6,6 +6,7 @@ tags:
 url: /csharptips/linq-selectmany
 categories:
 - CSharp Tips
+toc: true
 ---
 
 There's one LINQ method that I always struggle in understanding: SelectMany.

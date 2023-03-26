@@ -6,6 +6,7 @@ tags:
 url: /blog/linq-differences
 categories:
 - Blog
+toc: true
 ---
 
 LINQ is one of the most loved functionalities by C# developers. It allows you to perform calculations and projections over a collection of items, making your code easy to build and, even more, easy to understand.

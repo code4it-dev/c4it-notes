@@ -7,6 +7,7 @@ tags:
 url: /blog/csharp-sorting-mistake
 categories:
 - Blog
+toc: true
 ---
 
 Recently I've learned a _funny_ (ehm...) thing.

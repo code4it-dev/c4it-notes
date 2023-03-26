@@ -7,6 +7,7 @@ tags:
 url: /blog/swagger-integration
 categories:
 - Blog
+toc: true
 ---
 
 When I write some APIs with .NET Core, one of the very first things I do is to add Swagger.

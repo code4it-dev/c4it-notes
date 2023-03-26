@@ -9,6 +9,7 @@ tags:
 url: /blog/azure-functions-startup-class
 categories:
 - Blog
+toc: true
 ---
 
 Azure Functions are event-driven applications that run serverless. Usually, they are triggered by an HTTP request, an update on Blob storage, a message on Service Bus or simply a timer.

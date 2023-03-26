@@ -8,6 +8,7 @@ tags:
 url: /blog/azure-service-bus-errors
 categories:
 - Blog
+toc: true
 ---
 
 In this article, we are gonna see which kind of errors you may get on Azure Service Bus and how to fix them. We will look at simpler errors, the ones you get if configurations on your code are wrong, or you've not declared the modules properly; then we will have a quick look at _Dead Letters_ and what they represent.

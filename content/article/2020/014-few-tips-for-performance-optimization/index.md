@@ -8,6 +8,7 @@ tags:
 url: /blog/few-tips-for-performance-optimization
 categories:
 - Blog
+toc: true
 ---
 
 When talking about must-have for websites, performance is one of them. Why is it important? And how can you achieve it?

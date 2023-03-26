@@ -6,6 +6,7 @@ tags:
 url: /cleancodetips/avoid-mental-mappings
 categories:
 - Clean Code Tips
+toc: true
 ---
 
 Every name must be meaningful and clear. If names are not obvious, other developers (or your future self) may misinterpret what you were meaning.

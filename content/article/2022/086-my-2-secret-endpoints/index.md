@@ -6,6 +6,7 @@ tags:
 url: /blog/my-2-secret-endpoints
 categories:
 - Blog
+toc: true
 ---
 
 When I create Web APIs with .NET I usually add two "secret" endpoints that I can use to double-check the status of the deployment.

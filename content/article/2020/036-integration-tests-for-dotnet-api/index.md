@@ -8,6 +8,7 @@ tags:
 url: /blog/integration-tests-for-dotnet-api
 categories:
 - Blog
+toc: true
 ---
 
 You already write Unit tests, right?

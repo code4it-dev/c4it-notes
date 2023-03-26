@@ -6,6 +6,7 @@ tags:
 url: /csharptips/initialize-lists-size
 categories:
 - CSharp Tips
+toc: true
 ---
 
 Some collections, like `List<T>`, have a predefined initial size.

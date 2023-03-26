@@ -7,6 +7,7 @@ tags:
 url: /blog/run-mongodb-on-docker
 categories:
 - Blog
+toc: true
 ---
 
 In this article, I'm going to explain how you can try out the functionalities of **MongoDB** without installing it, but running it on a **Docker** container. First of all, I'll explain what is Docker and what it can do for us; then we'll run MongoDB on a Docker container.

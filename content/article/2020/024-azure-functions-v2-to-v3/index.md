@@ -9,6 +9,7 @@ tags:
 url: /blog/azure-functions-v2-to-v3
 categories:
 - Blog
+toc: true
 ---
 
 Azure Functions are a great way to implement serverless services. You can implement them with many languages, like C# and JavaScript, and can be configured both on the Azure Portal and on your local machine.

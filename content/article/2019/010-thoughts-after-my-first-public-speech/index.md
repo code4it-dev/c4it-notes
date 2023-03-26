@@ -7,6 +7,7 @@ tags:
 url: /blog/thoughts-after-my-first-public-speech
 categories:
 - Blog
+toc: true
 ---
 
 Days ago I had my first speech.

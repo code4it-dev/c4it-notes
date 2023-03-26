@@ -8,6 +8,7 @@ tags:
 url: /blog/30articlesfornovember-a-recap
 categories:
 - Blog
+toc: true
 ---
 
 For this November I decided to share each day an article on Twitter.

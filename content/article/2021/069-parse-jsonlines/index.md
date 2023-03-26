@@ -6,6 +6,7 @@ tags:
 url: /blog/parse-jsonlines
 categories:
 - Blog
+toc: true
 ---
 
 For sure, you already know JSON: it's one of the most commonly used formats to share data as text.

@@ -7,6 +7,7 @@ tags:
 url: /blog/miniprofiler
 categories:
 - Blog
+toc: true
 ---
 
 Sometimes your project does not perform well as you would expect. Bottlenecks occur, and it can be hard to understand where and why.

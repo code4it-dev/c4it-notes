@@ -6,6 +6,7 @@ tags:
 url: /blog/5-more-things-about-enums-csharp
 categories:
 - Blog
+toc: true
 ---
 
 In a [previous article](./5-things-enums-csharp "5 things you didn't know about enums in C#"), I explained some details about enums in C#. Here I'll talk about some other things that are useful and/or curious to know about them.

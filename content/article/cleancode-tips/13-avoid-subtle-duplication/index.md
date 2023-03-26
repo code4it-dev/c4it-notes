@@ -6,6 +6,7 @@ tags:
 url: /cleancodetips/avoid-subtle-duplication
 categories:
 - Clean Code Tips
+toc: true
 ---
 
 Duplication is not only about lines of code, but also about **data usage and meaning.**
