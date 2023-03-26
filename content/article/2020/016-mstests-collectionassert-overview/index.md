@@ -5,7 +5,8 @@ tags:
 - CSharp
 - Tests
 url: /blog/mstests-collectionassert-overview
-category: Blog
+categories:
+- Blog
 ---
 
 This is the third part of our journey. In the [first part](./mstests-assert-overview "Unit testing with Assert") we listed the methods belonging to the **Assert** class, while in the [second part](./mstests-stringassert-overview "Unit testing with StringAssert") we had a look at the **StringAssert** class.

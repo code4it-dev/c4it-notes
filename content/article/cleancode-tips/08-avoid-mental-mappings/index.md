@@ -4,7 +4,8 @@ date: 2022-01-25
 tags:
 - Clean Code
 url: /cleancodetips/avoid-mental-mappings
-category: Clean Code Tips
+categories:
+- Clean Code Tips
 ---
 
 Every name must be meaningful and clear. If names are not obvious, other developers (or your future self) may misinterpret what you were meaning.

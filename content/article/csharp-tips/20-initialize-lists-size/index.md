@@ -4,7 +4,8 @@ date: 2023-02-28
 tags:
 - CSharp
 url: /csharptips/initialize-lists-size
-category: CSharp Tips
+categories:
+- CSharp Tips
 ---
 
 Some collections, like `List<T>`, have a predefined initial size.

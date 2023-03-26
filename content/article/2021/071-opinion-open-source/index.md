@@ -4,7 +4,8 @@ date: 2021-12-21
 tags:
 - MISC
 url: /blog/opinion-open-source
-category: Blog
+categories:
+- Blog
 ---
 
 After the Log4J vulnerability, we should reflect on how open source impacts our projects, and what are the benefits and disadvantages of using such libraries.

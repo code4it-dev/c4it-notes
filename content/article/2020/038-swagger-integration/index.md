@@ -5,7 +5,8 @@ tags:
 - dotnet
 - CSharp
 url: /blog/swagger-integration
-category: Blog
+categories:
+- Blog
 ---
 
 When I write some APIs with .NET Core, one of the very first things I do is to add Swagger.

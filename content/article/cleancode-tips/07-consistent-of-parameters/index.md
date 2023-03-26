@@ -4,7 +4,8 @@ date: 2021-11-30
 tags:
 - Clean Code
 url: /cleancodetips/consistent-of-parameters
-category: Clean Code Tips
+categories:
+- Clean Code Tips
 ---
 
 If you have a set of related functions, use always a coherent order of parameters.

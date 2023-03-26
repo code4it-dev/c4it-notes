@@ -4,7 +4,8 @@ date: 2021-10-05
 tags:
 - Clean Code
 url: /cleancodetips/use-same-name-for-same-concept
-category: Clean Code Tips
+categories:
+- Clean Code Tips
 ---
 
 As I always say, naming things is hard. We've already talked about this in [a previous article](./choose-meaningful-names "How to choose meaningful names tip on Code4IT").

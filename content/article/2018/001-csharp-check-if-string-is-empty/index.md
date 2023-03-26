@@ -4,7 +4,8 @@ date: 2018-10-01
 tags:
 - CSharp
 url: /blog/csharp-check-if-string-is-empty
-category: Blog
+categories:
+- Blog
 ---
 
 > To be, or not to be (empty), that is the question...

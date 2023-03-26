@@ -4,7 +4,8 @@ date: 2022-03-08
 tags:
 - CSharp
 url: /csharptips/change-current-culture-in-using-block
-category: CSharp Tips
+categories:
+- CSharp Tips
 ---
 
 It may happen, even just for testing some functionalities, that you want to change the Culture of the thread your application is running on.

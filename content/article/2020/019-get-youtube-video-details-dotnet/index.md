@@ -6,7 +6,8 @@ tags:
 - dotnet
 - YouTube
 url: /blog/get-youtube-video-details-dotnet
-category: Blog
+categories:
+- Blog
 ---
 
 I have already talked about how to retrieve a list of YouTube videos by its channel ID.

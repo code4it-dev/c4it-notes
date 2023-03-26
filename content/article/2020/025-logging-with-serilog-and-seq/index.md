@@ -4,7 +4,8 @@ date: 2020-04-28
 tags:
 - dotnet
 url: /blog/logging-with-serilog-and-seq
-category: Blog
+categories:
+- Blog
 ---
 
 One of the most important things to consider when developing and application is logging: not only it is useful for tracking errors and check if the system works correctly, but also it helps you with additional info about the status of the application in a particular point of the code, making it easier to debug the application.

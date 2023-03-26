@@ -4,7 +4,8 @@ date: 2022-10-04
 tags:
 - dotnet
 url: /blog/my-2-secret-endpoints
-category: Blog
+categories:
+- Blog
 ---
 
 When I create Web APIs with .NET I usually add two "secret" endpoints that I can use to double-check the status of the deployment.

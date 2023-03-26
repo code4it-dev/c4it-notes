@@ -4,7 +4,8 @@ date: 2021-10-12
 tags:
 - dotnet
 url: /blog/serilog-log-on-console
-category: Blog
+categories:
+- Blog
 ---
 
 Having meaningful logs is crucial for any application: without logs, we would not be able to see if errors occur, what's the status of the application, if there are strange behaviors that should worry us, and so on.

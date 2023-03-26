@@ -4,7 +4,8 @@ date: 2021-05-25
 tags:
 - Clean Code
 url: /cleancodetips/choose-meaningful-names
-category: Clean Code Tips
+categories:
+- Clean Code Tips
 ---
 
 One of the fundamentals of clean code is: use meaningful names.

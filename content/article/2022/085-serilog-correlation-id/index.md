@@ -5,7 +5,8 @@ tags:
 - CSharp
 - dotnet
 url: /blog/serilog-correlation-id
-category: Blog
+categories:
+- Blog
 ---
 
 _Correlation IDs_ are values that are passed across different systems to correlate the operations performed during a "macro" operation.

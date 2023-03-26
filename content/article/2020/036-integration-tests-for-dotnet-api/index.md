@@ -6,7 +6,8 @@ tags:
 - dotnet
 - CSharp
 url: /blog/integration-tests-for-dotnet-api
-category: Blog
+categories:
+- Blog
 ---
 
 You already write Unit tests, right?

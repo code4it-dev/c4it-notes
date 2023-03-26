@@ -4,7 +4,8 @@ date: 2022-11-29
 tags:
 - CSharp
 url: /csharptips/timer-to-trigger-synchronous-events
-category: CSharp Tips
+categories:
+- CSharp Tips
 ---
 
 There may be times when you need to process a specific task on a timely basis, such as **polling an endpoint** to look for updates or refreshing a Refresh Token.

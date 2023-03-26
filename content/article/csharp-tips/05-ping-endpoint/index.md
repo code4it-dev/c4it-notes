@@ -4,7 +4,8 @@ date: 2021-10-19
 tags:
 - CSharp
 url: /csharptips/ping-endpoint
-category: CSharp Tips
+categories:
+- CSharp Tips
 ---
 
 What if you wanted to see if a remote website is up and running?

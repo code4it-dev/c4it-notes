@@ -4,7 +4,8 @@ date: 2022-10-25
 tags:
 - CSharp
 url: /csharptips/use-at-symbol-prefix
-category: CSharp Tips
+categories:
+- CSharp Tips
 ---
 
 You already know it: using meaningful names for variables, methods, and classes allows you to write more readable and maintainable code.

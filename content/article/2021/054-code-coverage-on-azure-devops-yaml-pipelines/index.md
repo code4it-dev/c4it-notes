@@ -5,7 +5,8 @@ tags:
 - Azure DevOps
 - Tests
 url: /blog/code-coverage-on-azure-devops-yaml-pipelines
-category: Blog
+categories:
+- Blog
 ---
 
 Code coverage is a good indicator of the health of your project: the more your project is covered by tests, the lesser are the probabilities that you have easy-to-find bugs in it.

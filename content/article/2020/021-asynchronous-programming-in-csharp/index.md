@@ -6,7 +6,8 @@ tags:
 - dotnet
 - Performance
 url: /blog/asynchronous-programming-in-csharp
-category: Blog
+categories:
+- Blog
 ---
 
 Asynchronous programming is a HUGE topic. That's why I'm not gonna talk of everything (even because I'm still learning).

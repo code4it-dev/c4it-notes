@@ -5,7 +5,8 @@ tags:
 - CSharp
 - dotnet
 url: /blog/dependency-injection-lifetimes
-category: Blog
+categories:
+- Blog
 ---
 
 I'm pretty sure you already know what is Dependency Injection (shortened to DI) and why you should implement it in your applications.

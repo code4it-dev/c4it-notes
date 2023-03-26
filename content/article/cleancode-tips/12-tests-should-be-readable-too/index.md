@@ -4,7 +4,8 @@ date: 2022-05-24
 tags:
 - Clean Code
 url: /cleancodetips/tests-should-be-readable-too
-category: Clean Code Tips
+categories:
+- Clean Code Tips
 ---
 
 You surely take care of your code to make it easy to read and understand, right? RIGHT??

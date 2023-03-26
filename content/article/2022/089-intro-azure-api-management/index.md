@@ -5,7 +5,8 @@ tags:
 - Azure
 - API Gateway
 url: /blog/intro-azure-api-management
-category: Blog
+categories:
+- Blog
 ---
 
 If you're building an application that exposes several services you might not want to expose them on different hosts. Consumers will have a hard time configuring their application with all the different hostnames, and you will be forced to maintain the same URLs even if you need to move to other platforms or, for instance, you want to transform a REST endpoint into an Azure Function.

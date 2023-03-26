@@ -6,7 +6,8 @@ tags:
 - CSharp
 - MISC
 url: /blog/dotnet-conference-italia-2018
-category: Blog
+categories:
+- Blog
 ---
 
 Friday, October 26th, 2018 I attended the .NET Conference in Milan, Italy. It was an event organized by [ASP Italia](http://www.aspitalia.com "ASP Italia website"), with the sponsorship of Microsoft and [Icubed](https://icubed.it/ "Icubed website").

@@ -5,7 +5,8 @@ tags:
 - PowerShell
 - MISC
 url: /blog/powershell-basics-open-multiple-browsers
-category: Blog
+categories:
+- Blog
 ---
 
 Say that your project is already deployed on multiple environments: dev, UAT, and production; now you want to open the same page from all the environments.

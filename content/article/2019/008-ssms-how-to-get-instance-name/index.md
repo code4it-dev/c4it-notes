@@ -6,7 +6,8 @@ tags:
 - SSMS
 - DB
 url: /blog/ssms-how-to-get-instance-name
-category: Blog
+categories:
+- Blog
 ---
 
 This article is just a note for something I forget the most: my LocalDB instance names.

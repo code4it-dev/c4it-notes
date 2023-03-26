@@ -6,7 +6,8 @@ tags:
 - dotnet
 - CSharp
 url: /blog/azure-service-bus-introduction
-category: Blog
+categories:
+- Blog
 ---
 
 **Azure Service Bus is a _message broker_ that allows you to implement queues and pub-subs topics**. It is incredibly common to use queues to manage the communication between microservices: it is a simple way to send messages between applications without bind them tightly.

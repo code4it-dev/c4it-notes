@@ -5,7 +5,8 @@ tags:
 - CSharp
 - Testing
 url: /blog/check-objects-called-mocks-in-moq
-category: Blog
+categories:
+- Blog
 ---
 
 When writing unit tests, you can use Mocks to simulate the usage of class dependencies.

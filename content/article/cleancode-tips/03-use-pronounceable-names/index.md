@@ -4,7 +4,8 @@ date: 2021-07-20
 tags:
 - Clean Code
 url: /cleancodetips/use-pronounceable-names
-category: Clean Code Tips
+categories:
+- Clean Code Tips
 ---
 
 Ok, you write code. Maybe alone. But what happens when you have to talk about the code with someone else? To help clear communication, you should always use _easily pronounceable_ name.

@@ -4,7 +4,8 @@ date: 2021-08-07
 tags:
 - CSharp
 url: /csharptips/datetimekind
-category: CSharp Tips
+categories:
+- CSharp Tips
 ---
 
 One of the most common issues we face when developing applications is handling dates, times, and time zones.

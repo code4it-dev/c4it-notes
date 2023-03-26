@@ -4,7 +4,8 @@ date: 2021-09-21
 tags:
 - CSharp
 url: /csharptips/using-alias
-category: CSharp Tips
+categories:
+- CSharp Tips
 ---
 
 You may have to reference classes or services that come from different namespaces or packages, but that have the same name. It may become tricky to understand which reference refers to a specific type.

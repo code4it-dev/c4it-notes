@@ -5,7 +5,8 @@ tags:
 - CSharp
 - Tests
 url: /blog/mstests-assert-overview
-category: Blog
+categories:
+- Blog
 ---
 
 You know, **Unit Tests are our friends**. Usually skipped, often misused, but they are still with us.  

@@ -5,7 +5,8 @@ tags:
 - CSharp
 - MongoDB
 url: /blog/mongodb-introduction-with-csharp
-category: Blog
+categories:
+- Blog
 ---
 
 MongoDB is one of the most famous **document database engine** currently available.

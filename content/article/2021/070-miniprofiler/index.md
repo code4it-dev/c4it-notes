@@ -5,7 +5,8 @@ tags:
 - CSharp
 - dotnet
 url: /blog/miniprofiler
-category: Blog
+categories:
+- Blog
 ---
 
 Sometimes your project does not perform well as you would expect. Bottlenecks occur, and it can be hard to understand where and why.

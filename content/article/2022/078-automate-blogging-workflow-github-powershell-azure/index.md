@@ -4,7 +4,8 @@ date: 2022-05-03
 tags:
 - Career
 url: /blog/automate-blogging-workflow-github-powershell-azure
-category: Blog
+categories:
+- Blog
 ---
 
 This is my 100th article 🥳 To celebrate it, I want to share with you the full process I use for writing and publishing articles.

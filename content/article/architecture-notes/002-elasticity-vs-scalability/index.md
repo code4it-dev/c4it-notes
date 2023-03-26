@@ -5,7 +5,8 @@ tags:
 - Software Architecture
 - Architecture
 url: /architecture-notes/elasticity-vs-scalability
-category: Code and Architecture Notes
+categories:
+- Code and Architecture Notes
 ---
 
 Every time I hear someone talk about microservices they talk about Scalability and Elasticity.

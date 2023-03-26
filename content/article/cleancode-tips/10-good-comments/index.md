@@ -4,7 +4,8 @@ date: 2022-03-22
 tags:
 - Clean Code
 url: /cleancodetips/good-comments
-category: Clean Code Tips
+categories:
+- Clean Code Tips
 ---
 
 Many developers say that

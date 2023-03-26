@@ -4,7 +4,8 @@ date: 2022-03-15
 tags:
 - CSharp
 url: /blog/advanced-int-tryparse
-category: Blog
+categories:
+- Blog
 ---
 
 You have probably used the `int.TryParse` method with this signature:

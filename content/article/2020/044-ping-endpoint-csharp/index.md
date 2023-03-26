@@ -4,7 +4,8 @@ date: 2020-11-17
 tags:
 - CSharp
 url: /blog/ping-endpoint-csharp
-category: Blog
+categories:
+- Blog
 ---
 
 How would you know if a remote endpoint is up and running? When you use the command line, you can run the `ping` command and see the result, like this:

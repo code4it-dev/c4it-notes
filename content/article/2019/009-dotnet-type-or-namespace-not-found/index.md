@@ -4,7 +4,8 @@ date: 2019-08-26
 tags:
 - dotnet
 url: /blog/dotnet-type-or-namespace-not-found
-category: Blog
+categories:
+- Blog
 ---
 
 Something strange happened today.

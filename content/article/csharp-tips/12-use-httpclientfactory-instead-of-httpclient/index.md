@@ -4,7 +4,8 @@ date: 2022-06-07
 tags:
 - CSharp
 url: /csharptips/use-httpclientfactory-instead-of-httpclient
-category: CSharp Tips
+categories:
+- CSharp Tips
 ---
 
 ## The problem with HttpClient

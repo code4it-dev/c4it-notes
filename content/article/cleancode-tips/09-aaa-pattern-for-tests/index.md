@@ -4,7 +4,8 @@ date: 2022-02-22
 tags:
 - Clean Code
 url: /cleancodetips/aaa-pattern-for-tests
-category: Clean Code Tips
+categories:
+- Clean Code Tips
 ---
 
 Even though many developers underestimate this part, tests should be written even more clearly than production code.

@@ -4,7 +4,8 @@ date: 2022-04-19
 tags:
 - Clean Code
 url: /cleancodetips/too-many-imports
-category: Clean Code Tips
+categories:
+- Clean Code Tips
 ---
 
 Actually, this article is not about a tip to write cleaner code, but it is an article that aims at pointing out a code smell.

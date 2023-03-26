@@ -5,7 +5,8 @@ tags:
 - CSharp
 - dotnet
 url: /blog/solve-constructor-exception-with-httpclientfactory
-category: Blog
+categories:
+- Blog
 ---
 
 A few days ago I was preparing the demo for a new article. The demo included a class with an `IHttpClientFactory` service injected into the constructor. Nothing more.

@@ -5,7 +5,8 @@ tags:
 - Visual Studio
 - Tests
 url: /blog/code-coverage-vs-2019-coverlet
-category: Blog
+categories:
+- Blog
 ---
 
 Having a high code coverage percentage boosts your confidence in your code: the more thoroughly your code is tested, the lesser are the possibilities to have bugs. Of course, You'll never have a bug-free project, that's utopian. But you can work toward reducing the possible bugs by testing each and every part of your code.

@@ -4,7 +4,8 @@ date: 2021-11-16
 tags:
 - CSharp
 url: /csharptips/sorted-set
-category: CSharp Tips
+categories:
+- CSharp Tips
 ---
 
 As you probably know, you can create collections of items without duplicates by using a `HashSet<T>` object.

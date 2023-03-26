@@ -5,7 +5,8 @@ tags:
 - Clean Code
 - Performance
 url: /blog/clean-code-vs-performance
-category: Blog
+categories:
+- Blog
 ---
 
 A few weeks ago I had [a nice discussion on Twitter](https://twitter.com/vjnvisakh/status/1404843566363381766) with [Visakh Vijayan](https://twitter.com/vjnvisakh) about the importance of clean code when compared to performance.

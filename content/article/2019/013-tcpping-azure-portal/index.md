@@ -4,7 +4,8 @@ date: 2019-12-13
 tags:
 - Azure
 url: /blog/tcpping-azure-portal
-category: Blog
+categories:
+- Blog
 ---
 
 Probably you already know what **ping** is: it is a command that you can run on your terminal to see if a host is up and running.

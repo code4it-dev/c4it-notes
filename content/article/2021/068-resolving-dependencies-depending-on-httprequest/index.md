@@ -5,7 +5,8 @@ tags:
 - dotnet
 - CSharp
 url: /blog/resolving-dependencies-depending-on-httprequest
-category: Blog
+categories:
+- Blog
 ---
 
 Say that you have an interface and that you want to specify its concrete class at runtime using the native Dependency Injection engine provided by .NET.

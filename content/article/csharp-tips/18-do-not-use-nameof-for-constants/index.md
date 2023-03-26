@@ -4,7 +4,8 @@ date: 2023-01-31
 tags:
 - CSharp
 url: /csharptips/do-not-use-nameof-for-constants
-category: CSharp Tips
+categories:
+- CSharp Tips
 ---
 
 As per Microsoft's definition,

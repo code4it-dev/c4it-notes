@@ -4,7 +4,8 @@ date: 2022-11-15
 tags:
 - Clean Code
 url: /cleancodetips/coherent-levels-of-abstraction
-category: Clean Code Tips
+categories:
+- Clean Code Tips
 ---
 
 Mixed levels of abstraction make the code harder to understand.

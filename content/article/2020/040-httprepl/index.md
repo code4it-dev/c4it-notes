@@ -5,7 +5,8 @@ tags:
 - MISC
 - dotnet
 url: /blog/httprepl
-category: Blog
+categories:
+- Blog
 ---
 
 Ever wondered if it's possible to interact with some APIs using the CLI instead of writing a client or using tools like Postman or Insomnia? One of the most used tools is _cURL_, that you can use to call an endpoint via HTTP and print the result on the console. One of its limits is that you must know exactly the URL to call: you can't discover the endpoints exposed by the target API.

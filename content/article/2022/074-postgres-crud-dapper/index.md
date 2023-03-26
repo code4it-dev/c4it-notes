@@ -7,7 +7,8 @@ tags:
 - SQL
 - PostgreSQL
 url: /blog/postgres-crud-dapper
-category: Blog
+categories:
+- Blog
 ---
 
 In a [previous article](https://www.code4it.dev/blog/postgres-crud-operations-npgsql), we've seen how to perform simple CRUD operations on a Postgres database by using Npgsql, a library that allows you to write and perform queries to be executed specifically on a PostgreSQL database.

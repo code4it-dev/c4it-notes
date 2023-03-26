@@ -4,7 +4,8 @@ date: 2021-07-06
 tags:
 - CSharp
 url: /csharptips/string-isnullorempty-isnullorwhitespace
-category: CSharp Tips
+categories:
+- CSharp Tips
 ---
 
 Imagine this: you have created a method that creates a new user in your system, like this:

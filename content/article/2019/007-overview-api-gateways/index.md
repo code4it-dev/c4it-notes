@@ -5,7 +5,8 @@ tags:
 - API Gateway
 - Ocelot
 url: /blog/overview-api-gateways
-category: Blog
+categories:
+- Blog
 ---
 
 When creating complex systems, it is important to have the possibility to develop the functionalities in a simple way but expose those functionalities in a coherent way.

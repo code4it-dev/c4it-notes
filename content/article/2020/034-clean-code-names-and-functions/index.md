@@ -4,7 +4,8 @@ date: 2020-07-21
 tags:
 - Clean Code
 url: /blog/clean-code-names-and-functions
-category: Blog
+categories:
+- Blog
 ---
 
 A few days ago I started (re)reading [Clean Code by Robert Martin](https://www.amazon.it/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882 "Clean Code by Uncle Bob"). It's a fundamental book for programmers, so it worth reading it every once in a while.

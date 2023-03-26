@@ -5,7 +5,8 @@ tags:
 - dotNET
 - npm
 url: /blog/conventional-commit-with-githooks
-category: Blog
+categories:
+- Blog
 ---
 
 Setting teams conventions is a crucial step to have the project prepared to live long and prosper 🖖

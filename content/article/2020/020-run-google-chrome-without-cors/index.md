@@ -4,7 +4,8 @@ date: 2020-03-24
 tags:
 - MISC
 url: /blog/run-google-chrome-without-cors
-category: Blog
+categories:
+- Blog
 ---
 
 A few days ago I came across a problem: while developing a page I was integrating some external APIs. Those APIs were misconfigured, so running the application on localhost brought me a CORS error.

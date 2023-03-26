@@ -6,7 +6,8 @@ tags:
 - dotnet
 - YouTube
 url: /blog/csharp-extension-methods
-category: Blog
+categories:
+- Blog
 ---
 
 Let's say that you have a YouTube channel. Now, you want to list all the videos that you uploaded, and you are really strong in .NET Core 3.

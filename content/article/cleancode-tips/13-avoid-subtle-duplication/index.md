@@ -4,7 +4,8 @@ date: 2022-06-28
 tags:
 - Clean Code
 url: /cleancodetips/avoid-subtle-duplication
-category: Clean Code Tips
+categories:
+- Clean Code Tips
 ---
 
 Duplication is not only about lines of code, but also about **data usage and meaning.**

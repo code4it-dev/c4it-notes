@@ -5,7 +5,8 @@ tags:
 - Tests
 - dotnet
 url: /blog/moq-vs-nsubstitute-syntax
-category: Blog
+categories:
+- Blog
 ---
 
 When writing Unit Tests, you usually want to mock dependencies. In this way, you can define the behavior of those dependencies, and have full control of the system under test.

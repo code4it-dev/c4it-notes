@@ -6,7 +6,8 @@ tags:
 - Node.js
 - NPM
 url: /blog/angular-vs-npm-vs-nodejs
-category: Blog
+categories:
+- Blog
 ---
 
 There's a lot of confusion about Node.js, NPM, and Angular. These 3 "entities" are often used together, especially for Angular applications, but they are not the same thing.

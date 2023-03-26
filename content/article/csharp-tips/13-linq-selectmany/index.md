@@ -4,7 +4,8 @@ date: 2022-07-12
 tags:
 - CSharp
 url: /csharptips/linq-selectmany
-category: CSharp Tips
+categories:
+- CSharp Tips
 ---
 
 There's one LINQ method that I always struggle in understanding: SelectMany.

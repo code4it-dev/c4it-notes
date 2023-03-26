@@ -5,7 +5,8 @@ tags:
 - Software Architecture
 - Architecture
 url: /architecture-notes/caching-strategies
-category: Code and Architecture Notes
+categories:
+- Code and Architecture Notes
 ---
 
 As you surely know, _caching_ is a technique that allows you to store data in a way that is incredibly efficient to access.

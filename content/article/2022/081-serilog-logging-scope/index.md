@@ -5,7 +5,8 @@ tags:
 - dotnet
 - CSharp
 url: /blog/serilog-logging-scope
-category: Blog
+categories:
+- Blog
 ---
 
 Even though it's not one of the first things we usually set up when creating a new application, logging is a real game-changer in the long run.

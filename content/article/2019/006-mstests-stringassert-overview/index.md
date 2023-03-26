@@ -5,7 +5,8 @@ tags:
 - CSharp
 - Tests
 url: /blog/mstests-stringassert-overview
-category: Blog
+categories:
+- Blog
 ---
 
 This is the second part of our journey through the Unit Test classes provided with VisualStudio. We [already had a look](./mstests-assert-overview "My previous article about the Assert class") at the `Assert` class, where had a glimpse of its methods. Now we'll have a look at the **StringAssert** class, that, as you can imagine, provides some useful methods for string evaluation.

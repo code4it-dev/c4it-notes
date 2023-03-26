@@ -4,7 +4,8 @@ date: 2020-01-21
 tags:
 - CSharp
 url: /blog/5-things-about-guid-in-csharp
-category: Blog
+categories:
+- Blog
 ---
 
 I'm pretty sure that you've already used Guids in C#, but have you ever stopped to think what they are under the hood?

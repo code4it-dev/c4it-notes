@@ -5,7 +5,8 @@ tags:
 - CSharp
 - dotnet
 url: /blog/csharp-sorting-mistake
-category: Blog
+categories:
+- Blog
 ---
 
 Recently I've learned a _funny_ (ehm...) thing.

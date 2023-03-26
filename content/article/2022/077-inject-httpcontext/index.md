@@ -5,7 +5,8 @@ tags:
 - dotnet
 - CSharp
 url: /blog/inject-httpcontext
-category: Blog
+categories:
+- Blog
 ---
 
 If you are building an application that is exposed on the Web, you will probably need to read some data from the current HTTP Request or set some values on the HTTP Response.

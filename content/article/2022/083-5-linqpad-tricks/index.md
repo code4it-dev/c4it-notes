@@ -5,7 +5,8 @@ tags:
 - dotnet
 - CSharp
 url: /blog/5-linqpad-tricks
-category: Blog
+categories:
+- Blog
 ---
 
 LINQPad is one of my best friends: I use it daily, and it helps me A LOT when I need to run some throwaway code.

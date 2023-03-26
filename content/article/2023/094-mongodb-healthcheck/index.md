@@ -5,7 +5,8 @@ tags:
 - dotNET
 - MongoDB
 url: /blog/mongodb-healthcheck
-category: Blog
+categories:
+- Blog
 ---
 
 In any complex system, you have to deal with external dependencies.

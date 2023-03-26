@@ -4,7 +4,8 @@ date: 2022-02-08
 tags:
 - CSharp
 url: /csharptips/exception-handling-when-clause
-category: CSharp Tips
+categories:
+- CSharp Tips
 ---
 
 From C# 6 on, you can use the `when` keyword to specify a condition before handling an exception.

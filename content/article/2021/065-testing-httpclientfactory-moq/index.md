@@ -5,7 +5,8 @@ tags:
 - CSharp
 - Testing
 url: /blog/testing-httpclientfactory-moq
-category: Blog
+categories:
+- Blog
 ---
 
 When working on any .NET application, one of the most common things you'll see is using dependency injection to inject an `IHttpClientFactory` instance into the constructor of a service. And, of course, you _should_ test that service. To write good unit tests, it is a good practice to mock the dependencies to have full control over their behavior. A well-known library to mock dependencies is **Moq**; integrating it is pretty simple: if you have to mock a dependency of type `IMyService`, you can create mocks of it by using `Mock<IMyService>`.

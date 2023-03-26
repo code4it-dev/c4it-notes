@@ -6,7 +6,8 @@ tags:
 - dotnet
 - Programming
 url: /blog/30articlesfornovember-a-recap
-category: Blog
+categories:
+- Blog
 ---
 
 For this November I decided to share each day an article on Twitter.

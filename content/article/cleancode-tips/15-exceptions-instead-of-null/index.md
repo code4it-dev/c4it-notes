@@ -4,7 +4,8 @@ date: 2022-09-27
 tags:
 - Clean Code
 url: /cleancodetips/exceptions-instead-of-null
-category: Clean Code Tips
+categories:
+- Clean Code Tips
 ---
 
 **When you don't have any fallback** operation to manage null values (eg: retry pattern), you should throw an exception instead of returning null.

@@ -4,7 +4,8 @@ date: 2023-02-14
 tags:
 - CSharp
 url: /csharptips/list-pattern
-category: CSharp Tips
+categories:
+- CSharp Tips
 ---
 
 With C# 11 we have an interesting new feature: **list patterns**.

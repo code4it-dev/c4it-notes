@@ -5,7 +5,8 @@ tags:
 - CSharp
 - dotnet
 url: /blog/how-to-set-configurations-values-dotnet
-category: Blog
+categories:
+- Blog
 ---
 
 Needless to say, almost every application needs to deal with some configurations. There are tons of use cases, and you already have some of them in mind, don't you?

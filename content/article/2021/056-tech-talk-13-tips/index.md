@@ -5,7 +5,8 @@ tags:
 - Talks
 - Career
 url: /blog/tech-talk-13-tips
-category: Blog
+categories:
+- Blog
 ---
 
 I love to deliver tech talks: they help me improve both my technical and communication skills.

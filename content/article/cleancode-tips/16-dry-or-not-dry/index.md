@@ -4,7 +4,8 @@ date: 2022-10-11
 tags:
 - Clean Code
 url: /cleancodetips/dry-or-not-dry
-category: Clean Code Tips
+categories:
+- Clean Code Tips
 ---
 
 You've probably heard about the **DRY principle: Don't Repeat Yourself**.

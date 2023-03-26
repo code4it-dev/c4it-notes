@@ -4,7 +4,8 @@ date: 2020-10-20
 tags:
 - Clean Code
 url: /blog/clean-code-abstraction-and-objects
-category: Blog
+categories:
+- Blog
 ---
 
 This is the third part of my series of tips about clean code.

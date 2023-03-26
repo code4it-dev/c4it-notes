@@ -4,7 +4,8 @@ date: 2021-12-14
 tags:
 - CSharp
 url: /csharptips/yield-return
-category: CSharp Tips
+categories:
+- CSharp Tips
 ---
 
 To me, `yield return` has always been one of the most difficult things to understand.

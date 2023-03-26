@@ -4,7 +4,8 @@ date: 2022-04-05
 tags:
 - CSharp
 url: /csharptips/debug-assert
-category: CSharp Tips
+categories:
+- CSharp Tips
 ---
 
 Sometimes, while debugging, you want to check if the state of your code is still valid, or, at least, it corresponds to some expectations.

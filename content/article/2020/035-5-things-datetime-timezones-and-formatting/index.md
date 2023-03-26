@@ -4,7 +4,8 @@ date: 2020-07-28
 tags:
 - CSharp
 url: /blog/5-things-datetime-timezones-and-formatting
-category: Blog
+categories:
+- Blog
 ---
 
 Working with dates, if not done carefully, can bring to bugs that can impact your systems. You must always take care of time zones and use the best formatting practices, or else you'll get some trouble.

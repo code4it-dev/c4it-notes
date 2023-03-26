@@ -5,7 +5,8 @@ tags:
 - CSharp
 - Tests
 url: /blog/inject-and-test-datetime-dependency
-category: Blog
+categories:
+- Blog
 ---
 
 Testing static properties can be tough. Even more when you don't have full control over them. So, what to do?

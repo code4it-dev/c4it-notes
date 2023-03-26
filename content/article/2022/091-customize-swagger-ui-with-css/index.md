@@ -4,7 +4,8 @@ date: 2022-12-16
 tags:
 - dotNET
 url: /blog/customize-swagger-ui-with-css
-category: Blog
+categories:
+- Blog
 ---
 
 Brace yourself, Christmas is coming! 🎅

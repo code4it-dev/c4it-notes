@@ -4,7 +4,8 @@ date: 2021-11-23
 tags:
 - CSharp
 url: /blog/parse-jsonlines
-category: Blog
+categories:
+- Blog
 ---
 
 For sure, you already know JSON: it's one of the most commonly used formats to share data as text.

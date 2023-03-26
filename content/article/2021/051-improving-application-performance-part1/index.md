@@ -6,7 +6,8 @@ tags:
 - dotnet
 - CSharp
 url: /blog/improving-application-performance-part1
-category: Blog
+categories:
+- Blog
 ---
 
 A few weeks ago I was tasked to improve the performance of an API project that was really, _really_ slow.

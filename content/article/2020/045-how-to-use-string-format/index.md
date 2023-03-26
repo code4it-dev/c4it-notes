@@ -4,7 +4,8 @@ date: 2020-12-01
 tags:
 - CSharp
 url: /blog/how-to-use-string-format
-category: Blog
+categories:
+- Blog
 ---
 
 Formatting strings is one of the basic operations we do in our day-by-day job. Many times we create methods to provide specific formatting for our data, but not always we want to implement additional methods for every type of formatting we need - too many similar methods will clutter our code.

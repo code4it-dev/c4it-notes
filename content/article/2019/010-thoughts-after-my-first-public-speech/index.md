@@ -5,7 +5,8 @@ tags:
 - Talks
 - Career
 url: /blog/thoughts-after-my-first-public-speech
-category: Blog
+categories:
+- Blog
 ---
 
 Days ago I had my first speech.
