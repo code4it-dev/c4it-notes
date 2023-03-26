@@ -1,5 +1,5 @@
-title = "My cool new Blog"
-baseURL = "https://example.com/"
+title = "Code4IT"
+baseURL = "https://www.code4it.dev/"
 
 # Option 1 (recommended): adding the theme as a Hugo module
 theme = "github.com/Lednerb/bilberry-hugo-theme/v3"
@@ -28,8 +28,8 @@ disqusShortname = ""
   js_modules = []
 
   # Description and meta data for the search engines
-  author = "Lednerb"
-  description = "Bilberry Premium Theme for Hugo."
+  author = "Davide Bellone"
+  description = "Code4IT - a blog for dotnet developers"
   keywords = "blog,personal,responsive,search,font awesome,pages,posts,multilingual,highlight.js,syntax highlighting,premium,shortcuts"
 
   # How many articles should be displayed at once?
@@ -64,9 +64,9 @@ disqusShortname = ""
   giscusCrossOrigin  = "anonymous"
 
   # Enable / Disable Utterances comments
-  utterances            = false
+  utterances            = true
   utterancesJsUrl       = "https://utteranc.es/client.js"
-  utterancesRepository  = "[ENTER REPO HERE]"
+  utterancesRepository  = "https://github.com/code4it-dev/blog-comments"
   utterancesIssueTerm   = "pathname"
   utterancesLabel       = "Comment"
   utterancesTheme       = "github-light"
@@ -80,10 +80,10 @@ disqusShortname = ""
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "Hello World! This is the most epic subtitle ever."
+    subtitle = "Code4IT - the place for .NET developers, Azure lovers, and everyone else."
 
     # if you want to use libravatar or gravatar for the header image
-    avatarEmail = "code@lednerb.de"
+    avatarEmail = ""
 
     # set an path to the image file you want to use | overwrites avatar by email
     customImage = ""
@@ -120,7 +120,7 @@ disqusShortname = ""
     dateFormat = "2006-01-02"
 
     # display the estimated reading time for an article
-    showReadingTime = false
+    showReadingTime = true
 
     # Minimum word count to display the Table of Contents
     tocMinWordCount = 400
@@ -137,7 +137,7 @@ disqusShortname = ""
     amountCategoriesInFooter = 7
 
     # show a language chooser in the footer
-    showFooterLanguageChooser = true
+    showFooterLanguageChooser = false
 
     # social media profile urls for the footer links
     showSocialMedia = true
@@ -146,8 +146,10 @@ disqusShortname = ""
     # all icons https://fontawesome.com/icons?d=gallery&m=free
     # brand icons https://fontawesome.com/icons?d=gallery&s=brands&m=free
     socialMediaLinks = [
-      { link = "https://twitter.com/TheRealLednerb", icon = "fab fa-twitter", rel = "me" },
-      { link = "https://github.com/Lednerb", icon = "fab fa-github" },
+      { link = "https://twitter.com/BelloneDavide", icon = "fab fa-twitter", rel = "me" },
+      { link = "https://www.linkedin.com/in/bellonedavide/", icon = "fab fa-linkedin", rel = "me" },
+      { link = "https://github.com/code4it-dev", icon = "fab fa-github" },
+      { link = "https://sessionize.com/davide-bellone/", icon = "fab fa-chalkboard-user", rel = "me" },
     ]
 
     # show an archive link in the footer
@@ -157,10 +159,10 @@ disqusShortname = ""
     archiveDateGrouping = "2006-01"
 
     # credits line configuration
-    copyrightBy = "by Lednerb"
+    copyrightBy = "by Davide Bellone"
     copyrightUseCurrentYear = true  # set to true to always display the current year in the copyright
     copyrightYearOverride = "2017"
-    copyrightUrl = "https://github.com/Lednerb"
+    copyrightUrl = "https://github.com/bellons91"
     creditsText = "Bilberry Hugo Theme"
     creditsUrl = "https://github.com/Lednerb/bilberry-hugo-theme"
 
@@ -170,10 +172,6 @@ disqusShortname = ""
 [Languages]
   [Languages.en]
     weight = 1
-  [Languages.de]
-    weight = 2
-    title = "Mein cooler neuer Blog"
-    subtitle = "Hallo Welt! Dies ist der epischste Untertitel aller Zeiten."
 
 [markup]
   defaultMarkdownHandler = 'goldmark'
