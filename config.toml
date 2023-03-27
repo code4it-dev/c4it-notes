@@ -14,7 +14,7 @@ enableRobotsTXT = true
 DefaultContentLanguage = "en"
 
 # Enable / Disable Google Analytics statistics for your site
-googleAnalytics = ""
+googleAnalytics = "G-M4Y3LG306F"
 
 # Enable / Disable comments on the articles via Disqus.
 disqusShortname = ""
@@ -92,14 +92,14 @@ disqusShortname = ""
     overlayIcon = "fa-home"
 
     # always display the top navigation (with pages and search) on non-mobile screens
-    permanentTopNav = false
+    permanentTopNav = true
 
     # always display the top navigation when scrolling
     # works only with permanentTopNav = true
     stickyNav = false
 
     # show a language chooser in the header
-    showHeaderLanguageChooser = true
+    showHeaderLanguageChooser = false
 
   # Content configuration
     # Enable an optional pinned page to display at the top of the index
@@ -148,8 +148,8 @@ disqusShortname = ""
     socialMediaLinks = [
       { link = "https://twitter.com/BelloneDavide", icon = "fab fa-twitter", rel = "me" },
       { link = "https://www.linkedin.com/in/bellonedavide/", icon = "fab fa-linkedin", rel = "me" },
+      { link = "https://sessionize.com/davide-bellone/", icon = "fas fa-chalkboard-teacher", rel = "me" },
       { link = "https://github.com/code4it-dev", icon = "fab fa-github" },
-      { link = "https://sessionize.com/davide-bellone/", icon = "fab fa-chalkboard-user", rel = "me" },
     ]
 
     # show an archive link in the footer
