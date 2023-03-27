@@ -7,7 +7,7 @@ tags:
 url: /blog/mongodb-healthcheck
 categories:
 - Blog
-toc: true
+summary: Health Checks are fundamental to keep track of the health of a system. How can we check if MongoDB is healthy?
 ---
 
 In any complex system, you have to deal with external dependencies.

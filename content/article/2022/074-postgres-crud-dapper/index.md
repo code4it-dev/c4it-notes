@@ -9,7 +9,7 @@ tags:
 url: /blog/postgres-crud-dapper
 categories:
 - Blog
-toc: true
+summary: Mapping every SQL result to a data type can be a pain. To simplify our life, we can use an ORM like Dapper to automatically map the data.
 ---
 
 In a [previous article](https://www.code4it.dev/blog/postgres-crud-operations-npgsql), we've seen how to perform simple CRUD operations on a Postgres database by using Npgsql, a library that allows you to write and perform queries to be executed specifically on a PostgreSQL database.

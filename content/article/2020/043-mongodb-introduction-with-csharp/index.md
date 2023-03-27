@@ -7,7 +7,7 @@ tags:
 url: /blog/mongodb-introduction-with-csharp
 categories:
 - Blog
-toc: true
+summary: MongoDB is a database based on JSON-like documents, but it can be queried using C#. We'll see how to perform CRUD operations and we'll create some advanced queries.
 ---
 
 MongoDB is one of the most famous **document database engine** currently available.

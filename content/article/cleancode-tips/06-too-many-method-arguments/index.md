@@ -6,7 +6,7 @@ tags:
 url: /cleancodetips/too-many-method-arguments
 categories:
 - Clean Code Tips
-toc: true
+summary: When a function has too many parameters, it's clear that something is wrong. But... why? What are the consequences of having too many parameters?
 ---
 
 Many times, we tend to add too many parameters to a function. But that's not the best idea: on the contrary, when a function requires too many arguments, grouping them into coherent objects helps writing simpler code.

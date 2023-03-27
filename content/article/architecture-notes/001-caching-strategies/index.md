@@ -7,7 +7,7 @@ tags:
 url: /architecture-notes/caching-strategies
 categories:
 - Code and Architecture Notes
-toc: true
+summary: "Cache-aside, Read-through, Write-through, Write-behind: quite easy on the surface, but let's go a little deeper!"
 ---
 
 As you surely know, _caching_ is a technique that allows you to store data in a way that is incredibly efficient to access.

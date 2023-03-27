@@ -6,7 +6,7 @@ tags:
 url: /cleancodetips/good-comments
 categories:
 - Clean Code Tips
-toc: true
+summary: "Is it true that we should always avoid comments in our code? In my opinion, no: let's see when adding comments is not only good but necessary."
 ---
 
 Many developers say that

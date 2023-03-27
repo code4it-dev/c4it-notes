@@ -9,7 +9,7 @@ tags:
 url: /blog/postgres-crud-operations-npgsql
 categories:
 - Blog
-toc: true
+summary: Once we have a Postgres instance running, we can perform operations on it. We will use Npgsql to query a Postgres instance with C#
 ---
 
 PostgreSQL is one of the most famous relational databases. It has got tons of features, and it is open source.

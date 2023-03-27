@@ -6,7 +6,7 @@ tags:
 url: /csharptips/linq-selectmany
 categories:
 - CSharp Tips
-toc: true
+summary: SelectMany is one of the LINQ methods I've used the least. I couldn't get it! Turns out it was actually incredibly simple.
 ---
 
 There's one LINQ method that I always struggle in understanding: SelectMany.

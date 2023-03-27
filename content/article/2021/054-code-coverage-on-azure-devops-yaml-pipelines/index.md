@@ -7,7 +7,7 @@ tags:
 url: /blog/code-coverage-on-azure-devops-yaml-pipelines
 categories:
 - Blog
-toc: true
+summary: Code coverage is a good indicator of the health of your projects. We'll see how to show Cobertura reports associated to your builds on Azure DevOps and how to display the progress on Dashboard.
 ---
 
 Code coverage is a good indicator of the health of your project: the more your project is covered by tests, the lesser are the probabilities that you have easy-to-find bugs in it.

@@ -6,7 +6,7 @@ tags:
 url: /blog/5-things-enums-csharp
 categories:
 - Blog
-toc: true
+summary: "Enums are often used with C#. Boring, right? Maybe there is something you didn't know: casting, parsing and flagged enums."
 ---
 
 Enums are really useful if you want to, well, enumerate the possible values for a field. An example of enumeration is the list of movie genres:

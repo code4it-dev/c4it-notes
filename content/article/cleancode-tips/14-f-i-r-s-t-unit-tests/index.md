@@ -6,7 +6,7 @@ tags:
 url: /cleancodetips/f-i-r-s-t-unit-tests
 categories:
 - Clean Code Tips
-toc: true
+summary: 'Good unit tests have some properties in common: they are Fast, Independent, Repeatable, Self-validating, and Thorough. In a word: FIRST!'
 ---
 
 **FIRST** is an acronym that you should always remember if you want to write clean and extensible tests.

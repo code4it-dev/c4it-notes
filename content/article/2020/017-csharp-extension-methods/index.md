@@ -7,7 +7,7 @@ tags:
 url: /blog/csharp-extension-methods
 categories:
 - Blog
-toc: true
+summary: Extension methods in C# are really useful, but there are few rules to follow...
 ---
 
 Probably you have already heard of **extension methods**: those are C# methods used to add new functionalities to an existing class.

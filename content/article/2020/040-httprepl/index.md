@@ -7,7 +7,7 @@ tags:
 url: /blog/httprepl
 categories:
 - Blog
-toc: true
+summary: With HttpRepl you can perform HTTP operations as they were local folders, using the CLI. Let's see how to configure it and run GET and POST operations.
 ---
 
 Ever wondered if it's possible to interact with some APIs using the CLI instead of writing a client or using tools like Postman or Insomnia? One of the most used tools is _cURL_, that you can use to call an endpoint via HTTP and print the result on the console. One of its limits is that you must know exactly the URL to call: you can't discover the endpoints exposed by the target API.

@@ -6,7 +6,7 @@ tags:
 url: /csharptips/profile-code-with-miniprofiler
 categories:
 - CSharp Tips
-toc: true
+summary: Miniprofiler is a nice tool to profile your code in a smart way.
 ---
 
 Do you need to tune up the performance of your code? You can create some StopWatch objects and store the execution times or rely on external libraries like **MiniProfiler**.

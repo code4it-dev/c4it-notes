@@ -7,7 +7,7 @@ tags:
 url: /blog/powershell-basics-open-multiple-browsers
 categories:
 - Blog
-toc: true
+summary: Revise PowerShell basics with a simple script that opens a browser for each specified URL. We're gonna cover how to declare variables, define arrays, concatenate strings and run CMD commands.
 ---
 
 Say that your project is already deployed on multiple environments: dev, UAT, and production; now you want to open the same page from all the environments.

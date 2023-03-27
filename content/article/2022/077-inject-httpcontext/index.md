@@ -7,7 +7,7 @@ tags:
 url: /blog/inject-httpcontext
 categories:
 - Blog
-toc: true
+summary: If your application is exposed on the Web, I guess that you get some values from the HTTP Requests, don't you?
 ---
 
 If you are building an application that is exposed on the Web, you will probably need to read some data from the current HTTP Request or set some values on the HTTP Response.

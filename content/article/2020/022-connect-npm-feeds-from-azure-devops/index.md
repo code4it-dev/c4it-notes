@@ -7,7 +7,7 @@ tags:
 url: /blog/connect-npm-feeds-from-azure-devops
 categories:
 - Blog
-toc: true
+summary: Azure DevOps, among its capabilities, allows you to store NPM packages in their system. Here we'll see how to connect to an NPM feed and how to solve the 401-unauthorized error.
 ---
 
 I use Azure DevOps to store some npm packages for my projects. As you may know, Azure DevOps has a section called _Artifacts_ that allows you to store and distribute packages from NuGet, npm, Maven and so on.

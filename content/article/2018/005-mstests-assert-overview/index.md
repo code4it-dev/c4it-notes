@@ -7,7 +7,7 @@ tags:
 url: /blog/mstests-assert-overview
 categories:
 - Blog
-toc: true
+summary: The Assert class is the first step you'll probably take into unit testing. But do you know that there's more than the IsTrue() method?
 ---
 
 You know, **Unit Tests are our friends**. Usually skipped, often misused, but they are still with us.  

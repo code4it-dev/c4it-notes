@@ -6,7 +6,7 @@ tags:
 url: /blog/ping-endpoint-csharp
 categories:
 - Blog
-toc: true
+summary: How to effectively ping an endpoint in C#? Don't use the HttpClient, when .NET provides a Ping class to perform all these operations.
 ---
 
 How would you know if a remote endpoint is up and running? When you use the command line, you can run the `ping` command and see the result, like this:

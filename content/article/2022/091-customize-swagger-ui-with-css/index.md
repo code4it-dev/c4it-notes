@@ -6,7 +6,7 @@ tags:
 url: /blog/customize-swagger-ui-with-css
 categories:
 - Blog
-toc: true
+summary: "Exposing Swagger UI is a good way to help developers consume your APIs. But don't be boring: customize your UI with some fancy CSS"
 ---
 
 Brace yourself, Christmas is coming! 🎅

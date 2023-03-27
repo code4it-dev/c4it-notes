@@ -6,7 +6,7 @@ tags:
 url: /blog/serilog-log-on-console
 categories:
 - Blog
-toc: true
+summary: Serilog is a famous logger for .NET projects. In this article, we will learn how to integrate it in a .NET API project and output the logs on a Console.
 ---
 
 Having meaningful logs is crucial for any application: without logs, we would not be able to see if errors occur, what's the status of the application, if there are strange behaviors that should worry us, and so on.

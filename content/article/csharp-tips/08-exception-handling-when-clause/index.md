@@ -6,7 +6,7 @@ tags:
 url: /csharptips/exception-handling-when-clause
 categories:
 - CSharp Tips
-toc: true
+summary: Instead of using if-else or switch blocks to handle exceptions, you can do it gracefully using the 'when' keyword.
 ---
 
 From C# 6 on, you can use the `when` keyword to specify a condition before handling an exception.

@@ -8,7 +8,7 @@ tags:
 url: /blog/integration-tests-for-dotnet-api
 categories:
 - Blog
-toc: true
+summary: Integration tests are useful to check if multiple components fit together well. How can you test your APIs? And how can you mock dependencies?
 ---
 
 You already write Unit tests, right?

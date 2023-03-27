@@ -6,7 +6,7 @@ tags:
 url: /csharptips/string-isnullorempty-isnullorwhitespace
 categories:
 - CSharp Tips
-toc: true
+summary: Is your string really empty, or has it hidden characters? With String.IsNullOrEmpty and String.IsNullOrWhiteSpace you can find it
 ---
 
 Imagine this: you have created a method that creates a new user in your system, like this:

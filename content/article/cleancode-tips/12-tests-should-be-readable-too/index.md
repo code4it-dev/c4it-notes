@@ -6,7 +6,7 @@ tags:
 url: /cleancodetips/tests-should-be-readable-too
 categories:
 - Clean Code Tips
-toc: true
+summary: Should you write your tests with the same care you write the production code? Of course you should! But what does it mean?
 ---
 
 You surely take care of your code to make it easy to read and understand, right? RIGHT??

@@ -8,7 +8,7 @@ tags:
 url: /blog/get-youtube-video-details-dotnet
 categories:
 - Blog
-toc: true
+summary: We have already seen how to search for videos in a YouTube channel. Now it's time to get details for a single video.
 ---
 
 I have already talked about how to retrieve a list of YouTube videos by its channel ID.

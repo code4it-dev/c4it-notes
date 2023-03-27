@@ -6,7 +6,7 @@ tags:
 url: /blog/5-things-about-guid-in-csharp
 categories:
 - Blog
-toc: true
+summary: I'm pretty sure that you've already used Guids in C#, but have you ever stopped to think what they are under the hood?an 3 seconds to load. Here you'll learn few trick to improve your site performance.
 ---
 
 I'm pretty sure that you've already used Guids in C#, but have you ever stopped to think what they are under the hood?

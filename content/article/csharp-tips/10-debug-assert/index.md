@@ -6,7 +6,7 @@ tags:
 url: /csharptips/debug-assert
 categories:
 - CSharp Tips
-toc: true
+summary: It would be great if we could break the debugging flow if a condition is (not) met. Can we? Of course!
 ---
 
 Sometimes, while debugging, you want to check if the state of your code is still valid, or, at least, it corresponds to some expectations.

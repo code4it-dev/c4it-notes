@@ -8,7 +8,7 @@ tags:
 url: /blog/run-postgresql-with-docker
 categories:
 - Blog
-toc: true
+summary: PostgreSQL is a famous relational database. In this article, we will learn how to run it locally using Docker.
 ---
 
 PostgreSQL is a relational database characterized for being open source and with a growing community supporting the project.

@@ -7,7 +7,7 @@ tags:
 url: /blog/dependency-injection-lifetimes
 categories:
 - Blog
-toc: true
+summary: 'Singleton, Scoped and Transient: these are the possible lifetimes for DI with .NET Core. How do they change the way objects are constructed?'
 ---
 
 I'm pretty sure you already know what is Dependency Injection (shortened to DI) and why you should implement it in your applications.

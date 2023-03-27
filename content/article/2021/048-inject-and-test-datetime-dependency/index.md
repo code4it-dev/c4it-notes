@@ -7,7 +7,7 @@ tags:
 url: /blog/inject-and-test-datetime-dependency
 categories:
 - Blog
-toc: true
+summary: DateTime, Guid, and Random values are not under your direct control. You should abstract them to write better code and testing. We'll see 3 ways to inject and test them in .NET Core projects.
 ---
 
 Testing static properties can be tough. Even more when you don't have full control over them. So, what to do?

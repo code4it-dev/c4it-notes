@@ -6,7 +6,7 @@ tags:
 url: /csharptips/yield-return
 categories:
 - CSharp Tips
-toc: true
+summary: 'Yield is a keyword that allows you to return an item at the time instead of creating a full list and returning it as a whole. '
 ---
 
 To me, `yield return` has always been one of the most difficult things to understand.

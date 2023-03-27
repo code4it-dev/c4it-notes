@@ -6,7 +6,7 @@ tags:
 url: /blog/my-2-secret-endpoints
 categories:
 - Blog
-toc: true
+summary: In this article, I will show you two simple tricks that help me understand the deployment status of my .NET APIs
 ---
 
 When I create Web APIs with .NET I usually add two "secret" endpoints that I can use to double-check the status of the deployment.

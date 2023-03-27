@@ -8,7 +8,7 @@ tags:
 url: /blog/debuggerdisplay-attribute
 categories:
 - Blog
-toc: true
+summary: Debugging our .NET applications can be cumbersome. With the DebuggerDisplay attribute we can simplify it by displaying custom messages.
 ---
 
 Picture this: you are debugging a .NET application, and you need to retrieve a list of objects. To make sure that the items are as you expect, you need to look at the content of each item.

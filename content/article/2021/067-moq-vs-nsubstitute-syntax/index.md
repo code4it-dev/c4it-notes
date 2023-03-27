@@ -7,7 +7,7 @@ tags:
 url: /blog/moq-vs-nsubstitute-syntax
 categories:
 - Blog
-toc: true
+summary: Moq and NSubstitute are two of the most used library to mock dependencies on your Unit Tests. How do they differ? How can we move from one library to the other?
 ---
 
 When writing Unit Tests, you usually want to mock dependencies. In this way, you can define the behavior of those dependencies, and have full control of the system under test.

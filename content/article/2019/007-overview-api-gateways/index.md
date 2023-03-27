@@ -7,7 +7,7 @@ tags:
 url: /blog/overview-api-gateways
 categories:
 - Blog
-toc: true
+summary: API Gateways can help you create microservices and micro frontends, and expose rich APIs to your customers while keeping things simple on your company.
 ---
 
 When creating complex systems, it is important to have the possibility to develop the functionalities in a simple way but expose those functionalities in a coherent way.

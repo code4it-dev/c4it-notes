@@ -6,7 +6,7 @@ tags:
 url: /cleancodetips/dry-or-not-dry
 categories:
 - Clean Code Tips
-toc: true
+summary: DRY is a fundamental principle in software development. Should you apply it blindly?
 ---
 
 You've probably heard about the **DRY principle: Don't Repeat Yourself**.

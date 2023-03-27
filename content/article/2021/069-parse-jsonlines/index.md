@@ -6,7 +6,7 @@ tags:
 url: /blog/parse-jsonlines
 categories:
 - Blog
-toc: true
+summary: "JSONL is JSON's less famous sibling: it allows you to store JSON objects separating them with new line. We will learn how to parse a JSONL string with C#."
 ---
 
 For sure, you already know JSON: it's one of the most commonly used formats to share data as text.

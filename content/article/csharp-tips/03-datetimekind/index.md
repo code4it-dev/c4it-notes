@@ -6,7 +6,7 @@ tags:
 url: /csharptips/datetimekind
 categories:
 - CSharp Tips
-toc: true
+summary: Creating simple DateTimes creates issues when handling timezones. You can solve some issues by using DateTimeKind
 ---
 
 One of the most common issues we face when developing applications is handling dates, times, and time zones.

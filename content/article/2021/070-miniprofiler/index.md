@@ -7,7 +7,7 @@ tags:
 url: /blog/miniprofiler
 categories:
 - Blog
-toc: true
+summary: Is your application slow? How to find bottlenecks? If so, you can use MiniProfiler to profile a .NET API application and analyze the timings of the different operations.
 ---
 
 Sometimes your project does not perform well as you would expect. Bottlenecks occur, and it can be hard to understand where and why.

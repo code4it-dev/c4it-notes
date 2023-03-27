@@ -7,7 +7,7 @@ tags:
 url: /blog/solve-constructor-exception-with-httpclientfactory
 categories:
 - Blog
-toc: true
+summary: A suitable constructor for type 'X' could not be located. What a strange error message! Luckily it's easy to solve.
 ---
 
 A few days ago I was preparing the demo for a new article. The demo included a class with an `IHttpClientFactory` service injected into the constructor. Nothing more.

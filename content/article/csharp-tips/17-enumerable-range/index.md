@@ -6,7 +6,7 @@ tags:
 url: /csharptips/enumerable-range
 categories:
 - CSharp Tips
-toc: true
+summary: 'If you need a sequence of numbers, you can pick two ways: use a While loop, or use Enumerable.Range'
 ---
 
 When you need to generate a sequence of numbers in ascending order, you can just use a `while` loop with an enumerator, or you can use `Enumerable.Range`.

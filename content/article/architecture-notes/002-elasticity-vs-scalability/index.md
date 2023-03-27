@@ -7,7 +7,7 @@ tags:
 url: /architecture-notes/elasticity-vs-scalability
 categories:
 - Code and Architecture Notes
-toc: true
+summary: 'Elasticity and Scalability: two important Architectural attributes, similar but quite different'
 ---
 
 Every time I hear someone talk about microservices they talk about Scalability and Elasticity.

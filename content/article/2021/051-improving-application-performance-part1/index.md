@@ -8,7 +8,7 @@ tags:
 url: /blog/improving-application-performance-part1
 categories:
 - Blog
-toc: true
+summary: Having fast API response is crucial for your applications. In this article you'll see how I managed to improve an API application that took 14 secs each call.
 ---
 
 A few weeks ago I was tasked to improve the performance of an API project that was really, _really_ slow.

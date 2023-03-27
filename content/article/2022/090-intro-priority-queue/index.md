@@ -6,7 +6,7 @@ tags:
 url: /blog/intro-priority-queue
 categories:
 - Blog
-toc: true
+summary: A PriorityQueue represents a collection of items that have a value and a priority. Now this data structure is built-in in dotNET!
 ---
 
 Starting from .NET 6 and C# 10, we finally have built-in support for PriorityQueues 🥳

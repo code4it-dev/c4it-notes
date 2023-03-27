@@ -6,7 +6,7 @@ tags:
 url: /csharptips/ping-endpoint
 categories:
 - CSharp Tips
-toc: true
+summary: Sometimes you need to ping some endpoints. Don't rely on HttpClient, but use the native Ping class.
 ---
 
 What if you wanted to see if a remote website is up and running?

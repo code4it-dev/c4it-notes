@@ -8,7 +8,7 @@ tags:
 url: /blog/hasflag-performance-benchmarkdotnet
 categories:
 - Blog
-toc: true
+summary: "BenchmarkDotNet allows you to test the performance on .NET methods. So let's answer a question: is the Enum.HasFlag method really that slow?"
 ---
 
 I've recently published two articles about some of the things you probably didn't know about Enums. I had too much to write that I split the original article into 2 parts: [here's the first part](./5-things-enums-csharp "5 things you didn't know about enums in C#") and [here's the second](./5-more-things-about-enums-csharp "5 more things about enums in C#").
