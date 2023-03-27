@@ -156,7 +156,7 @@ disqusShortname = ""
     showArchive = true
 
     # archive grouping: "2006" by year, "2006-01" by month
-    archiveDateGrouping = "2006-01"
+    archiveDateGrouping = "2006"
 
     # credits line configuration
     copyrightBy = "by Davide Bellone"
@@ -178,7 +178,7 @@ disqusShortname = ""
   [markup.goldmark]
     [markup.goldmark.renderer]
       # change to 'true' if you need to render raw HTML within your markdown content
-      unsafe = false
+      unsafe = true
 
   [markup.tableOfContents]
     endLevel = 5

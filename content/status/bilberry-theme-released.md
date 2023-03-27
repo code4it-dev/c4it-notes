@@ -3,6 +3,7 @@ date: 2021-12-15T10:45:44+02:00
 
 icon: "fa-rocket"
 showDate: false
+draft: true
 ---
 I'm glad to announce the release of the Bilberry Hugo theme. 
 This premium theme is published under an open-source license ([MIT](https://github.com/Lednerb/bilberry-hugo-theme/blob/master/LICENSE.md)), and you can use it free of charge. 
