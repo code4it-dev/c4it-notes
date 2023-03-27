@@ -7,7 +7,7 @@ tags:
 url: /blog/serilog-logging-scope
 categories:
 - Blog
-toc: true
+summary: Logs are important. Properly structured logs can be the key to resolving some critical issues. With Serilog's Scopes, you can enrich your logs with info about the context where they happened.
 ---
 
 Even though it's not one of the first things we usually set up when creating a new application, logging is a real game-changer in the long run.

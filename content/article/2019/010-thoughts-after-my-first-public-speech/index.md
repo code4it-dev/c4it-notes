@@ -7,7 +7,7 @@ tags:
 url: /blog/thoughts-after-my-first-public-speech
 categories:
 - Blog
-toc: true
+summary: Having a public speech seems easy. In some ways, it really is. But the first time can be hard. Here's my thought after my first experience in public speaking.
 ---
 
 Days ago I had my first speech.

@@ -6,7 +6,7 @@ tags:
 url: /cleancodetips/too-many-imports
 categories:
 - Clean Code Tips
-toc: true
+summary: Having too many 'using's, or imports, is a good indicator that your class does too many things. You should work to reduce the number of dependencies of a class.
 ---
 
 Actually, this article is not about a tip to write cleaner code, but it is an article that aims at pointing out a code smell.

@@ -6,7 +6,7 @@ tags:
 url: /csharptips/use-httpclientfactory-instead-of-httpclient
 categories:
 - CSharp Tips
-toc: true
+summary: Initializing HttpClient instances can expose you to Socket Exhaustion problems. You should use IHttpClientFactory instead
 ---
 
 ## The problem with HttpClient

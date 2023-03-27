@@ -8,7 +8,7 @@ tags:
 url: /blog/angular-vs-npm-vs-nodejs
 categories:
 - Blog
-toc: true
+summary: There's a lot of confusion around the terms Angular, NPM, and NodeJS. What are they? And how do they interact with each other?
 ---
 
 There's a lot of confusion about Node.js, NPM, and Angular. These 3 "entities" are often used together, especially for Angular applications, but they are not the same thing.

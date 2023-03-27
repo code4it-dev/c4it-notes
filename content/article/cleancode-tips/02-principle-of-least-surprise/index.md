@@ -6,7 +6,7 @@ tags:
 url: /cleancodetips/principle-of-least-surprise
 categories:
 - Clean Code Tips
-toc: true
+summary: 'The Principle of Least Surprise is a simple principle that helps you writing clear, obvious code: this helps other developers foresee what a component does without worrying of unexpected behaviors.'
 ---
 
 The **Principle of least surprise**, also called **Principle of least astonishment** is a quite simple principle about Software design with some interesting aspects.

@@ -6,7 +6,7 @@ tags:
 url: /blog/automate-blogging-workflow-github-powershell-azure
 categories:
 - Blog
-toc: true
+summary: After 100 articles, I've found some neat ways to automate my blogging workflow. I will share my experience and the tools I use from the very beginning to the very end.
 ---
 
 This is my 100th article 🥳 To celebrate it, I want to share with you the full process I use for writing and publishing articles.

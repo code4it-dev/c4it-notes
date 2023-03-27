@@ -7,7 +7,7 @@ tags:
 url: /blog/serilog-correlation-id
 categories:
 - Blog
-toc: true
+summary: APIs often call other APIs to perform operations. If an error occurs in one of them, how can you understand the context that caused that error? You can use Correlation IDs in your logs!
 ---
 
 _Correlation IDs_ are values that are passed across different systems to correlate the operations performed during a "macro" operation.

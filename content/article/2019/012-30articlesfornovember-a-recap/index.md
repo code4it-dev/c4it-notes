@@ -8,7 +8,7 @@ tags:
 url: /blog/30articlesfornovember-a-recap
 categories:
 - Blog
-toc: true
+summary: On November I shared on Twitter an article each day. They were about C#, general programming and advanced topics. For celebrating the conclusion of this challenge, I wrote a poem about that.
 ---
 
 For this November I decided to share each day an article on Twitter.

@@ -7,7 +7,7 @@ tags:
 url: /blog/mstests-stringassert-overview
 categories:
 - Blog
-toc: true
+summary: The StringAssert class is a hidden feature of the MSStest framework. Not so many methods, but they can help you with basic tests with strings.
 ---
 
 This is the second part of our journey through the Unit Test classes provided with VisualStudio. We [already had a look](./mstests-assert-overview "My previous article about the Assert class") at the `Assert` class, where had a glimpse of its methods. Now we'll have a look at the **StringAssert** class, that, as you can imagine, provides some useful methods for string evaluation.

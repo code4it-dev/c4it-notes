@@ -8,7 +8,7 @@ tags:
 url: /blog/csharp-extension-methods
 categories:
 - Blog
-toc: true
+summary: YouTube provides some APIs for getting info about a channel videos. But they also provide .NET libraries to achieve the same result with C#. Let's have a try!
 ---
 
 Let's say that you have a YouTube channel. Now, you want to list all the videos that you uploaded, and you are really strong in .NET Core 3.

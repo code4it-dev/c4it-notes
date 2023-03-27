@@ -8,7 +8,7 @@ tags:
 url: /blog/mock-dependency-with-manifest-resources
 categories:
 - Blog
-toc: true
+summary: Sometimes on your tests you need to access test files, for example for mocking external data. With manifest resources you can easily reference files for your tests.
 ---
 
 It happened that I needed to read a really complex JSON from an external API and elaborate it to adapt the result to my business needs.

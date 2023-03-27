@@ -7,7 +7,7 @@ tags:
 url: /blog/5-linqpad-tricks
 categories:
 - Blog
-toc: true
+summary: LINQPad is one of the tools I use daily. But still, I haven't used it at its full power. And you?
 ---
 
 LINQPad is one of my best friends: I use it daily, and it helps me A LOT when I need to run some throwaway code.

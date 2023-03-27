@@ -7,7 +7,7 @@ tags:
 url: /blog/csharp-sorting-mistake
 categories:
 - Blog
-toc: true
+summary: Is it true that the inverse of a negative number is always a positive number? If you think it's true, you might get a subtle error while implementing comparison.
 ---
 
 Recently I've learned a _funny_ (ehm...) thing.

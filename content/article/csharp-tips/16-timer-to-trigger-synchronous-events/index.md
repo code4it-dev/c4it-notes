@@ -6,7 +6,7 @@ tags:
 url: /csharptips/timer-to-trigger-synchronous-events
 categories:
 - CSharp Tips
-toc: true
+summary: "When you need to fire synchronous events, don't use a while(true) loop: use a Timer!"
 ---
 
 There may be times when you need to process a specific task on a timely basis, such as **polling an endpoint** to look for updates or refreshing a Refresh Token.

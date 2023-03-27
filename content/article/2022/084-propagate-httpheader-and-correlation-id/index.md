@@ -7,7 +7,7 @@ tags:
 url: /blog/propagate-httpheader-and-correlation-id
 categories:
 - Blog
-toc: true
+summary: Propagating HTTP Headers can be useful, especially when dealing with Correlation IDs. It's time to customize our HttpClients!
 ---
 
 Imagine this: you have a system made up of different applications that communicate via HTTP. There's some sort of entry point, exposed to the clients, that orchestrates the calls to the other applications. How do you correlate those requests?

@@ -9,7 +9,7 @@ tags:
 url: /blog/postgres-crud-entityframework
 categories:
 - Blog
-toc: true
+summary: With Entity Framework you can perform operations on relational databases without writing a single line of SQL. We will use EF to integrate PostgreSQL in our application
 ---
 
 When working with relational databases, you often come across two tasks: writing SQL queries and mapping the results to some DTO objects.

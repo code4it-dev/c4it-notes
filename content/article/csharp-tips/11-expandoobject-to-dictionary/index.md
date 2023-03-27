@@ -6,7 +6,7 @@ tags:
 url: /csharptips/expandoobject-to-dictionary
 categories:
 - CSharp Tips
-toc: true
+summary: How to get all the keys of an ExpandoObject? Convert it to Dictionary!
 ---
 
 In C#, `ExpandoObjects` are dynamically-populated objects without a predefined _shape_.

@@ -6,7 +6,7 @@ tags:
 url: /csharptips/sorted-set
 categories:
 - CSharp Tips
-toc: true
+summary: Using the right data structure is crucial to building robust and efficient applications. So, why use a List or a HashSet to sort items (and remove duplicates) when you have a SortedSet?
 ---
 
 As you probably know, you can create collections of items without duplicates by using a `HashSet<T>` object.

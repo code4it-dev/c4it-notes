@@ -6,7 +6,7 @@ tags:
 url: /blog/tcpping-azure-portal
 categories:
 - Blog
-toc: true
+summary: 'Maybe you are used to ping services to check whether they respond or not. It works well using a local console, but within the Azure portal you must use another command: tcpping.'
 ---
 
 Probably you already know what **ping** is: it is a command that you can run on your terminal to see if a host is up and running.

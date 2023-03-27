@@ -7,7 +7,7 @@ tags:
 url: /blog/swagger-integration
 categories:
 - Blog
-toc: true
+summary: Swagger is a tool that exposes the documentation of your APIs and helps collaborating with other teams. We'll see how to integrate it with .NET Core 3, how to add XML comments and status codes.
 ---
 
 When I write some APIs with .NET Core, one of the very first things I do is to add Swagger.

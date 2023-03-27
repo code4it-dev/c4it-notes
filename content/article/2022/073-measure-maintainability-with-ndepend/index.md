@@ -6,7 +6,7 @@ tags:
 url: /blog/measure-maintainability-with-ndepend
 categories:
 - Blog
-toc: true
+summary: Keeping an eye on maintainability is mandatory for every project which should live long. With NDepend, you can measure maintainability for .NET projects.
 ---
 
 Software systems can be easy to build, but hard to maintain. The more a system will be maintained, the more updates to the code will be needed.

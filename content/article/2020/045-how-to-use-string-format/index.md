@@ -6,7 +6,7 @@ tags:
 url: /blog/how-to-use-string-format
 categories:
 - Blog
-toc: true
+summary: Is string.Format obsolete? Not at all, it still has cards to play! Let's see how we can customize format and create custom formatters.
 ---
 
 Formatting strings is one of the basic operations we do in our day-by-day job. Many times we create methods to provide specific formatting for our data, but not always we want to implement additional methods for every type of formatting we need - too many similar methods will clutter our code.

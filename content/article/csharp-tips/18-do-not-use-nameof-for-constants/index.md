@@ -6,7 +6,7 @@ tags:
 url: /csharptips/do-not-use-nameof-for-constants
 categories:
 - CSharp Tips
-toc: true
+summary: In C#, nameof can be quite useful. But it has some drawbacks, if used the wrong way.
 ---
 
 As per Microsoft's definition,

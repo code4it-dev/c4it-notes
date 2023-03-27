@@ -6,7 +6,7 @@ tags:
 url: /blog/clean-code-abstraction-and-objects
 categories:
 - Blog
-toc: true
+summary: Are Getters and Setters the correct way to think of abstraction? What are pro and cons of OOP and Procedural programming? And, in the OOP world, how can you define objects?
 ---
 
 This is the third part of my series of tips about clean code.

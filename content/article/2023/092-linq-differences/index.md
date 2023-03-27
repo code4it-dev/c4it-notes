@@ -6,7 +6,7 @@ tags:
 url: /blog/linq-differences
 categories:
 - Blog
-toc: true
+summary: LINQ is a set of methods that help developers perform operations on sets of items. There are tons of methods - do you know which is the one for you?
 ---
 
 LINQ is one of the most loved functionalities by C# developers. It allows you to perform calculations and projections over a collection of items, making your code easy to build and, even more, easy to understand.

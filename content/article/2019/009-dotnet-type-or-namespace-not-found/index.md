@@ -6,7 +6,7 @@ tags:
 url: /blog/dotnet-type-or-namespace-not-found
 categories:
 - Blog
-toc: true
+summary: Error CS0246 - Type or namespace could not be found. What does it mean? Why does it happen? How can you solve it?
 ---
 
 Something strange happened today.

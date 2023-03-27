@@ -8,7 +8,7 @@ tags:
 url: /blog/deploy-api-on-azure-with-github-action
 categories:
 - Blog
-toc: true
+summary: Building APIs with .NET is easy. Deploying them on Azure is easy too, with GitHub Actions!
 ---
 
 With **Continuous Delivery (CD)**, you can deploy your code in a fast-paced and stable way.

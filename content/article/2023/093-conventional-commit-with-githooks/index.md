@@ -7,7 +7,7 @@ tags:
 url: /blog/conventional-commit-with-githooks
 categories:
 - Blog
-toc: true
+summary: Using Conventional Commits you can define a set of rules useful for writing meaningful commit messages. Using NPM. Yes, in a dotNET application!
 ---
 
 Setting teams conventions is a crucial step to have the project prepared to live long and prosper 🖖
