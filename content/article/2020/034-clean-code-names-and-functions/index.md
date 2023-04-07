@@ -3,6 +3,7 @@ title: Clean code tips - names and functions
 date: 2020-07-21
 tags:
 - Clean Code
+toc: true
 url: /blog/clean-code-names-and-functions
 categories:
 - Blog

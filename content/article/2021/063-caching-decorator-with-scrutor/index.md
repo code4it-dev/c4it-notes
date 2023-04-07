@@ -3,6 +3,7 @@ title: How to add a caching layer in .NET 5 with Decorator pattern and Scrutor
 date: 2021-08-10
 tags:
 - dotnet
+toc: true
 url: /blog/caching-decorator-with-scrutor
 categories:
 - Blog

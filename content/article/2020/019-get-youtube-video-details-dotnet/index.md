@@ -5,6 +5,7 @@ tags:
 - CSharp
 - dotnet
 - YouTube
+toc: true
 url: /blog/get-youtube-video-details-dotnet
 categories:
 - Blog

@@ -3,6 +3,7 @@ title: How to customize Swagger UI with custom CSS in .NET 7
 date: 2022-12-16
 tags:
 - dotNET
+toc: true
 url: /blog/customize-swagger-ui-with-css
 categories:
 - Blog

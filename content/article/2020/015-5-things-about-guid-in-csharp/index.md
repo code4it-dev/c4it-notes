@@ -3,6 +3,7 @@ title: 5 things you didn't know about Guid in C#
 date: 2020-01-21
 tags:
 - CSharp
+toc: true
 url: /blog/5-things-about-guid-in-csharp
 categories:
 - Blog

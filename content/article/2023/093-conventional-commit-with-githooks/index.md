@@ -4,6 +4,7 @@ date: 2023-02-07
 tags:
 - dotNET
 - npm
+toc: true
 url: /blog/conventional-commit-with-githooks
 categories:
 - Blog

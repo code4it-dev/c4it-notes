@@ -3,6 +3,7 @@ title: PriorityQueues on .NET 7 and C# 11
 date: 2022-12-12
 tags:
 - dotNET
+toc: true
 url: /blog/intro-priority-queue
 categories:
 - Blog

@@ -3,6 +3,7 @@ title: How to use String.Format - and why you should care about it
 date: 2020-12-01
 tags:
 - CSharp
+toc: true
 url: /blog/how-to-use-string-format
 categories:
 - Blog

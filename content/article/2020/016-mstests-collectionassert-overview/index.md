@@ -4,6 +4,7 @@ date: 2020-02-04
 tags:
 - CSharp
 - Tests
+toc: true
 url: /blog/mstests-collectionassert-overview
 categories:
 - Blog

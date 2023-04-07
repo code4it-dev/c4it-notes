@@ -4,6 +4,7 @@ date: 2023-01-24
 tags:
 - Software Architecture
 - Architecture
+toc: true
 url: /architecture-notes/caching-strategies
 categories:
 - Code and Architecture Notes

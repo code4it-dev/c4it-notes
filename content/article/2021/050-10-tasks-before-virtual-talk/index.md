@@ -4,6 +4,7 @@ date: 2021-02-09
 tags:
 - Talks
 - Career
+toc: true
 url: /blog/10-tasks-before-virtual-talk
 categories:
 - Blog

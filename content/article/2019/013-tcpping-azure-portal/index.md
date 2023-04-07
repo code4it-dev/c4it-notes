@@ -3,6 +3,7 @@ title: How to ping from an Azure App service with TCPPING
 date: 2019-12-13
 tags:
 - Azure
+toc: true
 url: /blog/tcpping-azure-portal
 categories:
 - Blog

@@ -4,6 +4,7 @@ date: 2022-07-19
 tags:
 - dotnet
 - CSharp
+toc: true
 url: /blog/5-linqpad-tricks
 categories:
 - Blog

@@ -5,6 +5,7 @@ tags:
 - CSharp
 - dotnet
 - Programming
+toc: true
 url: /blog/30articlesfornovember-a-recap
 categories:
 - Blog

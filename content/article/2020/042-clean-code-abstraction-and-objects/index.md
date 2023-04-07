@@ -3,6 +3,7 @@ title: Clean code tips - Abstraction and objects
 date: 2020-10-20
 tags:
 - Clean Code
+toc: true
 url: /blog/clean-code-abstraction-and-objects
 categories:
 - Blog

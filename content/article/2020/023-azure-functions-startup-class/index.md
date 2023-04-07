@@ -6,6 +6,7 @@ tags:
 - Azure Function
 - Azure
 - Serverless
+toc: true
 url: /blog/azure-functions-startup-class
 categories:
 - Blog

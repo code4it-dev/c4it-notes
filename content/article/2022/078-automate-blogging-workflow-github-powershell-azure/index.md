@@ -3,6 +3,7 @@ title: 'From idea to publishing, and beyond: how I automated my blogging workflo
 date: 2022-05-03
 tags:
 - Career
+toc: true
 url: /blog/automate-blogging-workflow-github-powershell-azure
 categories:
 - Blog

@@ -3,6 +3,7 @@ title: 'LINQ for beginners: pick the right methods!'
 date: 2023-01-10
 tags:
 - CSharp
+toc: true
 url: /blog/linq-differences
 categories:
 - Blog

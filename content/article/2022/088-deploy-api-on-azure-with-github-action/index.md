@@ -5,6 +5,7 @@ tags:
 - dotNET
 - Azure
 - GitHub
+toc: true
 url: /blog/deploy-api-on-azure-with-github-action
 categories:
 - Blog

@@ -4,6 +4,7 @@ date: 2019-03-20
 tags:
 - CSharp
 - Tests
+toc: true
 url: /blog/mstests-stringassert-overview
 categories:
 - Blog

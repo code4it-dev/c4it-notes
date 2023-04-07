@@ -4,6 +4,7 @@ date: 2021-07-27
 tags:
 - Clean Code
 - Performance
+toc: true
 url: /blog/clean-code-vs-performance
 categories:
 - Blog

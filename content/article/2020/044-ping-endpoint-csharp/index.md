@@ -3,6 +3,7 @@ title: How to Ping an endpoint with C#
 date: 2020-11-17
 tags:
 - CSharp
+toc: true
 url: /blog/ping-endpoint-csharp
 categories:
 - Blog

@@ -4,6 +4,7 @@ date: 2023-03-07
 tags:
 - dotNET
 - MongoDB
+toc: true
 url: /blog/mongodb-healthcheck
 categories:
 - Blog

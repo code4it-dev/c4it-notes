@@ -3,6 +3,7 @@ title: How to run Google Chrome without CORS
 date: 2020-03-24
 tags:
 - MISC
+toc: true
 url: /blog/run-google-chrome-without-cors
 categories:
 - Blog

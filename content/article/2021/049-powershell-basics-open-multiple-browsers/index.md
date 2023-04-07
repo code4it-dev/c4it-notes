@@ -4,6 +4,7 @@ date: 2021-01-26
 tags:
 - PowerShell
 - MISC
+toc: true
 url: /blog/powershell-basics-open-multiple-browsers
 categories:
 - Blog

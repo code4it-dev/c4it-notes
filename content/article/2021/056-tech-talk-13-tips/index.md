@@ -4,6 +4,7 @@ date: 2021-05-04
 tags:
 - Talks
 - Career
+toc: true
 url: /blog/tech-talk-13-tips
 categories:
 - Blog

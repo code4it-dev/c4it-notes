@@ -3,6 +3,7 @@ title: Advanced parsing using Int.TryParse in C#
 date: 2022-03-15
 tags:
 - CSharp
+toc: true
 url: /blog/advanced-int-tryparse
 categories:
 - Blog
