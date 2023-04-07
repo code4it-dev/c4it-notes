@@ -2,7 +2,7 @@
 title: How to deploy .NET APIs on Azure using GitHub actions
 date: 2022-11-08
 tags:
-- dotNET
+- dotnet
 - Azure
 - GitHub
 toc: true

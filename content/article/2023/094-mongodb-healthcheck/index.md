@@ -2,7 +2,7 @@
 title: 'Health Checks in .NET: 2 ways to check communication with MongoDB'
 date: 2023-03-07
 tags:
-- dotNET
+- dotnet
 - MongoDB
 toc: true
 url: /blog/mongodb-healthcheck

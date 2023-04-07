@@ -2,7 +2,7 @@
 title: How to customize Conventional Commits in a .NET application using GitHooks
 date: 2023-02-07
 tags:
-- dotNET
+- dotnet
 - npm
 toc: true
 url: /blog/conventional-commit-with-githooks
