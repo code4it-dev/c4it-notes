@@ -3,6 +3,7 @@ title: The 2 secret endpoints I create in my .NET APIs
 date: 2022-10-04
 tags:
 - dotnet
+toc: true
 url: /blog/my-2-secret-endpoints
 categories:
 - Blog

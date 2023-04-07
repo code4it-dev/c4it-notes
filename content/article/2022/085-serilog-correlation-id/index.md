@@ -4,6 +4,7 @@ date: 2022-09-20
 tags:
 - CSharp
 - dotnet
+toc: true
 url: /blog/serilog-correlation-id
 categories:
 - Blog

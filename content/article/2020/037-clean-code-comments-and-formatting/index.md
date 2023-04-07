@@ -3,6 +3,7 @@ title: Clean code tips - comments and formatting
 date: 2020-08-18
 tags:
 - Clean Code
+toc: true
 url: /blog/clean-code-comments-and-formatting
 categories:
 - Blog

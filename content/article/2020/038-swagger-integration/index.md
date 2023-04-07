@@ -4,6 +4,7 @@ date: 2020-08-25
 tags:
 - dotnet
 - CSharp
+toc: true
 url: /blog/swagger-integration
 categories:
 - Blog

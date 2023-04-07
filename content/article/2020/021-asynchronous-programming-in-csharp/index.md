@@ -5,6 +5,7 @@ tags:
 - CSharp
 - dotnet
 - Performance
+toc: true
 url: /blog/asynchronous-programming-in-csharp
 categories:
 - Blog

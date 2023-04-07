@@ -5,6 +5,7 @@ tags:
 - CSharp
 - dotnet
 - YouTube
+toc: true
 url: /blog/csharp-extension-methods
 categories:
 - Blog

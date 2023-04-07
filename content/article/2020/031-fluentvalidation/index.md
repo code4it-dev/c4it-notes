@@ -4,6 +4,7 @@ date: 2020-06-16
 tags:
 - CSharp
 - dotnet
+toc: true
 url: /blog/fluentvalidation
 categories:
 - Blog

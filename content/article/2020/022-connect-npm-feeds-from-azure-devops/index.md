@@ -4,6 +4,7 @@ date: 2020-04-07
 tags:
 - Azure DevOps
 - NPM
+toc: true
 url: /blog/connect-npm-feeds-from-azure-devops
 categories:
 - Blog

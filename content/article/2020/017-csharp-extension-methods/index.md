@@ -4,6 +4,7 @@ date: 2020-02-18
 tags:
 - CSharp
 - dotnet
+toc: true
 url: /blog/csharp-extension-methods
 categories:
 - Blog

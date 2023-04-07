@@ -5,6 +5,7 @@ tags:
 - SQL
 - SSMS
 - DB
+toc: true
 url: /blog/ssms-how-to-get-instance-name
 categories:
 - Blog

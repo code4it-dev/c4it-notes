@@ -4,6 +4,7 @@ date: 2022-05-17
 tags:
 - CSharp
 - Testing
+toc: true
 url: /blog/check-objects-called-mocks-in-moq
 categories:
 - Blog

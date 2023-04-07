@@ -3,6 +3,7 @@ title: 5 things you should know about enums in C#
 date: 2020-05-05
 tags:
 - CSharp
+toc: true
 url: /blog/5-things-enums-csharp
 categories:
 - Blog

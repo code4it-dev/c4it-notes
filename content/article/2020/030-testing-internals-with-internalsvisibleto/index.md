@@ -4,6 +4,7 @@ date: 2020-06-02
 tags:
 - CSharp
 - dotnet
+toc: true
 url: /blog/testing-internals-with-internalsvisibleto
 categories:
 - Blog

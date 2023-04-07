@@ -4,6 +4,7 @@ date: 2021-11-09
 tags:
 - dotnet
 - CSharp
+toc: true
 url: /blog/resolving-dependencies-depending-on-httprequest
 categories:
 - Blog

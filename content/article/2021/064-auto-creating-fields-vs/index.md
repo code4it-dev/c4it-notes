@@ -4,6 +4,7 @@ date: 2021-09-14
 tags:
 - Visual Studio
 - dotnet
+toc: true
 url: /blog/auto-creating-fields-vs
 categories:
 - Blog

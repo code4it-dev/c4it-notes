@@ -5,6 +5,7 @@ tags:
 - CSharp
 - dotnet
 - Performance
+toc: true
 url: /blog/hasflag-performance-benchmarkdotnet
 categories:
 - Blog

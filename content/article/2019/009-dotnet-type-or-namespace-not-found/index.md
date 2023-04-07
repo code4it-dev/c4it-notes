@@ -3,6 +3,7 @@ title: 'Type or namespace not found: how to fix Error CS0246 in .NET Core'
 date: 2019-08-26
 tags:
 - dotnet
+toc: true
 url: /blog/dotnet-type-or-namespace-not-found
 categories:
 - Blog

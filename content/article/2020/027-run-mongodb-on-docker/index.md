@@ -4,6 +4,7 @@ date: 2020-05-12
 tags:
 - Docker
 - MongoDB
+toc: true
 url: /blog/run-mongodb-on-docker
 categories:
 - Blog

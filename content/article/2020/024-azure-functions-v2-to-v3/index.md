@@ -6,6 +6,7 @@ tags:
 - Azure
 - Azure Function
 - Serverless
+toc: true
 url: /blog/azure-functions-v2-to-v3
 categories:
 - Blog

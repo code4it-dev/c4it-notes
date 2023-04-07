@@ -1,7 +1,10 @@
 ---
 title: 8 things about Records in C# you probably didn't know
 date: 2022-05-31
-tags: []
+tags: 
+- CSharp
+- dotnet
+toc: true
 url: /blog/8-things-about-records-csharp
 categories:
 - Blog

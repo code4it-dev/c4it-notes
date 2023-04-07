@@ -3,6 +3,7 @@ title: Logging with Serilog and Seq
 date: 2020-04-28
 tags:
 - dotnet
+toc: true
 url: /blog/logging-with-serilog-and-seq
 categories:
 - Blog

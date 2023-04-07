@@ -5,6 +5,7 @@ tags:
 - dotnet
 - CSharp
 - MISC
+toc: true
 url: /blog/dotnet-conference-italia-2018
 categories:
 - Blog

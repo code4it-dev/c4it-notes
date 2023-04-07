@@ -4,6 +4,7 @@ date: 2018-12-05
 tags:
 - CSharp
 - Tests
+toc: true
 url: /blog/mstests-assert-overview
 categories:
 - Blog

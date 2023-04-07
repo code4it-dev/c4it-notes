@@ -4,6 +4,7 @@ date: 2022-07-05
 tags:
 - CSharp
 - dotnet
+toc: true
 url: /blog/solve-constructor-exception-with-httpclientfactory
 categories:
 - Blog

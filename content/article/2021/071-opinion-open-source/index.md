@@ -3,6 +3,7 @@ title: "Code opinion: should we trust Open Source after Log4J's issues?"
 date: 2021-12-21
 tags:
 - MISC
+toc: true
 url: /blog/opinion-open-source
 categories:
 - Blog

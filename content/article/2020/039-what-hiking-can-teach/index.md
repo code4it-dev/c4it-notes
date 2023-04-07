@@ -5,6 +5,7 @@ tags:
 - Career
 - MISC
 - Programming
+toc: true
 url: /blog/what-hiking-can-teach
 categories:
 - Blog

@@ -4,6 +4,7 @@ date: 2021-04-06
 tags:
 - Azure DevOps
 - Tests
+toc: true
 url: /blog/code-coverage-on-azure-devops-yaml-pipelines
 categories:
 - Blog

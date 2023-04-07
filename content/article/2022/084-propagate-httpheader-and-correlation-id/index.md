@@ -4,6 +4,7 @@ date: 2022-08-02
 tags:
 - CSharp
 - dotnet
+toc: true
 url: /blog/propagate-httpheader-and-correlation-id
 categories:
 - Blog

@@ -5,6 +5,7 @@ tags:
 - PostgreSQL
 - Docker
 - Database
+toc: true
 url: /blog/run-postgresql-with-docker
 categories:
 - Blog

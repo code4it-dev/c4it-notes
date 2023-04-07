@@ -5,6 +5,7 @@ tags:
 - CSharp
 - OpenAPI
 - Visual Studio
+toc: true
 url: /blog/openapi-code-generation-vs2019
 categories:
 - Blog

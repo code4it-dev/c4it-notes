@@ -4,6 +4,7 @@ date: 2021-05-18
 tags:
 - dotnet
 - CSharp
+toc: true
 url: /blog/assembly-version-via-api-endpoint-routing
 categories:
 - Blog

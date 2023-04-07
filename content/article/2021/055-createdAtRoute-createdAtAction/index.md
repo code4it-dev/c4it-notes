@@ -3,6 +3,7 @@ title: Getting resource location with CreatedAtAction and CreatedAtRoute action 
 date: 2021-04-20
 tags:
 - dotnet
+toc: true
 url: /blog/createdAtRoute-createdAtAction
 categories:
 - Blog

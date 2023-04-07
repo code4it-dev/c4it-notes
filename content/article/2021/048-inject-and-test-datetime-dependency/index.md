@@ -4,6 +4,7 @@ date: 2021-01-12
 tags:
 - CSharp
 - Tests
+toc: true
 url: /blog/inject-and-test-datetime-dependency
 categories:
 - Blog

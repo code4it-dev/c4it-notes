@@ -5,6 +5,7 @@ tags:
 - CSharp
 - dotnet
 - Visual Studio
+toc: true
 url: /blog/debuggerdisplay-attribute
 categories:
 - Blog

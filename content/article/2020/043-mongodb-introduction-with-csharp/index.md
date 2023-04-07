@@ -4,6 +4,7 @@ date: 2020-11-03
 tags:
 - CSharp
 - MongoDB
+toc: true
 url: /blog/mongodb-introduction-with-csharp
 categories:
 - Blog

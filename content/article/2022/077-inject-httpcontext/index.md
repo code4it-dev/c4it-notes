@@ -4,6 +4,7 @@ date: 2022-04-12
 tags:
 - dotnet
 - CSharp
+toc: true
 url: /blog/inject-httpcontext
 categories:
 - Blog
