@@ -88,7 +88,7 @@ foreach (var element in Enumerable.Range(0,50))
 
 If you run this method, you'll see this output:
 
-```plain
+```plaintext
 Items count: 1 - List capacity: 4
 Items count: 2 - List capacity: 4
 Items count: 3 - List capacity: 4
