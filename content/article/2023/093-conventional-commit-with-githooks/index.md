@@ -31,13 +31,13 @@ There's not just one way to specify such formats.
 
 For example, you can specify that you've added a new feature (_feat_) to your APIs and describe it shortly:
 
-```plain
+```plaintext
 feat(api): send an email to the customer
 ```
 
 Or you can explain that you've fixed a bug (using _fix_) and add a full description of the scope of the commit.
 
-```plain
+```plaintext
 fix: prevent racing condition
 
 Introduce a request id and a reference to latest request. Dismiss
@@ -70,13 +70,13 @@ Say that you want to associate each commit to a Jira task. As you may know, Jira
 
 The goal of this article is, then, to force developers to create Commit messages such as
 
-```plain
+```plaintext
 feat/FOO-123: commit short description
 ```
 
 or, if you want to add a full description of the commit,
 
-```plain
+```plaintext
 feat/FOO-123: commit short description
 
 Here we can have the full description of the task.
@@ -223,13 +223,13 @@ Now, remember that we want to enforce certain rules on the commit message.
 
 We don't want them to be like
 
-```plain
+```plaintext
 feat(api): send an email to the customer when a product is shipped
 ```
 
 but rather like
 
-```plain
+```plaintext
 feat/FOO-123: commit short description
 
 Here we can have the full description of the task.
@@ -323,7 +323,7 @@ You can set your own text with hints about the structure of the messages.
 
 You just need to create a file named .gitmessage and put some text in it, such as:
 
-```plain
+```plaintext
 # <type>/FOO-<jira-ticket-id>: <title>
 # YOU CAN WRITE WHATEVER YOU WANT HERE
 # allowed types: feat | fix | hot | chore
