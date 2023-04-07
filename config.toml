@@ -1,11 +1,11 @@
 title = "Code4IT"
-baseURL = "https://incredible-snickerdoodle-95e2af.netlify.app/"
+baseURL = "https://code4it.dev/"
 
 # Option 1 (recommended): adding the theme as a Hugo module
-theme = "github.com/Lednerb/bilberry-hugo-theme/v3"
+# theme = "github.com/Lednerb/bilberry-hugo-theme/v3"
 
 # Option 2: cloning/copying the theme files
-# theme = "bilberry-hugo-theme"
+theme = "bilberry-hugo-theme"
 
 # Generate the robots.txt file for SEO
 enableRobotsTXT = true
