@@ -3,6 +3,7 @@ title: Clean code tips - Error handling
 date: 2020-12-15
 tags:
 - Clean Code
+toc: true
 url: /blog/clean-code-error-handling
 categories:
 - Blog

@@ -3,6 +3,7 @@ title: 5 things about DateTime time zones and formatting
 date: 2020-07-28
 tags:
 - CSharp
+toc: true
 url: /blog/5-things-datetime-timezones-and-formatting
 categories:
 - Blog

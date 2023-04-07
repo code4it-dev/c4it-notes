@@ -5,6 +5,7 @@ tags:
 - CSharp
 - dotnet
 - Tests
+toc: true
 url: /blog/mock-dependency-with-manifest-resources
 categories:
 - Blog

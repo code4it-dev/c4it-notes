@@ -4,6 +4,7 @@ date: 2019-05-17
 tags:
 - API Gateway
 - Ocelot
+toc: true
 url: /blog/overview-api-gateways
 categories:
 - Blog

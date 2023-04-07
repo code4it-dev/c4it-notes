@@ -4,6 +4,7 @@ date: 2019-10-20
 tags:
 - Talks
 - Career
+toc: true
 url: /blog/thoughts-after-my-first-public-speech
 categories:
 - Blog

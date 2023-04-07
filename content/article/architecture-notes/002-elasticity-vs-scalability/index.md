@@ -4,6 +4,7 @@ date: 2023-02-21
 tags:
 - Software Architecture
 - Architecture
+toc: true
 url: /architecture-notes/elasticity-vs-scalability
 categories:
 - Code and Architecture Notes

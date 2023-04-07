@@ -4,6 +4,7 @@ date: 2019-11-15
 tags:
 - CSharp
 - dotnet
+toc: true
 url: /blog/csharp-sorting-mistake
 categories:
 - Blog

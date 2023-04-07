@@ -3,6 +3,7 @@ title: Measuring maintainability metrics with NDepend
 date: 2022-02-15
 tags:
 - dotnet
+toc: true
 url: /blog/measure-maintainability-with-ndepend
 categories:
 - Blog

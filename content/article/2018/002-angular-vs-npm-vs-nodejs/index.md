@@ -5,6 +5,7 @@ tags:
 - Angular
 - Node.js
 - NPM
+toc: true
 url: /blog/angular-vs-npm-vs-nodejs
 categories:
 - Blog

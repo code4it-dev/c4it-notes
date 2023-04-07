@@ -3,6 +3,7 @@ title: How to add logs on Console with .NET Core and Serilog
 date: 2021-10-12
 tags:
 - dotnet
+toc: true
 url: /blog/serilog-log-on-console
 categories:
 - Blog

@@ -4,6 +4,7 @@ date: 2020-05-26
 tags:
 - CSharp
 - dotnet
+toc: true
 url: /blog/dependency-injection-lifetimes
 categories:
 - Blog

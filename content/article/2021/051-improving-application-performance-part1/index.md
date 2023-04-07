@@ -5,6 +5,7 @@ tags:
 - Performance
 - dotnet
 - CSharp
+toc: true
 url: /blog/improving-application-performance-part1
 categories:
 - Blog

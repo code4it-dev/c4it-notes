@@ -4,6 +4,7 @@ date: 2021-10-26
 tags:
 - Tests
 - dotnet
+toc: true
 url: /blog/moq-vs-nsubstitute-syntax
 categories:
 - Blog

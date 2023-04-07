@@ -6,6 +6,7 @@ tags:
 - Database
 - SQL
 - PostgreSQL
+toc: true
 url: /blog/postgres-crud-operations-npgsql
 categories:
 - Blog

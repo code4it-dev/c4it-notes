@@ -3,6 +3,7 @@ title: Clean code tips - Tests
 date: 2021-03-23
 tags:
 - Clean Code
+toc: true
 url: /blog/clean-code-tests
 categories:
 - Blog

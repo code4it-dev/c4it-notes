@@ -5,6 +5,7 @@ tags:
 - Tests
 - dotnet
 - CSharp
+toc: true
 url: /blog/integration-tests-for-dotnet-api
 categories:
 - Blog

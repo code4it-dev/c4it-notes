@@ -4,6 +4,7 @@ date: 2020-12-29
 tags:
 - Visual Studio
 - Tests
+toc: true
 url: /blog/code-coverage-vs-2019-coverlet
 categories:
 - Blog

@@ -3,6 +3,7 @@ title: 'How to parse JSON Lines (JSONL) with C# '
 date: 2021-11-23
 tags:
 - CSharp
+toc: true
 url: /blog/parse-jsonlines
 categories:
 - Blog

@@ -4,6 +4,7 @@ date: 2022-06-21
 tags:
 - dotnet
 - CSharp
+toc: true
 url: /blog/serilog-logging-scope
 categories:
 - Blog

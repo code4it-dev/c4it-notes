@@ -5,6 +5,7 @@ tags:
 - dotnet
 - CSharp
 - Performance
+toc: true
 url: /blog/few-tips-for-performance-optimization
 categories:
 - Blog
