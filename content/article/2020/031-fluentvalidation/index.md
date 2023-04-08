@@ -230,7 +230,7 @@ So now in the Controller constructor we can inject an `IValidator<User>` depende
 
 Honestly, this is my favorite approach, since it is flexible and highly testable.
 
-_Notice that the dependency lifetime is Transient. Wanna know more about Transient, Singleton and Scoped? Here's my article about [Dependency Injection lifetimes](./dependency-injection-lifetimes "Dependency Injection lifetimes in .NET")!_
+_Notice that the dependency lifetime is Transient. Wanna know more about Transient, Singleton and Scoped? Here's my article about [Dependency Injection lifetimes](https://www.code4it.dev/blog/dependency-injection-lifetimes "Dependency Injection lifetimes in .NET")!_
 
 ### Add single validator in the request pipeline
 

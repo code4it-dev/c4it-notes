@@ -27,7 +27,7 @@ But first, let's start with the YAML pipelines!
 
 ## Coverlet - the NuGet package for code coverage
 
-As already explained [in my previous article](./code-coverage-vs-2019-coverlet#coverlet---the-nuget-package-for-code-coverage "How to install Coverlet on .NET Test projects"), the very first thing to do to add code coverage calculation is to install a NuGet package called _Coverlet_. This package **must** be installed in every test project in your Solution.
+As already explained [in my previous article](https://www.code4it.dev/blog/code-coverage-vs-2019-coverlet#coverlet---the-nuget-package-for-code-coverage "How to install Coverlet on .NET Test projects"), the very first thing to do to add code coverage calculation is to install a NuGet package called _Coverlet_. This package **must** be installed in every test project in your Solution.
 
 So, running a simple `dotnet add package coverlet.msbuild` on your test projects is enough!
 

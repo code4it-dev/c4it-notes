@@ -64,7 +64,7 @@ public void ConfigureServices(IServiceCollection services)
 
 That's it! Nothing cumbersome, right?
 
-_TIP: do you know the difference between Scoped and Transient when talking about DI? [Check out this article!](./dependency-injection-lifetimes "Dependency Injection lifetimes in .NET - my epiphany")_
+_TIP: do you know the difference between Scoped and Transient when talking about DI? [Check out this article!](https://www.code4it.dev/blog/dependency-injection-lifetimes "Dependency Injection lifetimes in .NET - my epiphany")_
 
 ## In-memory test server
 
@@ -129,7 +129,7 @@ In this way, you can customize the client by adding additional services, thanks 
 
 This will override only the specified dependency with the specified one.
 
-I used this method in a project to remove the dependencies from an external API which returned a very complicated JSON file and replace that remote data with an in-memory copy, [using a JSON manifest file as a static resource](./mock-dependency-with-manifest-resources "How to mock dependencies with Manifest resources").
+I used this method in a project to remove the dependencies from an external API which returned a very complicated JSON file and replace that remote data with an in-memory copy, [using a JSON manifest file as a static resource](https://www.code4it.dev/blog/mock-dependency-with-manifest-resources "How to mock dependencies with Manifest resources").
 
 ## Conclusion
 

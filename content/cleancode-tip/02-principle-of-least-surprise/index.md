@@ -88,7 +88,7 @@ See the point? It looks like we are using the Factory design pattern, but the co
 
 Again, **being clear and obvious** is one of the keys to successful clean code.
 
-The solution? **Use better names**! It may not be simple, but luckily [there are some simple](./01-choose-meaningful-names "Clean code tip: How to choose meaningful names?") guidelines that you can follow.
+The solution? **Use better names**! It may not be simple, but luckily [there are some simple](https://www.code4it.dev/cleancodetips/choose-meaningful-names "Clean code tip: How to choose meaningful names?") guidelines that you can follow.
 
 👉 Let's discuss it [on Twitter](https://twitter.com/BelloneDavide/status/1337454097616822274) or on the comment section below!
 

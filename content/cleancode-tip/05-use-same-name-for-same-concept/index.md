@@ -9,7 +9,7 @@ categories:
 summary: "Smaller functions help us write better code, but have also a nice side effect: they help us to understand where an exception was thrown. Let's see how!"
 ---
 
-As I always say, naming things is hard. We've already talked about this in [a previous article](./choose-meaningful-names "How to choose meaningful names tip on Code4IT").
+As I always say, naming things is hard. We've already talked about this in [a previous article](https://www.code4it.dev/cleancodetips/choose-meaningful-names "How to choose meaningful names tip on Code4IT").
 
 By creating a **simple and coherent dictionary**, your classes will have better names because you are representing the same idea with the same name. This improves code readability and searchability. Also, by simply looking at the names of your classes you can grasp the meaning of them.
 

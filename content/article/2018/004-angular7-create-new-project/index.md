@@ -10,7 +10,7 @@ categories:
 summary: Are you ready to create a brand new Angular project? The CLI can help you with common settings.
 ---
 
-Before reading this article, be sure you know what **Node.js**, **NPM** and **Angular** are. If you are not sure, [here's a short reminder](/blog/angular-vs-npm-vs-node-js "A recap of Node.js, NPM and Angular").
+Before reading this article, be sure you know what **Node.js**, **NPM** and **Angular** are. If you are not sure, [here's a short reminder](https://www.code4it.dev/blog/angular-vs-npm-vs-nodejs "A recap of Node.js, NPM and Angular").
 
 In this article, I'm gonna use the **Angular CLI (Command line interface)** to create a simple Angular project. I have the version 6.2.0 of @angular/cli installed on my system. I know, Angular CLI v7 has recently been released, but these options are still valid.
 

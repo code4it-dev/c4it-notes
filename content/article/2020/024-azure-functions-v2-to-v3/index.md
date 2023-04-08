@@ -32,7 +32,7 @@ The easiest way is - of course - to delete the empty project and recreate it wit
 
 Alternatively, you can update it manually.
 
-Before moving on: do you know that you can add a Startup class to your project so that you can use Dependency Injection? It's easy, it's a matter of few steps. You can read [more in my previous article](./azure-functions-startup-class)!
+Before moving on: do you know that you can add a Startup class to your project so that you can use Dependency Injection? It's easy, it's a matter of few steps. You can read [more in my previous article](https://www.code4it.dev/blog/azure-functions-startup-class)!
 
 ## Update the Azure Function version
 

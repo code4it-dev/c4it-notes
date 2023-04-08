@@ -108,7 +108,7 @@ Now I can see that it was possible, with the right motivation, the right tools, 
 
 The same principle can be applied to your career: at least, try to get out of your comfort zone. You'll find yourself in places you could never have imagined.
 
-Learn some new skills, join a bootcamp, give your first talk (I did it too, and [there are some errors that YOU can avoid](./thoughts-after-my-first-public-speech "Thoughts after my very first public speech")). Do something you've never done before. Who knows, maybe you'll like it!
+Learn some new skills, join a bootcamp, give your first talk (I did it too, and [there are some errors that YOU can avoid](https://www.code4it.dev/blog/thoughts-after-my-first-public-speech "Thoughts after my very first public speech")). Do something you've never done before. Who knows, maybe you'll like it!
 
 ## Bonus - enjoy the view
 

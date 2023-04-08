@@ -18,9 +18,9 @@ In this article, we're gonna see another capability of Azure Service Bus: _Topic
 
 This is the second article in this series about Azure Service Bus:
 
-1. [Introduction to Azure Service Bus](./azure-service-bus-introduction "Introduction to Azure Service Bus")
+1. [Introduction to Azure Service Bus](https://www.code4it.dev/blog/azure-service-bus-introduction "Introduction to Azure Service Bus")
 2. Azure Service Bus: Queues vs Topics
-3. [Handling Azure Service Bus errors with .NET](./azure-service-bus-errors "Handling Azure Service Bus errors with .NET")
+3. [Handling Azure Service Bus errors with .NET](https://www.code4it.dev/blog/azure-service-bus-errors "Handling Azure Service Bus errors with .NET")
 
 So, now, let's dive into Topics.
 

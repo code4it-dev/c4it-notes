@@ -99,7 +99,7 @@ As you can see, actually **using LINQ is slower than using a simple index**. Whi
 
 **SORRY FOR THAT MISLEADING INFO!** Thank you, [Ben](https://github.com/bbuerger), for pointing it out in the comments section! 🙏
 
-Below you can see the code I used for this benchmark. I you want to get started with Benchmark.NET, look at the documentation or to my article [Enum.HasFlag performance with BenchmarkDotNet](../blog/hasflag-performance-benchmarkdotnet)
+Below you can see the code I used for this benchmark. I you want to get started with Benchmark.NET, look at the documentation or to my article [Enum.HasFlag performance with BenchmarkDotNet](https://www.code4it.dev/blog/hasflag-performance-benchmarkdotnet)
 
 ```cs
 public class ForeachIndexBenchmark

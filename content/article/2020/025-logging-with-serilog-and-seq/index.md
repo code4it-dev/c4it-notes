@@ -76,7 +76,7 @@ public void ConfigureServices(IServiceCollection services)
 }
 ```
 
-Of course, you can use Dependency Injection to inject this logger to any kind of application, like a Web Application or an [Azure Function](./azure-functions-startup-class "How to use Dependency injection in Azure Functions").
+Of course, you can use Dependency Injection to inject this logger to any kind of application, like a Web Application or an [Azure Function](https://www.code4it.dev/blog/azure-functions-startup-class "How to use Dependency injection in Azure Functions").
 
 ## Sending your first log
 

@@ -109,7 +109,7 @@ public void CheckAddedNumbers()
 }
 ```
 
-_Wondering what the CollectionAssert class is? Check out the [third part of my series about MSTests](./mstests-collectionassert-overview "MSTests CollectionAssert overview")!_
+_Wondering what the CollectionAssert class is? Check out the [third part of my series about MSTests](https://www.code4it.dev/blog/mstests-collectionassert-overview "MSTests CollectionAssert overview")!_
 
 ## More about InternalsVisibleTo
 

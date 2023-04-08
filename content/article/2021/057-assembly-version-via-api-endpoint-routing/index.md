@@ -157,7 +157,7 @@ app.UseEndpoints(endpoints =>
 });
 ```
 
-`WithAssemblyVersionOnRoot` is an **extension method** I created to wrap that logic and make the `UseEndpoints` method cleaner. If you want to learn how to create extension methods with C#, and what are some gotchas, head to this [article](./csharp-extension-methods "How you can create extension methods in C#")!
+`WithAssemblyVersionOnRoot` is an **extension method** I created to wrap that logic and make the `UseEndpoints` method cleaner. If you want to learn how to create extension methods with C#, and what are some gotchas, head to this [article](https://www.code4it.dev/blog/csharp-extension-methods "How you can create extension methods in C#")!
 
 To see the result, open Visual Studio, select the API project and click _alt + Enter_ to navigate to the Project properties. Here, under the _Package_ tag, define the version in the _Package version_ section.
 

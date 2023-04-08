@@ -155,7 +155,7 @@ It's easy to understand that the most probable culprits are `teamFeed` and `team
 
 ## Downsides
 
-Yes, adding new functions can slightly impact the application performance. In fact, every time we call a function, a stack operation is performed. This means that the more nested methods we call, the more stack operations we perform. But does it really impact the application performance? Or is it better to write cleaner code, even if we lose some nanoseconds? If you want to see the different standpoints, head to my article [Code opinion: performance or clean code?](./clean-code-vs-performance "Code opinion: performance or clean code? | Code4IT")
+Yes, adding new functions can slightly impact the application performance. In fact, every time we call a function, a stack operation is performed. This means that the more nested methods we call, the more stack operations we perform. But does it really impact the application performance? Or is it better to write cleaner code, even if we lose some nanoseconds? If you want to see the different standpoints, head to my article [Code opinion: performance or clean code?](https://www.code4it.dev/blog/clean-code-vs-performance "Code opinion: performance or clean code? | Code4IT")
 
 ## Conclusion
 

@@ -20,10 +20,10 @@ In this last article of the Clean Code Series, we're gonna see some tips to impr
 
 If you are interested in more tips about Clean Code, here are the other articles:
 
-1. [names and function arguments](./clean-code-names-and-functions "Clean code tips - names and functions")
-2. [comments and formatting](./clean-code-comments-and-formatting "Clean code tips - comments and formatting")
-3. [abstraction and objects](./clean-code-abstraction-and-objects "Clean code tips - Abstraction and objects")
-4. [error handling](./clean-code-error-handling "Clean code tips - error handling")
+1. [names and function arguments](https://www.code4it.dev/blog/clean-code-names-and-functions "Clean code tips - names and functions")
+2. [comments and formatting](https://www.code4it.dev/blog/clean-code-comments-and-formatting "Clean code tips - comments and formatting")
+3. [abstraction and objects](https://www.code4it.dev/blog/clean-code-abstraction-and-objects "Clean code tips - Abstraction and objects")
+4. [error handling](https://www.code4it.dev/blog/clean-code-error-handling "Clean code tips - error handling")
 5. tests
 
 ## Why you should keep tests clean
@@ -547,7 +547,7 @@ So, avoid all the strong dependencies on your machine (like file names, absolute
 
 To work with them there's only a solution: abstract them and use a mocking mechanism.
 
-If you want to learn 3 ways to do this, check out my [3 ways to inject DateTime and test it](./inject-and-test-datetime-dependency "3 ways to inject DateTime and test it"). There I explained how to inject `DateTime`, but the same approaches work even for GUIDs and random numbers.
+If you want to learn 3 ways to do this, check out my [3 ways to inject DateTime and test it](https://www.code4it.dev/blog/inject-and-test-datetime-dependency "3 ways to inject DateTime and test it"). There I explained how to inject `DateTime`, but the same approaches work even for GUIDs and random numbers.
 
 ### Self-validating
 

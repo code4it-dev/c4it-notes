@@ -19,8 +19,8 @@ In this introduction, we're going to learn the basics of Azure Service Bus: what
 This is the first part of a series about Azure Service Bus. We will see:
 
 1. An introduction to Azure Service Bus with C#
-2. [Queues vs Topics](./azure-service-bus-queue-vs-topic "Azure Service Bus: Queues vs Topics")
-3. [Handling Azure Service Bus errors with .NET](./azure-service-bus-errors "Handling Azure Service Bus errors with .NET")
+2. [Queues vs Topics](https://www.code4it.dev/blog/azure-service-bus-queue-vs-topic "Azure Service Bus: Queues vs Topics")
+3. [Handling Azure Service Bus errors with .NET](https://www.code4it.dev/blog/azure-service-bus-errors "Handling Azure Service Bus errors with .NET")
 
 But, for now, let's start from the basics.
 
@@ -224,7 +224,7 @@ ServiceBusMessage serializedContents = new ServiceBusMessage(jsonEntity);
 await sender.SendMessageAsync(serializedContents);
 ```
 
-> Hey! Never used `async`, `await`, and `Task`? If you want a short (but quite thorough) introduction to asynchronous programming, [head to this article](./asynchronous-programming-in-csharp "Getting started with Asyncrhonous Programming in C#")!
+> Hey! Never used `async`, `await`, and `Task`? If you want a short (but quite thorough) introduction to asynchronous programming, [head to this article](https://www.code4it.dev/blog/asynchronous-programming-in-csharp "Getting started with Asyncrhonous Programming in C#")!
 
 And that's it! Now the message is available on the PizzaOrders queue and can be received by any client subscribed to it.
 

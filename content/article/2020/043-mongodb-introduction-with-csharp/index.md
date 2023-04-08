@@ -22,7 +22,7 @@ But if you are working with .NET, you might want to use [the official MongoDB dr
 
 If you want to try MongoDB on your local machine, you can download the _Community Edition_ [from the project website](https://docs.mongodb.com/manual/installation "MongoDB download link") and install it with a few clicks.
 
-If you're already used Docker (or if you want to move your first steps with this technology), you can head to my article [First steps with Docker: download and run MongoDB locally](./run-mongodb-on-docker "First steps with Docker: download and run MongoDB locally"): in that article, I explained what is Docker, how to install it and how to use it to run MongoDB on your machine without installing the drivers.
+If you're already used Docker (or if you want to move your first steps with this technology), you can head to my article [First steps with Docker: download and run MongoDB locally](https://www.code4it.dev/blog/run-mongodb-on-docker "First steps with Docker: download and run MongoDB locally"): in that article, I explained what is Docker, how to install it and how to use it to run MongoDB on your machine without installing the drivers.
 
 Alternatively, if you don't want to install Mongo on your machine, you can use the cloud version, [Mongo Atlas](https://www.mongodb.com/cloud/atlas "Mongo Atlas - MongoDB on cloud"), which offers a free tier (of course with limited resources).
 
@@ -114,7 +114,7 @@ The very first step is to create a connection to the DB. The simplest `MongoClie
 var client = new MongoClient("mongodb://mongoadmin:secret@localhost:27888/boardgamesdb?authSource=admin")
 ```
 
-If you have a look at my other article about Docker and Mongo, you'll see [how I set up username, password and port](./run-mongodb-on-docker#running-mongodb-on-docker).
+If you have a look at my other article about Docker and Mongo, you'll see [how I set up username, password and port](https://www.code4it.dev/blog/run-mongodb-on-docker#running-mongodb-on-docker).
 
 ![What is the structure of MongoDB connection string](./connectionstring-structure.png "Connection string structure")
 

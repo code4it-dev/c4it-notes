@@ -237,7 +237,7 @@ public class InjectedCalendar
 }
 ```
 
-You will need to inject it using your favourite Dependency Injection engine and by choosing the right lifetime. If you want to learn the difference between _Singleton, Scoped and Transient_ lifetimes in .NET, [here's a deep explanation](./dependency-injection-lifetimes).
+You will need to inject it using your favourite Dependency Injection engine and by choosing the right lifetime. If you want to learn the difference between _Singleton, Scoped and Transient_ lifetimes in .NET, [here's a deep explanation](https://www.code4it.dev/blog/dependency-injection-lifetimes).
 
 Finally, you can test the `InjectedCalendar` class in a similar way as we did with abstract classes:
 

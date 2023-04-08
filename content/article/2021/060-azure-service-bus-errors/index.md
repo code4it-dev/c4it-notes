@@ -16,8 +16,8 @@ In this article, we are gonna see which kind of errors you may get on Azure Serv
 
 This is the last part of the series about Azure Service Bus. In the previous parts, we've seen
 
-1. [Introduction to Azure Service Bus](./azure-service-bus-introduction "Introduction to Azure Service Bus")
-2. [Queues vs Topics](./azure-service-bus-queue-vs-topic "Azure Service Bus: Queues vs Topics")
+1. [Introduction to Azure Service Bus](https://www.code4it.dev/blog/azure-service-bus-introduction "Introduction to Azure Service Bus")
+2. [Queues vs Topics](https://www.code4it.dev/blog/azure-service-bus-queue-vs-topic "Azure Service Bus: Queues vs Topics")
 3. Error handling
 
 For this article, we're going to introduce some errors in the code we used in the previous examples.
