@@ -10,7 +10,7 @@ categories:
 summary: We've already seen some of the things you should know about enums in C#. Here we'll dive into Flagged enumerations, serialization and so on.
 ---
 
-In a [previous article](./5-things-enums-csharp "5 things you didn't know about enums in C#"), I explained some details about enums in C#. Here I'll talk about some other things that are useful and/or curious to know about them.
+In a [previous article](https://www.code4it.dev/blog/5-things-enums-csharp "5 things you didn't know about enums in C#"), I explained some details about enums in C#. Here I'll talk about some other things that are useful and/or curious to know about them.
 
 ## #1: Define enum internal type
 
@@ -181,7 +181,7 @@ If we put the Flags attribute, everything changes: the string value will be **Wa
 
 This makes sense **only if you use multiple values**: as we've already seen, if you print a single value you'll get the string value of it.
 
-If you remember when I talked about [how to format an enum](./5-things-enums-csharp#2-many-ways-to-get-the-value "How to get enum values"), you can use `ToString("g")` and `ToString("f")` to get the enum name. I specified that there is a small difference but I haven't explained what was it about.
+If you remember when I talked about [how to format an enum](https://www.code4it.dev/blog/5-things-enums-csharp#2-many-ways-to-get-the-value "How to get enum values"), you can use `ToString("g")` and `ToString("f")` to get the enum name. I specified that there is a small difference but I haven't explained what was it about.
 
 If you set a combined enum value but you don't add the Flags attribute, you'll end up with different results:
 
@@ -201,7 +201,7 @@ As always, there are some best practices you should follow. The following ones a
 1. Use only powers of two when defining flags, so that you won't overlap values when combining more enums; this will give you also the possibility to use bitwise operators, like OR, AND and XOR.
 2. You should add a _None_ value, and set it to 0, to represent the lack of value. Of course, consider that `HasFlag(EnumName.None)` will always return true.
 3. In older versions of .NET, the HasFlag method was less efficient than a bitwise AND check. So, to check if a value contains _Beverage.Water_, you could do `((beverage & Beverage.Water) == Beverage.Water)`. With newer versions this problem has been fixed.
-4. As always, remember to validate input parameters, just like you [should do for simple enums](./5-things-enums-csharp#5-enum-best-practices "Why you should validate inputs").
+4. As always, remember to validate input parameters, just like you [should do for simple enums](https://www.code4it.dev/blog/5-things-enums-csharp#5-enum-best-practices "Why you should validate inputs").
 
 For more, you can refer to [Microsoft documentation](https://docs.microsoft.com/en-us/dotnet/api/system.flagsattribute?view=netcore-3.1#guidelines-for-flagsattribute-and-enum "Microsoft best practices about Flags attribute").
 

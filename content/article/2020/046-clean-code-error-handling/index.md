@@ -14,11 +14,11 @@ We all know that nothing goes perfectly smoothly: network errors, invalid format
 
 This is the fourth part of this series about clean code, which is a recap of the things I learned from Uncle Bob's "Clean Code". If you want to read more, here's the other articles I wrote:
 
-1. [names and function arguments](./clean-code-names-and-functions "Clean code tips - names and functions")
-2. [comments and formatting](./clean-code-comments-and-formatting "Clean code tips - comments and formatting")
-3. [abstraction and objects](./clean-code-abstraction-and-objects "Clean code tips - Abstraction and objects")
+1. [names and function arguments](https://www.code4it.dev/blog/clean-code-names-and-functions "Clean code tips - names and functions")
+2. [comments and formatting](https://www.code4it.dev/blog/clean-code-comments-and-formatting "Clean code tips - comments and formatting")
+3. [abstraction and objects](https://www.code4it.dev/blog/clean-code-abstraction-and-objects "Clean code tips - Abstraction and objects")
 4. error handling
-5. [tests](./clean-code-tests "Clean code tips - tests")
+5. [tests](https://www.code4it.dev/blog/clean-code-tests "Clean code tips - tests")
 
 ## Status codes or exceptions?
 
@@ -331,7 +331,7 @@ OperationResult SendStringToApi(string fileContent)
 
 We use the native `HttpClient` .NET class to send our string to the remote endpoint, and then we fetch the result and map it to an enum, `OperationResult`.
 
-_Hey, have you noticed it? I used an asynchronous method in a synchronous one using `httpClient.SendAsync(message).Result`. But it's the wrong way to do it! If you want to know more, head to my article [First steps with asynchronous programming in C#](./asynchronous-programming-in-csharp "First steps with asynchronous programming in C# - Code4IT")_
+_Hey, have you noticed it? I used an asynchronous method in a synchronous one using `httpClient.SendAsync(message).Result`. But it's the wrong way to do it! If you want to know more, head to my article [First steps with asynchronous programming in C#](https://www.code4it.dev/blog/asynchronous-programming-in-csharp "First steps with asynchronous programming in C# - Code4IT")_
 
 Finally, the main method.
 

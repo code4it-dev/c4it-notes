@@ -181,7 +181,7 @@ String.Format("{0:yyyy-MM-dd hh:mm}", new System.DateTime(2020,5,8,1,6,0))
 // 2020-05-08 01:06
 ```
 
-_PSS! [Remember how the current culture impacts the result!](./5-things-datetime-timezones-and-formatting#2-format-shorthands-and-localization "5 things about DateTime time zones and formatting - Format shorthands and localization")_
+_PSS! [Remember how the current culture impacts the result!](https://www.code4it.dev/blog/5-things-datetime-timezones-and-formatting#2-format-shorthands-and-localization "5 things about DateTime time zones and formatting - Format shorthands and localization")_
 
 ## How to define custom formats
 

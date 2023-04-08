@@ -19,7 +19,7 @@ For .NET Core applications, you can register all the dependencies in the _Startu
 
 You can register a dependency by specifying its **lifetime**, which is an indication about the way dependencies are created. **The three available lifetimes are Singleton, Transient and Scoped**.
 
-_PSS! Do you know that you can use Dependency Injection even in Azure Functions? [Check it out here!](./azure-functions-startup-class "How to add a Startup class to Azure Functions")_
+_PSS! Do you know that you can use Dependency Injection even in Azure Functions? [Check it out here!](https://www.code4it.dev/blog/azure-functions-startup-class "How to add a Startup class to Azure Functions")_
 
 ## Project setup
 

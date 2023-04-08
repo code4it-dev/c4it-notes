@@ -80,7 +80,7 @@ public class MessageCreator : IMessageCreator
 }
 ```
 
-_You already know how to use Dependency Injection, right? If not, and if you don't know the differences between Singleton, Scoped and Transient lifetimes, head to [Dependency Injection lifetimes in .NET - my epiphany](./dependency-injection-lifetimes "Dependency Injection lifetimes in .NET - my epiphany")!_
+_You already know how to use Dependency Injection, right? If not, and if you don't know the differences between Singleton, Scoped and Transient lifetimes, head to [Dependency Injection lifetimes in .NET - my epiphany](https://www.code4it.dev/blog/dependency-injection-lifetimes "Dependency Injection lifetimes in .NET - my epiphany")!_
 
 ## Setting up the tests
 
@@ -110,7 +110,7 @@ public async Task TestWithObjectCreation_Male()
 
 Even if you've never used NSubstitute the steps are easy to understand, right?
 
-_PSS: do you know that the MSTest framework has lots of useful methods besides the AreEqual? Check them out in [this article](/mstests-assert-overview "MSTest Assert class - an overview")_.
+_PSS: do you know that the MSTest framework has lots of useful methods besides the AreEqual? Check them out in [this article](https://www.code4it.dev/blog/mstests-assert-overview "MSTest Assert class - an overview")_.
 
 Now, say that instead of the GenderInfo object you need to mock a really complex object, maybe with nested properties, and cross-references between one field and another. You could instantiate that object field by field. Or you could store its JSON representation in a file and reference it.
 

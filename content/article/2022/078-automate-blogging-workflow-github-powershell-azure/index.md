@@ -185,7 +185,7 @@ I don't use stock images, I prefer using less professional but more original cov
 
 ![Some of the cover images for my articles](./some-cover-images.png "Cover images on Code4IT")
 
-You can see all of them [here](https://www.code4it.dev/tag/mainarticle "Code4IT main articles").
+You can see all of them [here](https://www.code4it.dev/categories/blog "Code4IT main articles").
 
 ### Creating and scheduling PR on GitHub with Templates and Actions
 

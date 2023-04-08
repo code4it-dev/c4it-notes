@@ -14,11 +14,11 @@ This is the second part of my series of tips about clean code. We'll talk about 
 
 Here's the list (in progress)
 
-1. [names and function arguments](./clean-code-names-and-functions "Clean code tips - names and functions")
+1. [names and function arguments](https://www.code4it.dev/blog/clean-code-names-and-functions "Clean code tips - names and functions")
 2. comments and formatting
-3. [abstraction and objects](./clean-code-abstraction-and-objects "Clean code tips - Abstraction and objects")
-4. [error handling](./clean-code-error-handling "Clean code tips - Error handling")
-5. [tests](./clean-code-tests "Clean code tips - tests")
+3. [abstraction and objects](https://www.code4it.dev/blog/clean-code-abstraction-and-objects "Clean code tips - Abstraction and objects")
+4. [error handling](https://www.code4it.dev/blog/clean-code-error-handling "Clean code tips - Error handling")
+5. [tests](https://www.code4it.dev/blog/clean-code-tests "Clean code tips - tests")
 
 ## Comments are generally bad, but sometimes necessary
 

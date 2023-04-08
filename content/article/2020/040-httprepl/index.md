@@ -19,7 +19,7 @@ A less-known tool is **HttpRepl**: this is a command-line tool built by the ASP.
 
 To try this tool you need two things: the tool itself and an API to call.
 
-For the API, I'm going to use the project I've created for the article where I explain [how to add Swagger to your API](./swagger-integration "Effective Swagger integration in .NET Core"). It will give us the opportunity to talk about a few details about HttpRepl that you must consider when you use it.
+For the API, I'm going to use the project I've created for the article where I explain [how to add Swagger to your API](https://www.code4it.dev/blog/swagger-integration "Effective Swagger integration in .NET Core"). It will give us the opportunity to talk about a few details about HttpRepl that you must consider when you use it.
 
 Talking about the tool itself, to install it you must run `dotnet tool install -g Microsoft.dotnet-httprepl` on a console; remember that **you must have .NET Core 2.1 (or later)** installed on your machine.
 

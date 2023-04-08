@@ -11,7 +11,7 @@ categories:
 summary: The CollectionAssert class if fine for basic tests on collections in C#. We will have a look at the methods exposed by this class.
 ---
 
-This is the third part of our journey. In the [first part](./mstests-assert-overview "Unit testing with Assert") we listed the methods belonging to the **Assert** class, while in the [second part](./mstests-stringassert-overview "Unit testing with StringAssert") we had a look at the **StringAssert** class.
+This is the third part of our journey. In the [first part](https://www.code4it.dev/blog/mstests-assert-overview "Unit testing with Assert") we listed the methods belonging to the **Assert** class, while in the [second part](https://www.code4it.dev/blog/mstests-stringassert-overview "Unit testing with StringAssert") we had a look at the **StringAssert** class.
 
 Now we'll deep dive into the CollectionAssert class, that is a good fit for ensuring that a collection of elements follows desired specifications.
 

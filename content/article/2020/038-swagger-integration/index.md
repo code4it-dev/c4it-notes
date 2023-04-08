@@ -173,7 +173,7 @@ Here, for your profiles, you must set _swagger/index.html_ as a value for the _l
 
 Once you have created your endpoints and exposed the Swagger UI, the best thing to do is to add some detailed documentation to help other developers know what every endpoint does.
 
-_PSST! You know that there's a blurred line between good and bad comments, and endpoint documentation is exaclty on that line? [If you wanna know more...](./clean-code-names-and-functions "Clean code tips - names and functions")_
+_PSST! You know that there's a blurred line between good and bad comments, and endpoint documentation is exaclty on that line? [If you wanna know more...](https://www.code4it.dev/blog/clean-code-names-and-functions "Clean code tips - names and functions")_
 
 ```cs
 /// <summary>

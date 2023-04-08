@@ -26,7 +26,7 @@ You can just copy and paste, right? Nah, too easy! 😁
 
 ## Initial steps
 
-The basic setup is the same I explained in [my previous article](/blog/search-youtube-videos-dotnet "My article about how to search for videos on YouTube") about how to search for videos on a YouTube channel.
+The basic setup is the same I explained in [my previous article](https://www.code4it.dev/blog/search-youtube-videos-dotnet "My article about how to search for videos on YouTube") about how to search for videos on a YouTube channel.
 
 What you need to do is:
 
@@ -98,7 +98,7 @@ YouTubeVideoDetails videoDetails = new YouTubeVideoDetails()
 };
 ```
 
-The `youTubeVideo` object contains references to the thumbnails. As you might remember, in the article about [how to search for videos](/blog/search-youtube-videos-dotnet "How to search for YT videos") associated to a YouTube channel, I explained that the images that you get with the _Search_ endpoint are different to the ones here, in the _Videos_ endpoint. My suggestion is to try both the examples on my GitHub page (see below) and find the differences.
+The `youTubeVideo` object contains references to the thumbnails. As you might remember, in the article about [how to search for videos](https://www.code4it.dev/blog/search-youtube-videos-dotnet "How to search for YT videos") associated to a YouTube channel, I explained that the images that you get with the _Search_ endpoint are different to the ones here, in the _Videos_ endpoint. My suggestion is to try both the examples on my GitHub page (see below) and find the differences.
 
 ## Final result
 

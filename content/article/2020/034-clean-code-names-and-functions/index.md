@@ -22,10 +22,10 @@ In this series of articles, I'll sum up what I've learned reading chapter 2 - Me
 Here's the list (in progress)
 
 1. names and function arguments
-2. [comments and formatting](./clean-code-comments-and-formatting "Clean code tips - comments and formatting")
-3. [abstraction and objects](./clean-code-abstraction-and-objects "Clean code tips - Abstraction and objects")
-4. [error handling](./clean-code-error-handling "Clean code tips - Error handling")
-5. [tests](./clean-code-tests "Clean code tips - tests")
+2. [comments and formatting](https://www.code4it.dev/blog/clean-code-comments-and-formatting "Clean code tips - comments and formatting")
+3. [abstraction and objects](https://www.code4it.dev/blog/clean-code-abstraction-and-objects "Clean code tips - Abstraction and objects")
+4. [error handling](https://www.code4it.dev/blog/clean-code-error-handling "Clean code tips - Error handling")
+5. [tests](https://www.code4it.dev/blog/clean-code-tests "Clean code tips - tests")
 
 ## 1: Use consistent names
 
@@ -293,7 +293,7 @@ public class TicketFactory
 
 THIS is where you must use the _TicketType_ enum and add new subclasses of the Ticket class!
 
-_PSST: wanna know some cool things about Enums? [Here's something for you!](./5-things-enums-csharp "5 things you didn't know about enums in C#")_
+_PSST: wanna know some cool things about Enums? [Here's something for you!](https://www.code4it.dev/blog/5-things-enums-csharp "5 things you didn't know about enums in C#")_
 
 ## 5: avoid side effects
 

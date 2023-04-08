@@ -76,7 +76,7 @@ Then, in the `ConfigureServices` method, we need to register the service:
 services.AddSingleton<IRssFeedReader, RssFeedReader>();
 ```
 
-_Singleton, Scoped, or Transient? If you don't know the difference, [here's an article for you!](./dependency-injection-lifetimes "Dependency Injection lifetimes in .NET - my epiphany | Code4IT")_
+_Singleton, Scoped, or Transient? If you don't know the difference, [here's an article for you!](https://www.code4it.dev/blog/dependency-injection-lifetimes "Dependency Injection lifetimes in .NET - my epiphany | Code4IT")_
 
 Lastly, our endpoint will use the `IRssFeedReader` interface to perform the operations, without knowing the actual type:
 

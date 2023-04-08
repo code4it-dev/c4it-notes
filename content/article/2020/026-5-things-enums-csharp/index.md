@@ -148,7 +148,7 @@ Enum.Format(typeof(MovieGenre), mg, "g")
 
 Have you noticed the last parameter of the previous snippet? What does it mean?
 
-Well, as [you can format Guids](./5-things-about-guid-in-csharp#4-a-guid-has-multiple-formats "How to format Guids on C#"), you can use flags to format an enum as well.
+Well, as [you can format Guids](https://www.code4it.dev/blog/5-things-about-guid-in-csharp#4-a-guid-has-multiple-formats "How to format Guids on C#"), you can use flags to format an enum as well.
 
 - **G** and **F** return the name of the enum. There is a small difference that occurs when an enum is used with the flag attribute (I'll talk about it later)
 - **D** represents the value in decimal form

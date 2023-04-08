@@ -22,7 +22,7 @@ In this article, we're going to see some .NET-related tips that can help to impr
 
 In my application, we use (of course) dependency injection. Almost all the dependencies are marked ad `Singleton`: this means that every dependency is created at the start-up of the application and is then shared through all the lifespan of the application.
 
-_Pss_: if you want to know the difference between `Singleton`, `Transient`, and `Scoped` lifetimes with _real_ examples, [check out this article](./dependency-injection-lifetimes "The difference between Singleton, Transient, and Scoped")!
+_Pss_: if you want to know the difference between `Singleton`, `Transient`, and `Scoped` lifetimes with _real_ examples, [check out this article](https://www.code4it.dev/blog/dependency-injection-lifetimes "The difference between Singleton, Transient, and Scoped")!
 
 It makes sense, right? But have a closer look at the timing in this picture:
 
@@ -518,7 +518,7 @@ We've seen how I managed to improve the performance of an API endpoint passing f
 
 In this article you've seen some .NET-related tips to improve the performance of your applications: nothing fancy, but those little steps _might_ help you reach the desired result.
 
-Of course, there is more: if you are want to know how **compression algorithms** and **hosting models** affect your applications, [check out this article](./few-tips-for-performance-optimization "More tips for performance optimization")!
+Of course, there is more: if you are want to know how **compression algorithms** and **hosting models** affect your applications, [check out this article](https://www.code4it.dev/blog/few-tips-for-performance-optimization "More tips for performance optimization")!
 
 If you have more tips, feel free to share them in the comments session!
 
