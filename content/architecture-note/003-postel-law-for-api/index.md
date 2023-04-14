@@ -1,6 +1,6 @@
 ---
 title: "Postel's law for API Robustness"
-date: 2023-04-12
+date: 2023-04-18
 draft: false
 categories:
 - Code and Architecture Notes
