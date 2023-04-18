@@ -1,6 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
+url: /blog/post-slug
 draft: false
 categories:
 - Code and Architecture Notes

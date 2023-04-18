@@ -1,6 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
+url: /csharptips/post-slug
 draft: false
 categories:
 - CSharp Tips

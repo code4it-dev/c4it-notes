@@ -1,6 +1,7 @@
 ---
 title: "Davide's Code and Architecture Notes - {{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
+url: /architecture-notes/post-slug
 draft: false
 categories:
 - Code and Architecture Notes
