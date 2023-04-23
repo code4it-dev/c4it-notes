@@ -1,5 +1,5 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "C# Tip: {{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 url: /csharptips/post-slug
 draft: false
