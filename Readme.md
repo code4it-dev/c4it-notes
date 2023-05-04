@@ -47,3 +47,12 @@ Per approvare le modifiche:
 
 
 Vedi [qui](https://github.com/code4it-dev/c4it-hugo/pull/4)
+
+## Colori tema
+
+```scss
+$theme-dark-aqua:  #488a99;
+$theme-gold:  #dbae58;
+$theme-charcoal: #4d585b;
+$theme-gray: #b4b4b4;
+```
