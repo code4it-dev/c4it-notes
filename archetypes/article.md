@@ -4,9 +4,9 @@ date: {{ .Date }}
 url: /blog/post-slug
 draft: false
 categories:
-- Code and Architecture Notes
-tags:
 - Blog
+tags:
+- CSharp
 toc: true
 summary: "A summary"
 ---
