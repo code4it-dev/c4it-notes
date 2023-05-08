@@ -1,6 +1,6 @@
 ---
 title: "How to download an online file and store it on file system with C#"
-date: 2023-05-04
+date: 2023-05-09
 url: /blog/download-and-save-files
 draft: false
 categories:

@@ -26,7 +26,7 @@ Did you know that you can even format how the interpolated value must be rendere
 
 ## Formatting dates
 
-The easiest way to learn it is by formattging dates:
+The easiest way to learn it is by formatting dates:
 
 ```cs
 DateTime date = new DateTime(2021,05,23);
