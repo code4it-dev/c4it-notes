@@ -1,15 +1,16 @@
 ---
-title: "C# Tip: {{ replace .Name "-" " " | title }}"
+title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-url: /csharptips/post-slug
+url: /blog/post-slug
 draft: false
 categories:
-- CSharp Tips
-tags: 
+- Blog
+tags:
 - CSharp
-toc: false
+toc: true
 summary: "A summary"
 ---
+
 
 ## Further readings
 
@@ -24,3 +25,17 @@ I hope you enjoyed this article! Let's keep in touch on [Twitter](https://twitte
 Happy coding!
 
 🐧
+
+
+[ ] Titoli
+
+[ ] Grammatica
+
+[ ] Bold/Italics
+
+[ ] Alt Text per immagini
+
+[ ] Frontmatter
+
+[ ] Nome cartella e slug devono combaciare
+

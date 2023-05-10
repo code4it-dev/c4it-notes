@@ -5,19 +5,19 @@
 Articolo:
 
 ```plaintext
-hugo new article/2023/01-article/index.md
+hugo new --kind article article/2023/01-article/
 ```
 
 Archi:
 
 ```plaintext
-hugo new architecture-note/01-article/index.md
+hugo new --kind archi architecture-note/01-article
 ```
 
 C#:
 
 ```plaintext
-hugo new csharp-tip/01-article/index.md
+hugo new --kind cstip csharp-tip/01-article/index.md
 ```
 
 ## Lanciare in locale

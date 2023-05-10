@@ -25,3 +25,16 @@ I hope you enjoyed this article! Let's keep in touch on [Twitter](https://twitte
 Happy coding!
 
 🐧
+
+[ ] Titoli
+
+[ ] Grammatica
+
+[ ] Bold/Italics
+
+[ ] Alt Text per immagini
+
+[ ] Frontmatter
+
+[ ] Nome cartella e slug devono combaciare
+
