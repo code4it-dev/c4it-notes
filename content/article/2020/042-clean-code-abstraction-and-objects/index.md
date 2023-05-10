@@ -142,7 +142,9 @@ But there are some **downsides**:
 - If we add a new class that inherits from `IContent` we must implement the operations that are already in place in every client. If we forget about it, the `CreateAnchorTag` method will return an empty string.
 - If we change the type of URL (it becomes a relative URL or an object of type `System.Uri`) we must update all the methods that reference that field to propagate the change.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">❗Procedural or OOP? 1️⃣/2️⃣<br><br>With Procedural all the operations are managed by LinkCreator.<br><br>PRO: you can add new functions to LinkCreator without affecting the Content subclasses.<br><br>CONS: when you add a new Content type, you must implement its methods in LinkCreator<a href="https://twitter.com/hashtag/cleancode?src=hash&amp;ref_src=twsrc%5Etfw">#cleancode</a> <a href="https://t.co/q8eHSZbUDD">pic.twitter.com/q8eHSZbUDD</a></p>&mdash; Davide Bellone 🐧 - 𝗰𝗼𝗱𝗲𝟰𝗶𝘁.𝗱𝗲𝘃 📃📃 (@BelloneDavide) <a href="https://twitter.com/BelloneDavide/status/1296470827010072577?ref_src=twsrc%5Etfw">August 20, 2020</a></blockquote>
+{{< tweet user="BelloneDavide" id="1296470827010072577" >}}
+
+
 ### Object-oriented programming
 
 In Object-oriented programming, we declare the functionalities to expose and we implement them directly within the class:
@@ -197,7 +199,9 @@ But even here there are some downsides:
 - If we expose a new method on `IContent`, we must implement it in every subclass, even when it's not required (should I care about the total video duration for a Twitter channel? Of course no).
 - It's harder to create easy-to-maintain classes hierarchies
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">❗Procedural or OOP? 2️⃣/2️⃣<br><br>With OOP &amp; polymorphism, each class implements its methods knowing the internal details of itself.<br><br>PRO: it&#39;s easy to add new Content classes w/o affecting the siblings<br><br>CONS: if you need to expose a new method, you need to add it to all the siblings</p>&mdash; Davide Bellone 🐧 - 𝗰𝗼𝗱𝗲𝟰𝗶𝘁.𝗱𝗲𝘃 📃📃 (@BelloneDavide) <a href="https://twitter.com/BelloneDavide/status/1296470828838801408?ref_src=twsrc%5Etfw">August 20, 2020</a></blockquote>
+{{< tweet user="BelloneDavide" id="1296470828838801408" >}}
+
+ 
 ### So what?
 
 Luckily we don't live in a world in black and white, but there are other shades: it's highly unlikely that you'll use _pure OO programming_ or _pure procedural programming_.
@@ -208,7 +212,9 @@ Understand Pro and Cons of each type, and apply them wherever is needed.
 
 ## Objects vs Data structure - according to Uncle Bob
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">❓ <br>&quot;Objects hide<br>their data behind abstractions and expose functions that operate on that data. Data structure<br>expose their data and have no meaningful functions&quot;<br><br>For me, a data structure (eg: linked list) exposes the operations, not the internals.<br>What do you think?<a href="https://twitter.com/hashtag/cleancode?src=hash&amp;ref_src=twsrc%5Etfw">#cleancode</a></p>&mdash; Davide Bellone 🐧 - 𝗰𝗼𝗱𝗲𝟰𝗶𝘁.𝗱𝗲𝘃 📃📃 (@BelloneDavide) <a href="https://twitter.com/BelloneDavide/status/1297262011584114689?ref_src=twsrc%5Etfw">August 22, 2020</a></blockquote>
+{{< tweet user="BelloneDavide" id="1297262011584114689" >}}
+
+ 
 There's a statement by the author that is the starting point of all his following considerations:
 
 > **Objects hide their data** behind abstractions and expose functions that operate on that data. **Data structure expose their data** and have no meaningful functions.
@@ -271,7 +277,8 @@ In this way, we decouple the properties of a _pure_ `Person` and the possible pr
 
 ## The Law of Demeter
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">⁉the Law of Demeter says that «a module should not know about the innard of the things it manipulates»<br><br>In the bad example the Client &quot;knows&quot; that an Item exposes a GetSerialNumber. It&#39;s a kind of &quot;second-level knowledge&quot;. <br><br>A thread 🧵 - <a href="https://twitter.com/hashtag/cleancode?src=hash&amp;ref_src=twsrc%5Etfw">#cleancode</a> <a href="https://t.co/PfygNCpZGr">https://t.co/PfygNCpZGr</a> <a href="https://t.co/1ovKnasBNX">pic.twitter.com/1ovKnasBNX</a></p>&mdash; Davide Bellone 🐧 - 𝗰𝗼𝗱𝗲𝟰𝗶𝘁.𝗱𝗲𝘃 📃📃 (@BelloneDavide) <a href="https://twitter.com/BelloneDavide/status/1300087681062440963?ref_src=twsrc%5Etfw">August 30, 2020</a></blockquote>
+{{< tweet user="BelloneDavide" id="1300087681062440963" >}}
+ 
 The **Law of Demeter** is a programming law that says that a _module should only talk to its friends_, not to strangers. What does it mean?
 
 Say that you have a `MyClass` class that contains a `MyFunction` class, which can accept some arguments. The Law of Demeter says that `MyFunction` should only call the methods of

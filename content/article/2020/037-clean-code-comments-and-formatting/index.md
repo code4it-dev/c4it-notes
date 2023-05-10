@@ -43,7 +43,8 @@ Luckily sometimes comments are helpful; rare cases, but they exist.
 
 ## Good comments
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">❗ Not all comments are evil. Some good examples?<br>1. intentions (what does this regex mean?)<br>2. reasons (eg: why is that the default value?)<br>3. // TODO comments (only if temporary!!)<br>4. highlight the importance of some code<a href="https://twitter.com/hashtag/cleancode?src=hash&amp;ref_src=twsrc%5Etfw">#cleancode</a> <a href="https://t.co/PfygNCpZGr">https://t.co/PfygNCpZGr</a></p>&mdash; Davide Bellone 🐧 - 𝗰𝗼𝗱𝗲𝟰𝗶𝘁.𝗱𝗲𝘃 📃📃 (@BelloneDavide) <a href="https://twitter.com/BelloneDavide/status/1284601759214833666?ref_src=twsrc%5Etfw">July 18, 2020</a></blockquote>
+{{< tweet user="BelloneDavide" id="1284601759214833666" >}}
+ 
 Yes, sometimes comments are useful. Or even necessary. Let's see when.
 
 ### Show intention and meaning
@@ -110,7 +111,8 @@ public string GetImagePath(string resourceId)
 
 ## Bad comments
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">❗ When a comment is bad?<br>1. It doesn&#39;t say anything important not already written in code<br>2. It lies (maybe because the code has changed in the meanwhile)<br>3. It&#39;s used to indicate the end of a method (if you need them, refactor the method!)<a href="https://twitter.com/hashtag/cleancode?src=hash&amp;ref_src=twsrc%5Etfw">#cleancode</a> <a href="https://t.co/PfygNCpZGr">https://t.co/PfygNCpZGr</a></p>&mdash; Davide Bellone 🐧 - 𝗰𝗼𝗱𝗲𝟰𝗶𝘁.𝗱𝗲𝘃 📃📃 (@BelloneDavide) <a href="https://twitter.com/BelloneDavide/status/1284603160221429760?ref_src=twsrc%5Etfw">July 18, 2020</a></blockquote>
+{{< tweet user="BelloneDavide" id="1284603160221429760" >}}
+ 
 Most of the time comments should be avoided. They can lead confusion to the developer, not be updated to the latest version of the code or they just make the code harder to read. Let's see some of the bad uses of comments.
 
 ### They explain what the code does
@@ -202,7 +204,8 @@ Better, isn't it?
 
 ## Both bad and good
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">❗ What about Javadoc-like comments?<br><br>✅ they explain what a method does and why<br>❌they just list the params without adding useful info<br>❌ they&#39;re written also for private methods<a href="https://twitter.com/hashtag/cleancode?src=hash&amp;ref_src=twsrc%5Etfw">#cleancode</a> <a href="https://t.co/PfygNCpZGr">https://t.co/PfygNCpZGr</a></p>&mdash; Davide Bellone 🐧 - 𝗰𝗼𝗱𝗲𝟰𝗶𝘁.𝗱𝗲𝘃 📃📃 (@BelloneDavide) <a href="https://twitter.com/BelloneDavide/status/1284604503979962369?ref_src=twsrc%5Etfw">July 18, 2020</a></blockquote>
+{{< tweet user="BelloneDavide" id="1284604503979962369" >}}
+ 
 There are comments that are both good and bad, it depends on how you structure them.
 
 Take for example documentation for APIs.
@@ -264,7 +267,9 @@ Here's a great quote from that book:
 
 ## How to structure classes
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">❗A good structure for files?<br>Small/medium files, with the most general info on top. The more you scroll down, the more you find the details.<br><br>This will help others understanding if the file they&#39;re looking for is that one without getting lost in the code.<a href="https://twitter.com/hashtag/cleancode?src=hash&amp;ref_src=twsrc%5Etfw">#cleancode</a> <a href="https://t.co/PfygNCpZGr">https://t.co/PfygNCpZGr</a></p>&mdash; Davide Bellone 🐧 - 𝗰𝗼𝗱𝗲𝟰𝗶𝘁.𝗱𝗲𝘃 📃📃 (@BelloneDavide) <a href="https://twitter.com/BelloneDavide/status/1284797140607393792?ref_src=twsrc%5Etfw">July 19, 2020</a></blockquote>
+{{< tweet user="BelloneDavide" id="1284797140607393792" >}}
+
+ 
 Think of a class as if it was a news article. Would you prefer all the info mixed up or have a clear, structured content?
 So a good idea is to have **all the general info on the top of the files**, and order the functions in a way that the more you scroll down in the file, the more you get into the details of what's going on.
 

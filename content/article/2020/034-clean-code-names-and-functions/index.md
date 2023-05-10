@@ -14,7 +14,9 @@ A few days ago I started (re)reading [Clean Code by Robert Martin](https://www.a
 
 But this time I decided to share on Twitter some of the tips that I find interesting.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m re-reading Clean Code by Robert Martin (I know you&#39;ve already read that, aren&#39;t you? 😎) <br><br>While reading it I&#39;ll post with the <a href="https://twitter.com/hashtag/cleancode?src=hash&amp;ref_src=twsrc%5Etfw">#cleancode</a> hashtag some of the tips I find interesting/I want to discuss with you. I&#39;ll not start a thread under this tweet to avoid clutter.<br><br>GO!</p>&mdash; Davide Bellone 🐧 - 𝗰𝗼𝗱𝗲𝟰𝗶𝘁.𝗱𝗲𝘃 📃📃 (@BelloneDavide) <a href="https://twitter.com/BelloneDavide/status/1278369328820346881?ref_src=twsrc%5Etfw">July 1, 2020</a></blockquote>
+{{< tweet user="BelloneDavide" id="1278369328820346881" >}}
+
+ 
 If you are on Twitter, you can follow the retweets to this tweet, and join me in this reading.
 
 In this series of articles, I'll sum up what I've learned reading chapter 2 - Meaningful Names, and 3 - Functions.
@@ -29,7 +31,8 @@ Here's the list (in progress)
 
 ## 1: Use consistent names
 
-<blockquote class="twitter-tweet" data-theme="light"><p lang="en" dir="ltr">❗ don&#39;t use different names to indicate the same abstract concept:<br><br>❌get, fetch, retrieve in different classes<br>✅be consistent and use always the same name<br><br>Consistency is important!<a href="https://twitter.com/hashtag/cleancode?src=hash&amp;ref_src=twsrc%5Etfw">#cleancode</a> <a href="https://twitter.com/hashtag/CodeNewbies?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbies</a> <a href="https://t.co/PfygNCpZGr">https://t.co/PfygNCpZGr</a></p>&mdash; Davide Bellone 🐧 - 𝗰𝗼𝗱𝗲𝟰𝗶𝘁.𝗱𝗲𝘃 📃📃 (@BelloneDavide) <a href="https://twitter.com/BelloneDavide/status/1278374169248509952?ref_src=twsrc%5Etfw">July 1, 2020</a> </blockquote>
+{{< tweet user="BelloneDavide" id="1278374169248509952" >}}
+
 A good way to have a clean code is to use consistent names through the whole codebase. Just imagine what happens if you use different names to indicate the same concept.
 
 Imagine that you need to retrieve data from many sources. You could define these methods
@@ -146,13 +149,16 @@ string storeNumbersInString(List<int> numbers)
 Still not perfect, but it's better than the original function.
 Have a look at the _reverseNumbers_ function. It will cause trouble, and we'll see why soon.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">❗ Keep functions small! The indent level should be 1 or 2, so avoid nesting too much code.<br>Split big functions into multiple, meaningful functions, and make the code more readable!<br><br>Of course, use meaningful names!<a href="https://twitter.com/hashtag/cleancode?src=hash&amp;ref_src=twsrc%5Etfw">#cleancode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/PfygNCpZGr">https://t.co/PfygNCpZGr</a></p>&mdash; Davide Bellone 🐧 - 𝗰𝗼𝗱𝗲𝟰𝗶𝘁.𝗱𝗲𝘃 📃📃 (@BelloneDavide) <a href="https://twitter.com/BelloneDavide/status/1278401074714619904?ref_src=twsrc%5Etfw">July 1, 2020</a></blockquote>
+{{< tweet user="BelloneDavide" id="1278401074714619904" >}}
+
 Also, notice how I changed the name of the main function: _storeOddNumbersInAReversedString_ is longer than _printOnlyOddNumbers_, but it helps to understand what's going on.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">❗ &quot;A long descriptive name is better than a short<br>enigmatic name. A long descriptive name is better than a long descriptive comment&quot;<br><br>I think this statement should be printed in many offices :)<a href="https://twitter.com/hashtag/cleancode?src=hash&amp;ref_src=twsrc%5Etfw">#cleancode</a> <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> <a href="https://twitter.com/hashtag/CodeNewbies?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbies</a> <a href="https://t.co/PfygNCpZGr">https://t.co/PfygNCpZGr</a></p>&mdash; Davide Bellone 🐧 - 𝗰𝗼𝗱𝗲𝟰𝗶𝘁.𝗱𝗲𝘃 📃📃 (@BelloneDavide) <a href="https://twitter.com/BelloneDavide/status/1280954059214782465?ref_src=twsrc%5Etfw">July 8, 2020</a></blockquote>
+{{< tweet user="BelloneDavide" id="1280954059214782465" >}}
+
 ## 3: Keep a coherent abstraction level
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">❗Keep a coherent abstraction level in each function<br><br>❌printWithDiscount(prod){<br>price = prod.Price<br>finalPrice = price*0.9<br>Console.Write(finalPrice)}<br><br>✅printWithDiscount(prod){<br>price = prod.Price<br>finalPrice = calcFinalPrice(price)<br>print(finalPrice)}<a href="https://twitter.com/hashtag/cleancode?src=hash&amp;ref_src=twsrc%5Etfw">#cleancode</a> <a href="https://twitter.com/hashtag/bestpractices?src=hash&amp;ref_src=twsrc%5Etfw">#bestpractices</a> <a href="https://t.co/PfygNCpZGr">https://t.co/PfygNCpZGr</a></p>&mdash; Davide Bellone 🐧 - 𝗰𝗼𝗱𝗲𝟰𝗶𝘁.𝗱𝗲𝘃 📃📃 (@BelloneDavide) <a href="https://twitter.com/BelloneDavide/status/1280617096272121857?ref_src=twsrc%5Etfw">July 7, 2020</a></blockquote>
+{{< tweet user="BelloneDavide" id="1280617096272121857" >}}
+
 Don't mix different abstraction levels in the same function:
 
 ```cs
@@ -178,7 +184,8 @@ It can cause confusion on the readers because they won't know what are important
 
 ## 4: Prefer polymorphism over switch statements
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">❗ switch statements can be avoided with polymorphism.<br><br>Instead of using a Switch on an object property, use subclasses: this will make your code more reliable &amp; with fewer repetitions (you won&#39;t need to repeat the switch statement in different methods)<a href="https://twitter.com/hashtag/cleancode?src=hash&amp;ref_src=twsrc%5Etfw">#cleancode</a> <a href="https://twitter.com/hashtag/codenewbies?src=hash&amp;ref_src=twsrc%5Etfw">#codenewbies</a> <a href="https://t.co/PfygNCpZGr">https://t.co/PfygNCpZGr</a></p>&mdash; Davide Bellone 🐧 - 𝗰𝗼𝗱𝗲𝟰𝗶𝘁.𝗱𝗲𝘃 📃📃 (@BelloneDavide) <a href="https://twitter.com/BelloneDavide/status/1280951477310304261?ref_src=twsrc%5Etfw">July 8, 2020</a></blockquote>
+{{< tweet user="BelloneDavide" id="1280951477310304261" >}}
+
 You have this Ticket class:
 
 ```cs
@@ -297,7 +304,8 @@ _PSST: wanna know some cool things about Enums? [Here's something for you!](http
 
 ## 5: avoid side effects
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">❗You know, functions must do 1 thing and do it well.<br><br>This also means avoid side effects: if you do that &quot;one thing&quot; and also change the state of the system, you are doing more things. <br><br>But, if it&#39;s inevitable, at least say it in the fn name!<a href="https://twitter.com/hashtag/cleancode?src=hash&amp;ref_src=twsrc%5Etfw">#cleancode</a> <a href="https://twitter.com/hashtag/codenewbie?src=hash&amp;ref_src=twsrc%5Etfw">#codenewbie</a> <a href="https://t.co/PfygNCpZGr">https://t.co/PfygNCpZGr</a></p>&mdash; Davide Bellone 🐧 - 𝗰𝗼𝗱𝗲𝟰𝗶𝘁.𝗱𝗲𝘃 📃📃 (@BelloneDavide) <a href="https://twitter.com/BelloneDavide/status/1282316483431993349?ref_src=twsrc%5Etfw">July 12, 2020</a></blockquote>
+{{< tweet user="BelloneDavide" id="1282316483431993349" >}}
+
 You often hear (correctly) that
 
 > A function must do one thing and to it well
@@ -328,7 +336,8 @@ So now the state of the input parameter has changed without notifying anyone. Ju
 
 ## 6: Fewer arguments, better readability
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">❗How many function arguments? Ideally, 0 or 1: this helps you split a bigger problem in different small ones. Divide et impera.<br><br>Best cases to one an argument? Check a property on that arg (ex: it exists) or transform an input in an output.<a href="https://twitter.com/hashtag/cleancode?src=hash&amp;ref_src=twsrc%5Etfw">#cleancode</a> <a href="https://twitter.com/hashtag/codenewbie?src=hash&amp;ref_src=twsrc%5Etfw">#codenewbie</a> <a href="https://t.co/PfygNCpZGr">https://t.co/PfygNCpZGr</a></p>&mdash; Davide Bellone 🐧 - 𝗰𝗼𝗱𝗲𝟰𝗶𝘁.𝗱𝗲𝘃 📃📃 (@BelloneDavide) <a href="https://twitter.com/BelloneDavide/status/1282303752700125185?ref_src=twsrc%5Etfw">July 12, 2020</a></blockquote>
+{{< tweet user="BelloneDavide" id="1282303752700125185" >}}
+ 
 Keep the number of function arguments as small as possible. Ideally you should have 0 or 1 arguments, but even 2 or 3 are fine. If more... well, you have to think about how to refactor your code!
 
 What are the best cases for using one argument?
@@ -340,7 +349,8 @@ Sometimes you just cannot use a single parameter, for example for coordinates. B
 
 ## 7: Prefer exceptions over error codes
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">❗Prefer exceptions over error codes.<br><br>Error codes are often stored in enums, and then shared across the whole project.<br><br>If you change that enum, you must update the dependency in many places. So, if possible, avoid them.<a href="https://twitter.com/hashtag/cleancode?src=hash&amp;ref_src=twsrc%5Etfw">#cleancode</a> <a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://t.co/PfygNCpZGr">https://t.co/PfygNCpZGr</a></p>&mdash; Davide Bellone 🐧 - 𝗰𝗼𝗱𝗲𝟰𝗶𝘁.𝗱𝗲𝘃 📃📃 (@BelloneDavide) <a href="https://twitter.com/BelloneDavide/status/1282382545930334214?ref_src=twsrc%5Etfw">July 12, 2020</a></blockquote>
+{{< tweet user="BelloneDavide" id="1282382545930334214" >}}
+ 
 Remember what I said about polymorphism and enums? The same applies to exceptions.
 
 ```cs
