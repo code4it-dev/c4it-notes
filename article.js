@@ -7,7 +7,10 @@ if(!slug)
     return;
 }
 
-console.log("Hello", slug);
+console.table({
+    "tipo" : "Main Article",
+    "slug" : slug
+});
 
 execSync('git checkout master');
 execSync('git pull');

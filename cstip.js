@@ -9,7 +9,10 @@ if(!slug)
     return;
 }
 
-console.log("Hello", slug);
+console.table({
+    "tipo" : "C# Tip",
+    "slug" : slug
+});
 
 execSync('git checkout master');
 execSync('git pull');
