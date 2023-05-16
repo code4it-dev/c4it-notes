@@ -2,11 +2,11 @@
 title: How to customize Swagger UI with custom CSS in .NET 7
 date: 2022-12-16
 tags:
-- dotnet
+  - dotnet
 toc: true
 url: /blog/customize-swagger-ui-with-css
 categories:
-- Blog
+  - Blog
 summary: "Exposing Swagger UI is a good way to help developers consume your APIs. But don't be boring: customize your UI with some fancy CSS"
 ---
 

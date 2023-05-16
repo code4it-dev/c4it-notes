@@ -1,14 +1,14 @@
 ---
-title: 'Azure Service Bus: Queues vs Topics'
+title: "Azure Service Bus: Queues vs Topics"
 date: 2021-06-15
 tags:
-- Azure
-- dotnet
-- CSharp
+  - Azure
+  - dotnet
+  - CSharp
 toc: true
 url: /blog/azure-service-bus-queue-vs-topic
 categories:
-- Blog
+  - Blog
 summary: Queues or Topics? How are they similar and how they are different? We'll see how to use those capabilities in Azure Service Bus with .NET and C#
 ---
 

@@ -2,12 +2,12 @@
 title: How to open the same URL on different environments with PowerShell
 date: 2021-01-26
 tags:
-- PowerShell
-- MISC
+  - PowerShell
+  - MISC
 toc: true
 url: /blog/powershell-basics-open-multiple-browsers
 categories:
-- Blog
+  - Blog
 summary: Revise PowerShell basics with a simple script that opens a browser for each specified URL. We're gonna cover how to declare variables, define arrays, concatenate strings and run CMD commands.
 ---
 

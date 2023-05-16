@@ -2,12 +2,12 @@
 title: How you can create extension methods in C#
 date: 2020-02-18
 tags:
-- CSharp
-- dotnet
+  - CSharp
+  - dotnet
 toc: true
 url: /blog/csharp-extension-methods
 categories:
-- Blog
+  - Blog
 summary: Extension methods in C# are really useful, but there are few rules to follow...
 ---
 

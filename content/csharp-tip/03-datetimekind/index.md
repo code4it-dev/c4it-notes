@@ -1,11 +1,11 @@
 ---
-title: 'C# tip: create correct DateTimes with DateTimeKind'
+title: "C# tip: create correct DateTimes with DateTimeKind"
 date: 2021-08-07
 tags:
-- CSharp
+  - CSharp
 url: /csharptips/datetimekind
 categories:
-- CSharp Tips
+  - CSharp Tips
 summary: Creating simple DateTimes creates issues when handling timezones. You can solve some issues by using DateTimeKind
 ---
 

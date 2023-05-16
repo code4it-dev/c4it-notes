@@ -1,11 +1,11 @@
 ---
-title: 'C# Tip: Convert ExpandoObjects to IDictionary'
+title: "C# Tip: Convert ExpandoObjects to IDictionary"
 date: 2022-05-10
 tags:
-- CSharp
+  - CSharp
 url: /csharptips/expandoobject-to-dictionary
 categories:
-- CSharp Tips
+  - CSharp Tips
 summary: How to get all the keys of an ExpandoObject? Convert it to Dictionary!
 ---
 

@@ -2,11 +2,11 @@
 title: Measuring maintainability metrics with NDepend
 date: 2022-02-15
 tags:
-- dotnet
+  - dotnet
 toc: true
 url: /blog/measure-maintainability-with-ndepend
 categories:
-- Blog
+  - Blog
 summary: Keeping an eye on maintainability is mandatory for every project which should live long. With NDepend, you can measure maintainability for .NET projects.
 ---
 

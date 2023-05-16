@@ -1,11 +1,11 @@
 ---
-title: 'C# Tip: use IHttpClientFactory to generate HttpClient instances'
+title: "C# Tip: use IHttpClientFactory to generate HttpClient instances"
 date: 2022-06-07
 tags:
-- CSharp
+  - CSharp
 url: /csharptips/use-httpclientfactory-instead-of-httpclient
 categories:
-- CSharp Tips
+  - CSharp Tips
 summary: Initializing HttpClient instances can expose you to Socket Exhaustion problems. You should use IHttpClientFactory instead
 ---
 

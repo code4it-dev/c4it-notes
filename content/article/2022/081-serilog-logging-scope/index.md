@@ -2,12 +2,12 @@
 title: How to improve Serilog logging in .NET 6 by using Scopes
 date: 2022-06-21
 tags:
-- dotnet
-- CSharp
+  - dotnet
+  - CSharp
 toc: true
 url: /blog/serilog-logging-scope
 categories:
-- Blog
+  - Blog
 summary: Logs are important. Properly structured logs can be the key to resolving some critical issues. With Serilog's Scopes, you can enrich your logs with info about the context where they happened.
 ---
 

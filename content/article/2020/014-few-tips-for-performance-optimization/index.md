@@ -2,13 +2,13 @@
 title: A few tips for performance optimization
 date: 2020-01-06
 tags:
-- dotnet
-- CSharp
-- Performance
+  - dotnet
+  - CSharp
+  - Performance
 toc: true
 url: /blog/few-tips-for-performance-optimization
 categories:
-- Blog
+  - Blog
 summary: More than 50% of mobile users abandon a website if it takes more than 3 seconds to load. Here you'll learn few trick to improve your site performance.
 ---
 

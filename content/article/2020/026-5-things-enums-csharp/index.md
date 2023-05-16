@@ -2,11 +2,11 @@
 title: 5 things you should know about enums in C#
 date: 2020-05-05
 tags:
-- CSharp
+  - CSharp
 toc: true
 url: /blog/5-things-enums-csharp
 categories:
-- Blog
+  - Blog
 summary: "Enums are often used with C#. Boring, right? Maybe there is something you didn't know: casting, parsing and flagged enums."
 ---
 

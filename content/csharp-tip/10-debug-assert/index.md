@@ -1,11 +1,11 @@
 ---
-title: 'C# Tip: Use Debug-Assert to break the debugging flow if a condition fails'
+title: "C# Tip: Use Debug-Assert to break the debugging flow if a condition fails"
 date: 2022-04-05
 tags:
-- CSharp
+  - CSharp
 url: /csharptips/debug-assert
 categories:
-- CSharp Tips
+  - CSharp Tips
 summary: It would be great if we could break the debugging flow if a condition is (not) met. Can we? Of course!
 ---
 

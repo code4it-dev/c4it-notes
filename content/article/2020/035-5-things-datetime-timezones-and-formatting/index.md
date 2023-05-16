@@ -2,11 +2,11 @@
 title: 5 things about DateTime time zones and formatting
 date: 2020-07-28
 tags:
-- CSharp
+  - CSharp
 toc: true
 url: /blog/5-things-datetime-timezones-and-formatting
 categories:
-- Blog
+  - Blog
 summary: You're using DateTime.Now, aren't you? Be careful, because it may bring some troubles to your application. Here I'll explain why and I'll talk about time zones and formatting in C# DateTime.
 ---
 

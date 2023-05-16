@@ -2,13 +2,13 @@
 title: Azure Service Bus and C# - an introduction
 date: 2021-06-01
 tags:
-- Azure
-- dotnet
-- CSharp
+  - Azure
+  - dotnet
+  - CSharp
 toc: true
 url: /blog/azure-service-bus-introduction
 categories:
-- Blog
+  - Blog
 summary: Azure Service bus is a message broker generally used for sharing messages between applications. In this article, we're gonna see an introduction to Azure Service Bus, and how to work with it with .NET and C#
 ---
 

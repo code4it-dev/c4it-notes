@@ -1,11 +1,11 @@
 ---
-title: 'C# Tip: Exception handling with WHEN clause'
+title: "C# Tip: Exception handling with WHEN clause"
 date: 2022-02-08
 tags:
-- CSharp
+  - CSharp
 url: /csharptips/exception-handling-when-clause
 categories:
-- CSharp Tips
+  - CSharp Tips
 summary: Instead of using if-else or switch blocks to handle exceptions, you can do it gracefully using the 'when' keyword.
 ---
 

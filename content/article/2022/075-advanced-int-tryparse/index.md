@@ -2,11 +2,11 @@
 title: Advanced parsing using Int.TryParse in C#
 date: 2022-03-15
 tags:
-- CSharp
+  - CSharp
 toc: true
 url: /blog/advanced-int-tryparse
 categories:
-- Blog
+  - Blog
 summary: We all need to parse strings as integers. Most of the time, we use int.TryParse(string, out int). But there's a more advanced overload that we can use for complex parsing.
 ---
 

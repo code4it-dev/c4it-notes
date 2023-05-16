@@ -1,13 +1,13 @@
 ---
-title: 'Cobertura, YAML, and Code Coverage Protector: how to view Code Coverage report on Azure DevOps'
+title: "Cobertura, YAML, and Code Coverage Protector: how to view Code Coverage report on Azure DevOps"
 date: 2021-04-06
 tags:
-- Azure DevOps
-- Tests
+  - Azure DevOps
+  - Tests
 toc: true
 url: /blog/code-coverage-on-azure-devops-yaml-pipelines
 categories:
-- Blog
+  - Blog
 summary: Code coverage is a good indicator of the health of your projects. We'll see how to show Cobertura reports associated to your builds on Azure DevOps and how to display the progress on Dashboard.
 ---
 

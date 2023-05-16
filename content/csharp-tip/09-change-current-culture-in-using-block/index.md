@@ -1,11 +1,11 @@
 ---
-title: 'C# Tip: How to temporarily change the CurrentCulture'
+title: "C# Tip: How to temporarily change the CurrentCulture"
 date: 2022-03-08
 tags:
-- CSharp
+  - CSharp
 url: /csharptips/change-current-culture-in-using-block
 categories:
-- CSharp Tips
+  - CSharp Tips
 summary: What can you do if you need to temporarily change the CurrentCulture in C#?
 ---
 

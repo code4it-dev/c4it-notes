@@ -2,11 +2,11 @@
 title: Clean code tips - comments and formatting
 date: 2020-08-18
 tags:
-- Clean Code
+  - Clean Code
 toc: true
 url: /blog/clean-code-comments-and-formatting
 categories:
-- Blog
+  - Blog
 summary: Are all comments bad? When they are necessary? Why formatting is so important? Writing clean code does not only refer to the executed code, but also to everything around.
 ---
 
@@ -44,7 +44,7 @@ Luckily sometimes comments are helpful; rare cases, but they exist.
 ## Good comments
 
 {{< tweet user="BelloneDavide" id="1284601759214833666" >}}
- 
+
 Yes, sometimes comments are useful. Or even necessary. Let's see when.
 
 ### Show intention and meaning
@@ -112,7 +112,7 @@ public string GetImagePath(string resourceId)
 ## Bad comments
 
 {{< tweet user="BelloneDavide" id="1284603160221429760" >}}
- 
+
 Most of the time comments should be avoided. They can lead confusion to the developer, not be updated to the latest version of the code or they just make the code harder to read. Let's see some of the bad uses of comments.
 
 ### They explain what the code does
@@ -205,7 +205,7 @@ Better, isn't it?
 ## Both bad and good
 
 {{< tweet user="BelloneDavide" id="1284604503979962369" >}}
- 
+
 There are comments that are both good and bad, it depends on how you structure them.
 
 Take for example documentation for APIs.
@@ -269,7 +269,6 @@ Here's a great quote from that book:
 
 {{< tweet user="BelloneDavide" id="1284797140607393792" >}}
 
- 
 Think of a class as if it was a news article. Would you prefer all the info mixed up or have a clear, structured content?
 So a good idea is to have **all the general info on the top of the files**, and order the functions in a way that the more you scroll down in the file, the more you get into the details of what's going on.
 

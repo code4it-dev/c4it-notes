@@ -1,11 +1,11 @@
 ---
-title: 'C# tip: define Using Aliases to avoid ambiguity'
+title: "C# tip: define Using Aliases to avoid ambiguity"
 date: 2021-09-21
 tags:
-- CSharp
+  - CSharp
 url: /csharptips/using-alias
 categories:
-- CSharp Tips
+  - CSharp Tips
 summary: Sometimes we need to use objects with the same name but from different namespaces. How to remove that ambiguity? By Using Aliases!
 ---
 

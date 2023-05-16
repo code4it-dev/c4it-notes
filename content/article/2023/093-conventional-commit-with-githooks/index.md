@@ -2,12 +2,12 @@
 title: How to customize Conventional Commits in a .NET application using GitHooks
 date: 2023-02-07
 tags:
-- dotnet
-- npm
+  - dotnet
+  - npm
 toc: true
 url: /blog/conventional-commit-with-githooks
 categories:
-- Blog
+  - Blog
 summary: Using Conventional Commits you can define a set of rules useful for writing meaningful commit messages. Using NPM. Yes, in a dotNET application!
 ---
 

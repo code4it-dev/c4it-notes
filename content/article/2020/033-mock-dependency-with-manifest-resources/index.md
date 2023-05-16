@@ -2,13 +2,13 @@
 title: How to mock dependencies with Manifest resources
 date: 2020-07-14
 tags:
-- CSharp
-- dotnet
-- Tests
+  - CSharp
+  - dotnet
+  - Tests
 toc: true
 url: /blog/mock-dependency-with-manifest-resources
 categories:
-- Blog
+  - Blog
 summary: Sometimes on your tests you need to access test files, for example for mocking external data. With manifest resources you can easily reference files for your tests.
 ---
 

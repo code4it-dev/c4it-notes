@@ -1,11 +1,11 @@
 ---
-title: 'Clean Code Tip: DRY or not DRY?'
+title: "Clean Code Tip: DRY or not DRY?"
 date: 2022-10-11
 tags:
-- Clean Code
+  - Clean Code
 url: /cleancodetips/dry-or-not-dry
 categories:
-- Clean Code Tips
+  - Clean Code Tips
 summary: DRY is a fundamental principle in software development. Should you apply it blindly?
 ---
 

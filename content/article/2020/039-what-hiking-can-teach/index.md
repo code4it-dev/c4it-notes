@@ -2,13 +2,13 @@
 title: 10 things hiking can teach you as a junior developer
 date: 2020-09-08
 tags:
-- Career
-- MISC
-- Programming
+  - Career
+  - MISC
+  - Programming
 toc: true
 url: /blog/what-hiking-can-teach
 categories:
-- Blog
+  - Blog
 summary: During this holiday I hiked for the first time. I found some lessons that hiking can teach junior devs
 ---
 

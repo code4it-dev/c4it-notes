@@ -2,12 +2,12 @@
 title: How to resolve dependencies in .NET APIs based on current HTTP Request
 date: 2021-11-09
 tags:
-- dotnet
-- CSharp
+  - dotnet
+  - CSharp
 toc: true
 url: /blog/resolving-dependencies-depending-on-httprequest
 categories:
-- Blog
+  - Blog
 summary: Did you know that in .NET you can resolve specific dependencies using Factories? We'll use them to switch between concrete classes based on the current HTTP Request
 ---
 

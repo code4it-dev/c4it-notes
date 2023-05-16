@@ -2,12 +2,12 @@
 title: How to view code coverage with Coverlet and Visual Studio 2019
 date: 2020-12-29
 tags:
-- Visual Studio
-- Tests
+  - Visual Studio
+  - Tests
 toc: true
 url: /blog/code-coverage-vs-2019-coverlet
 categories:
-- Blog
+  - Blog
 summary: Code coverage is an indicator of the quality of your code. With Coverlet and VS2019 you can have a human readable report to see where to improve your code.
 ---
 

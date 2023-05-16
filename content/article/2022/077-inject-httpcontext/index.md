@@ -2,12 +2,12 @@
 title: How to access the HttpContext in .NET API
 date: 2022-04-12
 tags:
-- dotnet
-- CSharp
+  - dotnet
+  - CSharp
 toc: true
 url: /blog/inject-httpcontext
 categories:
-- Blog
+  - Blog
 summary: If your application is exposed on the Web, I guess that you get some values from the HTTP Requests, don't you?
 ---
 

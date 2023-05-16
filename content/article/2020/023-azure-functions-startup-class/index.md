@@ -2,14 +2,14 @@
 title: How to add a Startup class to Azure Functions
 date: 2020-04-14
 tags:
-- dotnet
-- Azure Function
-- Azure
-- Serverless
+  - dotnet
+  - Azure Function
+  - Azure
+  - Serverless
 toc: true
 url: /blog/azure-functions-startup-class
 categories:
-- Blog
+  - Blog
 summary: "Azure Functions are one of the best examples of serverless applications. By default you can't use Dependency injection: here's how you can configure it by adding the Startup class."
 ---
 

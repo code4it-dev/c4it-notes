@@ -1,11 +1,11 @@
 ---
-title: 'Clean Code Tip: Keep the parameters in a consistent order'
+title: "Clean Code Tip: Keep the parameters in a consistent order"
 date: 2021-11-30
 tags:
-- Clean Code
+  - Clean Code
 url: /cleancodetips/consistent-of-parameters
 categories:
-- Clean Code Tips
+  - Clean Code Tips
 summary: Following a coherent standard, even for parameters order, helps developers when writing and, even more, reading code. How to do that?
 ---
 

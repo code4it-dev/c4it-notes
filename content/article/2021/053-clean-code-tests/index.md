@@ -2,11 +2,11 @@
 title: Clean code tips - Tests
 date: 2021-03-23
 tags:
-- Clean Code
+  - Clean Code
 toc: true
 url: /blog/clean-code-tests
 categories:
-- Blog
+  - Blog
 summary: Tests are as important as production code. Well, they are even more important! So writing them well brings lots of benefits to your projects.
 ---
 

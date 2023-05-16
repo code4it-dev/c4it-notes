@@ -2,13 +2,13 @@
 title: Simplify debugging with DebuggerDisplay attribute dotNET
 date: 2021-07-13
 tags:
-- CSharp
-- dotnet
-- Visual Studio
+  - CSharp
+  - dotnet
+  - Visual Studio
 toc: true
 url: /blog/debuggerdisplay-attribute
 categories:
-- Blog
+  - Blog
 summary: Debugging our .NET applications can be cumbersome. With the DebuggerDisplay attribute we can simplify it by displaying custom messages.
 ---
 

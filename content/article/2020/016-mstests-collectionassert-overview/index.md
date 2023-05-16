@@ -2,12 +2,12 @@
 title: MSTest CollectionAssert class - an overview
 date: 2020-02-04
 tags:
-- CSharp
-- Tests
+  - CSharp
+  - Tests
 toc: true
 url: /blog/mstests-collectionassert-overview
 categories:
-- Blog
+  - Blog
 summary: The CollectionAssert class if fine for basic tests on collections in C#. We will have a look at the methods exposed by this class.
 ---
 

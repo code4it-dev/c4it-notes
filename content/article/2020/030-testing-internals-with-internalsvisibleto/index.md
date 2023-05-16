@@ -2,12 +2,12 @@
 title: Testing internal members with InternalsVisibleTo
 date: 2020-06-02
 tags:
-- CSharp
-- dotnet
+  - CSharp
+  - dotnet
 toc: true
 url: /blog/testing-internals-with-internalsvisibleto
 categories:
-- Blog
+  - Blog
 summary: Internal members can be accessed only within the same assembly. And for different assemblies? Here's for you the InternalsVisibleTo attribute!
 ---
 

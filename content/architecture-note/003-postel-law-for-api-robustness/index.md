@@ -4,10 +4,10 @@ date: 2023-04-18
 url: /architecture-notes/postel-law-for-api-robustness
 draft: false
 categories:
-- Code and Architecture Notes
+  - Code and Architecture Notes
 tags:
-- Software Architecture
-- API
+  - Software Architecture
+  - API
 toc: true
 summary: "A system should be **robust**: it should be able to resist change and, well, not generate regressions. Postel's law helps define a mindset to create robust APIs."
 ---
@@ -28,7 +28,7 @@ Ok, what? But what does it actually mean?
 
 Before talking about Postel's law, we should spend just a few words about robustness.
 
-It's quite difficult to find a definition of robustness. But we can say that *robustness is the property of a system not to break in case of minor changes*.
+It's quite difficult to find a definition of robustness. But we can say that _robustness is the property of a system not to break in case of minor changes_.
 
 Note that **Robustness and Reliability are not the same thing**: a system is reliable if it can properly work for a certain period of time under some conditions: for example, a reliable system should be able to work in case of unexpected errors, should be available to users, and so on. Robustness is a slightly different Quality Attribute.
 
@@ -71,8 +71,8 @@ So, for example, if your endpoint returns
 
 ```json
 {
-    "id": 123,
-    "title": "My wonderful book",
+  "id": 123,
+  "title": "My wonderful book"
 }
 ```
 
@@ -98,15 +98,15 @@ Here's a valid API call to our system:
 GET /books?name=eragon&year=2002
 ```
 
-how can we *be liberal in what we accept*?
+how can we _be liberal in what we accept_?
 
-For example, we *should not* return Bad Request in the case the caller adds some not recognized parameters:
+For example, we _should not_ return Bad Request in the case the caller adds some not recognized parameters:
 
 ```plaintext
 GET /books?name=eragon&year=2002&not_existing_property=value
 ```
 
-*not_existing_property* is not one of the parameters supported by our API: we should simply ignore it.
+_not_existing_property_ is not one of the parameters supported by our API: we should simply ignore it.
 
 Some basic rules to "be liberal":
 
@@ -124,7 +124,7 @@ A good first approach is by using **Feature Flags**: we can develop new function
 
 Clearly, good **versioning** is crucial: clients should be able to understand which functionalities and changes are available in a specific version.
 
-And, finally, instead of removing stuff, such as API endpoints or parameters, we should **deprecate** them and tell the consumers that we will remove them in a future *version* of the API.
+And, finally, instead of removing stuff, such as API endpoints or parameters, we should **deprecate** them and tell the consumers that we will remove them in a future _version_ of the API.
 
 In the end, the golden rule is: **communicate clearly**. Good internal documentation, clear communication with clients, and so on.
 
@@ -157,7 +157,6 @@ In this article, we've learned that Postel's law helps us set a path to create r
 In short, we have to validate our inputs, be explicit in what we accept and what we return, and do our best not to generate regressions.
 
 I hope you enjoyed this article! Let's keep in touch on [Twitter](https://twitter.com/BelloneDavide) or on [LinkedIn](https://www.linkedin.com/in/BelloneDavide/), if you want! 🤜🤛
-
 
 Happy coding!
 

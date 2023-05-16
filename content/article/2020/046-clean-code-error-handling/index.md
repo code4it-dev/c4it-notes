@@ -2,11 +2,11 @@
 title: Clean code tips - Error handling
 date: 2020-12-15
 tags:
-- Clean Code
+  - Clean Code
 toc: true
 url: /blog/clean-code-error-handling
 categories:
-- Blog
+  - Blog
 summary: The way you handle errors on your code can have a huge impact on the maintainability of your projects. Don't underestimate the power of clean error handling.
 ---
 

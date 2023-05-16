@@ -1,13 +1,13 @@
 ---
-title: 'First steps with Docker: download and run MongoDB locally'
+title: "First steps with Docker: download and run MongoDB locally"
 date: 2020-05-12
 tags:
-- Docker
-- MongoDB
+  - Docker
+  - MongoDB
 toc: true
 url: /blog/run-mongodb-on-docker
 categories:
-- Blog
+  - Blog
 summary: Docker is a project that allows you to create and run applications in an isolated environment. Let's try it to run MongoDB on your machine!
 ---
 

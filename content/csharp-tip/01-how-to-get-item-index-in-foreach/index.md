@@ -1,11 +1,11 @@
 ---
-title: 'C# tip: how to get the index of an item in a foreach loop'
+title: "C# tip: how to get the index of an item in a foreach loop"
 date: 2021-06-08
 tags:
-- CSharp
+  - CSharp
 url: /csharptips/how-to-get-item-index-in-foreach
 categories:
-- CSharp Tips
+  - CSharp Tips
 summary: Do you need the index of the current item in a foreach loop with C#? Here you'll see two approaches.
 ---
 

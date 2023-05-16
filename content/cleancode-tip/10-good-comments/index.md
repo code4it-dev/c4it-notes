@@ -1,11 +1,11 @@
 ---
-title: 'Clean Code Tip: Not all comments are bad'
+title: "Clean Code Tip: Not all comments are bad"
 date: 2022-03-22
 tags:
-- Clean Code
+  - Clean Code
 url: /cleancodetips/good-comments
 categories:
-- Clean Code Tips
+  - Clean Code Tips
 summary: "Is it true that we should always avoid comments in our code? In my opinion, no: let's see when adding comments is not only good but necessary."
 ---
 
