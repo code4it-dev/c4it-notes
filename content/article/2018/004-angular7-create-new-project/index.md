@@ -2,11 +2,11 @@
 title: How to create a new Angular 7 project
 date: 2018-12-01
 tags:
-- Angular
+  - Angular
 toc: true
 url: /blog/angular7-create-new-project
 categories:
-- Blog
+  - Blog
 summary: Are you ready to create a brand new Angular project? The CLI can help you with common settings.
 ---
 

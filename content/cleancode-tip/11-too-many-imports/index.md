@@ -1,11 +1,11 @@
 ---
-title: 'Clean Code Tip: Avoid using too many Imports in your classes'
+title: "Clean Code Tip: Avoid using too many Imports in your classes"
 date: 2022-04-19
 tags:
-- Clean Code
+  - Clean Code
 url: /cleancodetips/too-many-imports
 categories:
-- Clean Code Tips
+  - Clean Code Tips
 summary: Having too many 'using's, or imports, is a good indicator that your class does too many things. You should work to reduce the number of dependencies of a class.
 ---
 

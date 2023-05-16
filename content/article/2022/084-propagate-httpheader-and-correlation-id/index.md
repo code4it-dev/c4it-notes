@@ -2,12 +2,12 @@
 title: How to propagate HTTP Headers (and  Correlation IDs) using HttpClients in C#
 date: 2022-08-02
 tags:
-- CSharp
-- dotnet
+  - CSharp
+  - dotnet
 toc: true
 url: /blog/propagate-httpheader-and-correlation-id
 categories:
-- Blog
+  - Blog
 summary: Propagating HTTP Headers can be useful, especially when dealing with Correlation IDs. It's time to customize our HttpClients!
 ---
 

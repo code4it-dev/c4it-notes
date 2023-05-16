@@ -1,11 +1,11 @@
 ---
-title: 'Clean Code Tip: Tests should be even more well-written than production code'
+title: "Clean Code Tip: Tests should be even more well-written than production code"
 date: 2022-05-24
 tags:
-- Clean Code
+  - Clean Code
 url: /cleancodetips/tests-should-be-readable-too
 categories:
-- Clean Code Tips
+  - Clean Code Tips
 summary: Should you write your tests with the same care you write the production code? Of course you should! But what does it mean?
 ---
 

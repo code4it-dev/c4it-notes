@@ -2,12 +2,12 @@
 title: "Davide's Code and Architecture Notes - Server-side caching strategies: how do they work?"
 date: 2023-01-24
 tags:
-- Software Architecture
-- Architecture
+  - Software Architecture
+  - Architecture
 toc: true
 url: /architecture-notes/caching-strategies
 categories:
-- Code and Architecture Notes
+  - Code and Architecture Notes
 summary: "Cache-aside, Read-through, Write-through, Write-behind: quite easy on the surface, but let's go a little deeper!"
 ---
 

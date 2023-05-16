@@ -1,11 +1,11 @@
 ---
-title: 'C# Tip: use the @ prefix when a name is reserved'
+title: "C# Tip: use the @ prefix when a name is reserved"
 date: 2022-10-25
 tags:
-- CSharp
+  - CSharp
 url: /csharptips/use-at-symbol-prefix
 categories:
-- CSharp Tips
+  - CSharp Tips
 summary: C#, as every other language, has several reserved keywords. Did you know that you can use them if you use the `@` prefix?
 ---
 

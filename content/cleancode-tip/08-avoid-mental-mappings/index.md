@@ -1,11 +1,11 @@
 ---
-title: 'Clean Code Tip: Avoid mental mappings'
+title: "Clean Code Tip: Avoid mental mappings"
 date: 2022-01-25
 tags:
-- Clean Code
+  - Clean Code
 url: /cleancodetips/avoid-mental-mappings
 categories:
-- Clean Code Tips
+  - Clean Code Tips
 summary: Mental mappings are a good way to write shorter code that you, and only you, can understand. Prefer clarity over brevity!
 ---
 

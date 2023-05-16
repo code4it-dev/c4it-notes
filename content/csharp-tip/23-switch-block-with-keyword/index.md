@@ -4,9 +4,9 @@ date: 2023-05-16
 url: /csharptips/switch-expressions-and-statements
 draft: false
 categories:
-- CSharp Tips
-tags: 
-- CSharp
+  - CSharp Tips
+tags:
+  - CSharp
 toc: true
 summary: "We all use `switch` statements in our code. Do you use them at their full potential?"
 ---
@@ -31,7 +31,7 @@ Let's see different usages of switch statements and switch expressions.
 
 ## Switch statements in C#
 
-Switch statements are those with the standard `switch (something)` block. They allow for different executions of paths, acting as a list of `if` - `else if` blocks. 
+Switch statements are those with the standard `switch (something)` block. They allow for different executions of paths, acting as a list of `if` - `else if` blocks.
 
 **They can be used to return a value, but it's not mandatory**: you can simply use `switch` statements to execute code that does not return any value.
 
@@ -46,20 +46,20 @@ string message = "";
 
 switch (user)
 {
-    case Gamer: 
-    { 
-        message = "I'm a gamer"; 
-        break; 
+    case Gamer:
+    {
+        message = "I'm a gamer";
+        break;
     }
-    case Player: 
-    { 
-        message = "I'm a player"; 
-        break; 
+    case Player:
+    {
+        message = "I'm a player";
+        break;
     }
-    default: 
-    { 
-        message = "My type is not handled!"; 
-        break; 
+    default:
+    {
+        message = "My type is not handled!";
+        break;
     }
 }
 
@@ -77,27 +77,27 @@ string message = "";
 
 switch (user)
 {
-    case Gamer g: 
-    { 
-        message = "I'm a gamer, and I have a " + g.Console; 
-        break; 
-    }
-    case Player: 
-    { 
-        message = "I'm a player"; 
-        break; 
-    }
-    default: 
+    case Gamer g:
     {
-        message = "My type is not handled!"; 
-        break; 
+        message = "I'm a gamer, and I have a " + g.Console;
+        break;
+    }
+    case Player:
+    {
+        message = "I'm a player";
+        break;
+    }
+    default:
+    {
+        message = "My type is not handled!";
+        break;
     }
 }
 
 Console.WriteLine(message); //I'm a gamer, and I have a Nintendo Switch
 ```
 
-As you can see, since `user` *is a* `Gamer`, within the related branch we cast the user to `Gamer` in a variable named `g`, so that we can use its public properties and methods.
+As you can see, since `user` _is a_ `Gamer`, within the related branch we cast the user to `Gamer` in a variable named `g`, so that we can use its public properties and methods.
 
 ### Filtering using the WHEN keyword
 
@@ -110,25 +110,25 @@ string message = "";
 
 switch (user)
 {
-    case Gamer g when g.Age < 10: 
-    { 
-        message = "I'm a gamer, but too young"; 
+    case Gamer g when g.Age < 10:
+    {
+        message = "I'm a gamer, but too young";
         break;
     }
-    case Gamer g: 
+    case Gamer g:
     {
-        message = "I'm a gamer, and I have a " + g.Console; 
-        break; 
+        message = "I'm a gamer, and I have a " + g.Console;
+        break;
     }
-    case Player: 
-    { 
-        message = "I'm a player"; 
-        break; 
+    case Player:
+    {
+        message = "I'm a player";
+        break;
     }
-    default: 
-    { 
-        message = "My type is not handled!"; 
-        break; 
+    default:
+    {
+        message = "My type is not handled!";
+        break;
     }
 }
 
@@ -137,7 +137,7 @@ Console.WriteLine(message); // I'm a gamer, but too young
 
 Here we have the `when g.Age < 10` filter applied to the `Gamer g` variable.
 
-Clearly, if we set the age to 30, we will see *I'm a gamer, and I have a Nintendo Switch*.
+Clearly, if we set the age to 30, we will see _I'm a gamer, and I have a Nintendo Switch_.
 
 ## Switch Expression in C#
 
@@ -201,12 +201,12 @@ First of all, you can learn more about how to use Relational Patterns in a switc
 To have a taste of it, here's a short example:
 
 ```cs
-string Classify(double measurement) => measurement switch 
-{ 
-    < -4.0 => "Too low", 
-    > 10.0 => "Too high", 
-    double.NaN => "Unknown", 
-    _ => "Acceptable", 
+string Classify(double measurement) => measurement switch
+{
+    < -4.0 => "Too low",
+    > 10.0 => "Too high",
+    double.NaN => "Unknown",
+    _ => "Acceptable",
 };
 ```
 
@@ -220,12 +220,12 @@ There are also more ways to handle Switch Statements. To learn about more comple
 
 🔗 [The switch statement | Microsoft Docs](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/statements/selection-statements#the-switch-statement)
 
-Finally, in those examples, we used `records`. As you saw, I marked the `User` type as `abstract`. 
+Finally, in those examples, we used `records`. As you saw, I marked the `User` type as `abstract`.
 
-Do you want to learn more about Records? 
+Do you want to learn more about Records?
 
 🔗 [8 things about Records in C# you probably didn't know | Code4IT](https://code4it.dev/blog/8-things-about-records-csharp/)
- 
+
 ## Wrapping up
 
 Learning about tools and approaches is useful, but you should also stay up-to-date with language features.

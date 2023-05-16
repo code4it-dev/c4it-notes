@@ -2,11 +2,11 @@
 title: Getting resource location with CreatedAtAction and CreatedAtRoute action results
 date: 2021-04-20
 tags:
-- dotnet
+  - dotnet
 toc: true
 url: /blog/createdAtRoute-createdAtAction
 categories:
-- Blog
+  - Blog
 summary: It's not a good practice to return the ID of a newly created item in the HTTP Response Body. What to do? You can return it in the HTTP Response Headers, with CreatedAtAction and CreatedAtRoute.
 ---
 

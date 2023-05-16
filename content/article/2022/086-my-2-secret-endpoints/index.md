@@ -2,11 +2,11 @@
 title: The 2 secret endpoints I create in my .NET APIs
 date: 2022-10-04
 tags:
-- dotnet
+  - dotnet
 toc: true
 url: /blog/my-2-secret-endpoints
 categories:
-- Blog
+  - Blog
 summary: In this article, I will show you two simple tricks that help me understand the deployment status of my .NET APIs
 ---
 

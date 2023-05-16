@@ -1,14 +1,14 @@
 ---
-title: '14 to 2 seconds: how I improved the performance of an endpoint by 82% - part 2'
+title: "14 to 2 seconds: how I improved the performance of an endpoint by 82% - part 2"
 date: 2021-03-09
 tags:
-- Performance
-- dotnet
-- CSharp
+  - Performance
+  - dotnet
+  - CSharp
 toc: true
 url: /blog/improving-application-performance-part2
 categories:
-- Blog
+  - Blog
 summary: Language details may impact application performance. In this article we'll see some of the C# tips that brought me to improve my application. Singleton creation, StringBuilder and more!
 ---
 

@@ -4,16 +4,16 @@ date: 2023-05-09
 url: /blog/download-and-save-files
 draft: false
 categories:
-- Blog
+  - Blog
 tags:
-- CSharp
+  - CSharp
 toc: true
 summary: "Downloading a file from a remote resource seems an easy task: download the byte stream and copy it to a local file. Beware of edge cases!"
 ---
 
 Downloading files from an online source and saving them on the local machine seems an easy task.
 
-And guess what? *It is!*
+And guess what? _It is!_
 
 In this article, we will learn how to download an online file, perform some operations on it - such as checking its file extension - and store it in a local folder. We will also learn how to deal with edge cases: what if the file does not exist? Can we overwrite existing files?
 
@@ -45,7 +45,7 @@ at System.Net.Http.HttpClient.GetStreamAsyncCore(HttpRequestMessage request, Can
 
 As you can see, **we are implicitly calling `EnsureSuccessStatusCode`** while getting the stream of data.
 
-You can tell the consumer that we were not able to download the content in two ways: throw a *custom* exception or return `Stream.Null`. We will use `Stream.Null` for the sake of this article.
+You can tell the consumer that we were not able to download the content in two ways: throw a _custom_ exception or return `Stream.Null`. We will use `Stream.Null` for the sake of this article.
 
 Note: **always throw custom exceptions and add context to them**: this way, you'll add more useful info to consumers and logs, and you can hide implementation details.
 

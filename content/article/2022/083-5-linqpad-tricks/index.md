@@ -2,12 +2,12 @@
 title: 5 tricks every C# dev should know about LINQPad
 date: 2022-07-19
 tags:
-- dotnet
-- CSharp
+  - dotnet
+  - CSharp
 toc: true
 url: /blog/5-linqpad-tricks
 categories:
-- Blog
+  - Blog
 summary: LINQPad is one of the tools I use daily. But still, I haven't used it at its full power. And you?
 ---
 

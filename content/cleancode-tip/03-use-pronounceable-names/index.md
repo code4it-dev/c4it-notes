@@ -1,11 +1,11 @@
 ---
-title: 'Clean code tip: Use pronounceable and searchable names'
+title: "Clean code tip: Use pronounceable and searchable names"
 date: 2021-07-20
 tags:
-- Clean Code
+  - Clean Code
 url: /cleancodetips/use-pronounceable-names
 categories:
-- Clean Code Tips
+  - Clean Code Tips
 summary: Two of the operations you often do with your code is to discuss it, or perform a search over it. So using good names will help in both situations.
 ---
 

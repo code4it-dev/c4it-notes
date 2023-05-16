@@ -2,11 +2,11 @@
 title: Clean code tips - Abstraction and objects
 date: 2020-10-20
 tags:
-- Clean Code
+  - Clean Code
 toc: true
 url: /blog/clean-code-abstraction-and-objects
 categories:
-- Blog
+  - Blog
 summary: Are Getters and Setters the correct way to think of abstraction? What are pro and cons of OOP and Procedural programming? And, in the OOP world, how can you define objects?
 ---
 
@@ -144,7 +144,6 @@ But there are some **downsides**:
 
 {{< tweet user="BelloneDavide" id="1296470827010072577" >}}
 
-
 ### Object-oriented programming
 
 In Object-oriented programming, we declare the functionalities to expose and we implement them directly within the class:
@@ -201,7 +200,6 @@ But even here there are some downsides:
 
 {{< tweet user="BelloneDavide" id="1296470828838801408" >}}
 
- 
 ### So what?
 
 Luckily we don't live in a world in black and white, but there are other shades: it's highly unlikely that you'll use _pure OO programming_ or _pure procedural programming_.
@@ -214,7 +212,6 @@ Understand Pro and Cons of each type, and apply them wherever is needed.
 
 {{< tweet user="BelloneDavide" id="1297262011584114689" >}}
 
- 
 There's a statement by the author that is the starting point of all his following considerations:
 
 > **Objects hide their data** behind abstractions and expose functions that operate on that data. **Data structure expose their data** and have no meaningful functions.
@@ -278,7 +275,7 @@ In this way, we decouple the properties of a _pure_ `Person` and the possible pr
 ## The Law of Demeter
 
 {{< tweet user="BelloneDavide" id="1300087681062440963" >}}
- 
+
 The **Law of Demeter** is a programming law that says that a _module should only talk to its friends_, not to strangers. What does it mean?
 
 Say that you have a `MyClass` class that contains a `MyFunction` class, which can accept some arguments. The Law of Demeter says that `MyFunction` should only call the methods of

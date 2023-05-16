@@ -1,11 +1,11 @@
 ---
-title: 'C# Tip: SelectMany in LINQ'
+title: "C# Tip: SelectMany in LINQ"
 date: 2022-07-12
 tags:
-- CSharp
+  - CSharp
 url: /csharptips/linq-selectmany
 categories:
-- CSharp Tips
+  - CSharp Tips
 summary: SelectMany is one of the LINQ methods I've used the least. I couldn't get it! Turns out it was actually incredibly simple.
 ---
 

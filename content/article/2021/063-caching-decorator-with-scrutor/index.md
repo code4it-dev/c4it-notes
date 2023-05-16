@@ -2,11 +2,11 @@
 title: How to add a caching layer in .NET 5 with Decorator pattern and Scrutor
 date: 2021-08-10
 tags:
-- dotnet
+  - dotnet
 toc: true
 url: /blog/caching-decorator-with-scrutor
 categories:
-- Blog
+  - Blog
 summary: "You should not add the caching logic in the same component used for retrieving data from external sources: you'd better use the Decorator Pattern. We'll see how to use it, what benefits it brings to your application, and how to use Scrutor to add it to your .NET projects."
 ---
 
@@ -226,7 +226,6 @@ Using the Decorator pattern brings many benefits.
 An example of Decorator outside the programming world? The following video from YouTube, where you can see that each cup (component) has only one responsibility, and can be easily decorated with many other cups.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T_7aVZZDGNM" title="Decorator pattern as a Cup drawing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 ## Additional links
 

@@ -2,10 +2,10 @@
 title: "Clean Code Tip: Don't use too many method arguments"
 date: 2021-11-02
 tags:
-- Clean Code
+  - Clean Code
 url: /cleancodetips/too-many-method-arguments
 categories:
-- Clean Code Tips
+  - Clean Code Tips
 summary: When a function has too many parameters, it's clear that something is wrong. But... why? What are the consequences of having too many parameters?
 ---
 

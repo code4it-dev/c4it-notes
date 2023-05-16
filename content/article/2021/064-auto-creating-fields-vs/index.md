@@ -2,12 +2,12 @@
 title: How to customize fields generation in Visual Studio 2019
 date: 2021-09-14
 tags:
-- Visual Studio
-- dotnet
+  - Visual Studio
+  - dotnet
 toc: true
 url: /blog/auto-creating-fields-vs
 categories:
-- Blog
+  - Blog
 summary: Every time you ask Visual Studio to generate properties for you, it creates them with a simple,default format. But we can customize them by updating some options on our IDE. Let's learn how!
 ---
 

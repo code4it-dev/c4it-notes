@@ -2,13 +2,13 @@
 title: How to generate code from OpenAPI definition with Visual Studio 2019
 date: 2020-10-06
 tags:
-- CSharp
-- OpenAPI
-- Visual Studio
+  - CSharp
+  - OpenAPI
+  - Visual Studio
 toc: true
 url: /blog/openapi-code-generation-vs2019
 categories:
-- Blog
+  - Blog
 summary: Wouldn't it be nice if Visual Studio could autogenerate clients for external API? It is actually possible, if they expose an OpenAPI file. Let's see how!
 ---
 

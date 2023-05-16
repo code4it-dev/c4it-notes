@@ -2,12 +2,12 @@
 title: How to test HttpClientFactory with Moq
 date: 2021-09-28
 tags:
-- CSharp
-- Testing
+  - CSharp
+  - Testing
 toc: true
 url: /blog/testing-httpclientfactory-moq
 categories:
-- Blog
+  - Blog
 summary: Mocking IHttpClientFactory is hard, but luckily we can use some advanced features of Moq to write better tests.
 ---
 

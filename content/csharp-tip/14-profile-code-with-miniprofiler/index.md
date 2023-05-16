@@ -1,11 +1,11 @@
 ---
-title: 'C# Tip: use Miniprofiler instead of Stopwatch to profile code performance'
+title: "C# Tip: use Miniprofiler instead of Stopwatch to profile code performance"
 date: 2022-09-13
 tags:
-- CSharp
+  - CSharp
 url: /csharptips/profile-code-with-miniprofiler
 categories:
-- CSharp Tips
+  - CSharp Tips
 summary: Miniprofiler is a nice tool to profile your code in a smart way.
 ---
 

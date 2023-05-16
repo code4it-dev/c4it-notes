@@ -1,11 +1,11 @@
 ---
-title: 'C# Tip: do NOT use nameof to give constants a value'
+title: "C# Tip: do NOT use nameof to give constants a value"
 date: 2023-01-31
 tags:
-- CSharp
+  - CSharp
 url: /csharptips/do-not-use-nameof-for-constants
 categories:
-- CSharp Tips
+  - CSharp Tips
 summary: In C#, nameof can be quite useful. But it has some drawbacks, if used the wrong way.
 ---
 

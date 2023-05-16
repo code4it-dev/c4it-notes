@@ -2,20 +2,19 @@
 title: A recap of my 30ArticlesForNovember
 date: 2019-12-05
 tags:
-- CSharp
-- dotnet
-- Programming
+  - CSharp
+  - dotnet
+  - Programming
 toc: true
 url: /blog/30articlesfornovember-a-recap
 categories:
-- Blog
+  - Blog
 summary: On November I shared on Twitter an article each day. They were about C#, general programming and advanced topics. For celebrating the conclusion of this challenge, I wrote a poem about that.
 ---
 
 For this November I decided to share each day an article on Twitter.
 
 {{< tweet user="BelloneDavide" id="1189474483503022081" >}}
-
 
 I did it for simple reasons:
 
@@ -37,7 +36,6 @@ and here comes my links array.
 
 <hr/>
 
-
 Most of them were on C sharp,
 
 on some things I thought were dull.
@@ -46,7 +44,6 @@ went deep in, like in a scarp,
 with [indexers](https://csharp-station.com/Tutorial/CSharp/Lesson11 "Indexers"), [lazy](https://www.c-sharpcorner.com/article/top-7-least-known-but-important-c-sharp-features/ "Important C# features"), [LINQ](https://blog.quadiontech.com/5-c-features-that-will-help-you-to-understand-linq-bca495cd3fb8 "LINQ") and [null](https://mikaelkoskinen.net/post/subtle-csharp-bug-null-conditional-operator-any-false "Subtle null bug").
 
 <hr/>
-
 
 You can be a [string or a String](https://blog.paranoidcoding.com/2019/04/08/string-vs-String-is-not-about-style.html "string vs String"),
 
@@ -58,7 +55,6 @@ just like [swapping vars in place](https://dev.to/mortoray/terrible-interview-qu
 
 <hr/>
 
-
 To be or not to be?
 
 This is the question.
@@ -68,7 +64,6 @@ Will you use [Cosmos DB](https://dev.to/petereysermans/things-i-wish-i-knew-befo
 Try [EF Core](https://www.thereformedprogrammer.net/an-in-depth-study-of-cosmos-db-and-ef-core-3-0-database-provider "EF Core vs Cosmos DB"), but pay attention.
 
 <hr/>
-
 
 «[Unit of work](https://gunnarpeipman.com/ef-core-repository-unit-of-work/ "Unit of work with EF Core")! I'll start from here»,
 
@@ -80,7 +75,6 @@ you might want [EF Core](https://exceptionnotfound.net/dapper-vs-entity-framewor
 
 <hr/>
 
-
 [.NET Standard, Core and Framework](https://code-maze.com/differences-between-net-framework-net-core-and-net-standard/ ".NET versions differences"),
 
 you can see them all in action.
@@ -90,7 +84,6 @@ Want performance? Want great work?
 Take care of [Garbage Collection](https://docs.microsoft.com/en-us/aspnet/core/performance/memory "Garbage collection introduction").
 
 <hr/>
-
 
 «I wanna all remote! Remote [work](https://doist.com/blog/mental-health-and-remote-work "Remote working downside"), remote [calls](https://devblogs.microsoft.com/aspnet/grpc-vs-http-apis/ "gRPC vs Rest APIs")!».
 
@@ -102,7 +95,6 @@ Be a nice person, just like [Tom Hanks](https://www.nytimes.com/2019/11/13/movie
 
 <hr/>
 
-
 My [source code is not a book](https://dev.to/snj/learn-from-source-code-4d1o "Source code readibility"),
 
 [few comments](https://www.red-gate.com/simple-talk/opinion/opinion-pieces/fighting-evil-code-comments-comments/ "How to comment code") - lots of defects.
@@ -112,7 +104,6 @@ My [source code is not a book](https://dev.to/snj/learn-from-source-code-4d1o "S
 But, [only positive effects](https://www.microsoft.com/en-us/research/blog/exploding-software-engineering-myths/ "Software engineering myths")??
 
 <hr/>
-
 
 Doesn't care if frontend or backend,
 
@@ -124,7 +115,6 @@ and you'll create a better app.
 
 <hr/>
 
-
 [Will you fail?](https://jamesclear.com/3-stages-of-failure "3 stages of failure") I can't tell.
 
 You must [plan your career with attention](https://medium.com/better-programming/you-need-to-design-your-programming-career-f3d0b9803ca4 "How to plan career").
@@ -134,7 +124,6 @@ Ok, ya know [what is a shell](https://www.hanselman.com/blog/WhatsTheDifferenceB
 Something cool to talk [at a convention](https://dev.to/nspinazz89/12-tips-to-maximize-your-experience-at-a-tech-conference-5dkj "Tips for tech conferences").
 
 <hr/>
-
 
 For 2020 I wanna speak at [another conference](/blog/advices-from-my-first-public-speech "My first speech experience"),
 

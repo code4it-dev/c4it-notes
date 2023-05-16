@@ -2,12 +2,12 @@
 title: How to create an API Gateway using Azure API Management
 date: 2022-11-22
 tags:
-- Azure
-- API Gateway
+  - Azure
+  - API Gateway
 toc: true
 url: /blog/intro-azure-api-management
 categories:
-- Blog
+  - Blog
 summary: In a microservices architecture, an API Gateway hides your real endpoints. We will create one using Azure API Management
 ---
 

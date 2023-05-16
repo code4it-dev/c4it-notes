@@ -1,11 +1,11 @@
 ---
-title: 'C# Tip: Raise synchronous events using Timer (and not a While loop)'
+title: "C# Tip: Raise synchronous events using Timer (and not a While loop)"
 date: 2022-11-29
 tags:
-- CSharp
+  - CSharp
 url: /csharptips/timer-to-trigger-synchronous-events
 categories:
-- CSharp Tips
+  - CSharp Tips
 summary: "When you need to fire synchronous events, don't use a while(true) loop: use a Timer!"
 ---
 

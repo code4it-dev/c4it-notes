@@ -2,12 +2,12 @@
 title: Cool validation with FluentValidation
 date: 2020-06-16
 tags:
-- CSharp
-- dotnet
+  - CSharp
+  - dotnet
 toc: true
 url: /blog/fluentvalidation
 categories:
-- Blog
+  - Blog
 summary: Validating inputs is crucial for every application. If you want an easy and versatile way, you can try FluentValidation.
 ---
 

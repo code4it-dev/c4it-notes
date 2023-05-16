@@ -1,11 +1,11 @@
 ---
-title: 'C# Tip: Access items from the end of the array using the ^ operator'
+title: "C# Tip: Access items from the end of the array using the ^ operator"
 date: 2023-04-11
 tags:
-- CSharp
+  - CSharp
 url: /csharptips/access-items-from-end-of-array
 categories:
-- CSharp Tips
+  - CSharp Tips
 summary: Shorter code is often easier to read. Not always, but often. And the `^` operator can make your code easier to read and less error-prone
 ---
 
@@ -30,7 +30,6 @@ var echo = values[values.Length - 3];
 As you can see, we are accessing the same variable twice in a row: `values[values.Length - 3]`.
 
 We can simplify that specific line of code by using the `^` operator:
-
 
 ```cs
 string[] values = {
@@ -77,7 +76,7 @@ Using `^` is a nice trick that many C# developers don't know. There are some spe
 
 🔗 [C# Tip: use the @ prefix when a name is reserved](https://www.code4it.dev/csharptips/use-at-symbol-prefix/)
 
-*This article first appeared on [Code4IT 🐧](https://www.code4it.dev/)*
+_This article first appeared on [Code4IT 🐧](https://www.code4it.dev/)_
 
 ## Wrapping up
 

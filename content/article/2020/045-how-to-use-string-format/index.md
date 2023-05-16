@@ -2,11 +2,11 @@
 title: How to use String.Format - and why you should care about it
 date: 2020-12-01
 tags:
-- CSharp
+  - CSharp
 toc: true
 url: /blog/how-to-use-string-format
 categories:
-- Blog
+  - Blog
 summary: Is string.Format obsolete? Not at all, it still has cards to play! Let's see how we can customize format and create custom formatters.
 ---
 

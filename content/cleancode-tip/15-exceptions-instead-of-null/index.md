@@ -1,11 +1,11 @@
 ---
-title: 'Clean Code Tip: throw exceptions instead of returning null when there is no fallback'
+title: "Clean Code Tip: throw exceptions instead of returning null when there is no fallback"
 date: 2022-09-27
 tags:
-- Clean Code
+  - Clean Code
 url: /cleancodetips/exceptions-instead-of-null
 categories:
-- Clean Code Tips
+  - Clean Code Tips
 summary: In case of unmanageable error, should you return null or throw exceptions?
 ---
 

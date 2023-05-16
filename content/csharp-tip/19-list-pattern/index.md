@@ -1,11 +1,11 @@
 ---
-title: 'C# Tip: List Pattern to match an collection against a sequence of patterns'
+title: "C# Tip: List Pattern to match an collection against a sequence of patterns"
 date: 2023-02-14
 tags:
-- CSharp
+  - CSharp
 url: /csharptips/list-pattern
 categories:
-- CSharp Tips
+  - CSharp Tips
 summary: By using list patterns on an array or a list you can check whether a it contains the values you expect in a specific position.
 ---
 

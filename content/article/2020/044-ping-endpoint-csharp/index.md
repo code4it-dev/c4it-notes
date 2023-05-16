@@ -2,11 +2,11 @@
 title: How to Ping an endpoint with C#
 date: 2020-11-17
 tags:
-- CSharp
+  - CSharp
 toc: true
 url: /blog/ping-endpoint-csharp
 categories:
-- Blog
+  - Blog
 summary: How to effectively ping an endpoint in C#? Don't use the HttpClient, when .NET provides a Ping class to perform all these operations.
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: 8 things about Records in C# you probably didn't know
 date: 2022-05-31
-tags: 
-- CSharp
-- dotnet
+tags:
+  - CSharp
+  - dotnet
 toc: true
 url: /blog/8-things-about-records-csharp
 categories:
-- Blog
+  - Blog
 summary: C# recently introduced Records, a new way of defining types. In this article, we will see 8 things you probably didn't know about C# Records
 ---
 

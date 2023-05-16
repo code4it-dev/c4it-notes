@@ -2,11 +2,11 @@
 title: Clean code tips - names and functions
 date: 2020-07-21
 tags:
-- Clean Code
+  - Clean Code
 toc: true
 url: /blog/clean-code-names-and-functions
 categories:
-- Blog
+  - Blog
 summary: I don't have to tell you why you need to write clean code. Here you'll see some tips about how to name things and how to structure functions
 ---
 
@@ -16,7 +16,6 @@ But this time I decided to share on Twitter some of the tips that I find interes
 
 {{< tweet user="BelloneDavide" id="1278369328820346881" >}}
 
- 
 If you are on Twitter, you can follow the retweets to this tweet, and join me in this reading.
 
 In this series of articles, I'll sum up what I've learned reading chapter 2 - Meaningful Names, and 3 - Functions.
@@ -337,7 +336,7 @@ So now the state of the input parameter has changed without notifying anyone. Ju
 ## 6: Fewer arguments, better readability
 
 {{< tweet user="BelloneDavide" id="1282303752700125185" >}}
- 
+
 Keep the number of function arguments as small as possible. Ideally you should have 0 or 1 arguments, but even 2 or 3 are fine. If more... well, you have to think about how to refactor your code!
 
 What are the best cases for using one argument?
@@ -350,7 +349,7 @@ Sometimes you just cannot use a single parameter, for example for coordinates. B
 ## 7: Prefer exceptions over error codes
 
 {{< tweet user="BelloneDavide" id="1282382545930334214" >}}
- 
+
 Remember what I said about polymorphism and enums? The same applies to exceptions.
 
 ```cs

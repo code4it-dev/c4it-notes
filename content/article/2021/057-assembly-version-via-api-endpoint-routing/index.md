@@ -2,12 +2,12 @@
 title: How to expose .NET Assembly Version via API endpoint routing
 date: 2021-05-18
 tags:
-- dotnet
-- CSharp
+  - dotnet
+  - CSharp
 toc: true
 url: /blog/assembly-version-via-api-endpoint-routing
 categories:
-- Blog
+  - Blog
 summary: Knowing the Assembly Version of the API you've deployed on an environment may be helpful for many reasons. We're gonna see why, how to retrieve it, and how to expose it with Endpoint Routing  (bye-bye Controllers and Actions!)
 ---
 

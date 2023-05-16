@@ -1,11 +1,11 @@
 ---
-title: 'C# Tip: use the Ping class instead of an HttpClient to ping an endpoint'
+title: "C# Tip: use the Ping class instead of an HttpClient to ping an endpoint"
 date: 2021-10-19
 tags:
-- CSharp
+  - CSharp
 url: /csharptips/ping-endpoint
 categories:
-- CSharp Tips
+  - CSharp Tips
 summary: Sometimes you need to ping some endpoints. Don't rely on HttpClient, but use the native Ping class.
 ---
 

@@ -2,11 +2,11 @@
 title: Logging with Serilog and Seq
 date: 2020-04-28
 tags:
-- dotnet
+  - dotnet
 toc: true
 url: /blog/logging-with-serilog-and-seq
 categories:
-- Blog
+  - Blog
 summary: Having a robust logging system is crucial for any application. There are many tools, and one of these is Serilog. Here you'll learn how to use it in a .NET application and how to integrate it with Seq.
 ---
 

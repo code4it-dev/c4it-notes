@@ -2,13 +2,13 @@
 title: How to run PostgreSQL locally with Docker
 date: 2022-01-18
 tags:
-- PostgreSQL
-- Docker
-- Database
+  - PostgreSQL
+  - Docker
+  - Database
 toc: true
 url: /blog/run-postgresql-with-docker
 categories:
-- Blog
+  - Blog
 summary: PostgreSQL is a famous relational database. In this article, we will learn how to run it locally using Docker.
 ---
 

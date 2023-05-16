@@ -2,12 +2,12 @@
 title: How to ping from an Azure App service with TCPPING
 date: 2019-12-13
 tags:
-- Azure
+  - Azure
 toc: true
 url: /blog/tcpping-azure-portal
 categories:
-- Blog
-summary: 'Maybe you are used to ping services to check whether they respond or not. It works well using a local console, but within the Azure portal you must use another command: tcpping.'
+  - Blog
+summary: "Maybe you are used to ping services to check whether they respond or not. It works well using a local console, but within the Azure portal you must use another command: tcpping."
 ---
 
 Probably you already know what **ping** is: it is a command that you can run on your terminal to see if a host is up and running.

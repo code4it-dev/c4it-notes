@@ -1,0 +1,26 @@
+{
+  "name": "c4it-hugo",
+  "version": "1.0.0",
+  "description": "Articolo:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "article": "node article.js",
+    "archi": "node architecture.js",
+    "cstip": "node cstip.js",
+    "format": "prettier --write \"**/*.md\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code4it-dev/c4it-hugo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code4it-dev/c4it-hugo/issues"
+  },
+  "homepage": "https://github.com/code4it-dev/c4it-hugo#readme",
+  "devDependencies": {
+    "prettier": "2.8.8"
+  }
+}

@@ -2,12 +2,12 @@
 title: MSTest Assert class - an overview
 date: 2018-12-05
 tags:
-- CSharp
-- Tests
+  - CSharp
+  - Tests
 toc: true
 url: /blog/mstests-assert-overview
 categories:
-- Blog
+  - Blog
 summary: The Assert class is the first step you'll probably take into unit testing. But do you know that there's more than the IsTrue() method?
 ---
 

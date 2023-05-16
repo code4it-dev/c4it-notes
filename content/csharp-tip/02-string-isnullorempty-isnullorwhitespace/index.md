@@ -1,11 +1,11 @@
 ---
-title: 'C# tip: String.IsNullOrEmpty or String.IsNullOrWhiteSpace?'
+title: "C# tip: String.IsNullOrEmpty or String.IsNullOrWhiteSpace?"
 date: 2021-07-06
 tags:
-- CSharp
+  - CSharp
 url: /csharptips/string-isnullorempty-isnullorwhitespace
 categories:
-- CSharp Tips
+  - CSharp Tips
 summary: Is your string really empty, or has it hidden characters? With String.IsNullOrEmpty and String.IsNullOrWhiteSpace you can find it
 ---
 

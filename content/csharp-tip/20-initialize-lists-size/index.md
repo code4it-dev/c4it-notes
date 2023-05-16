@@ -1,11 +1,11 @@
 ---
-title: 'C# Tip: Initialize lists size to improve performance'
+title: "C# Tip: Initialize lists size to improve performance"
 date: 2023-02-28
 tags:
-- CSharp
+  - CSharp
 url: /csharptips/initialize-lists-size
 categories:
-- CSharp Tips
+  - CSharp Tips
 summary: Lists have an inner capacity. Every time you add more items than the current Capacity, you add performance overhead. How to prevent it?
 ---
 
@@ -35,7 +35,7 @@ public void SizeDefined()
         set.Add(i);
     }
 }
-  
+
 [Benchmark]
 public void SizeNotDefined()
 {
@@ -53,17 +53,17 @@ Those two methods are almost identical: the only difference is that in one metho
 
 Have a look at the result of the benchmark run with .NET 7:
 
-|         Method |   Size |            Mean |         Error |         StdDev |          Median |     Gen0 |     Gen1 |     Gen2 | Allocated |
-|--------------- |------- |----------------:|--------------:|---------------:|----------------:|---------:|---------:|---------:|----------:|
-|    SizeDefined |      2 |        49.50 ns |      1.039 ns |       1.678 ns |        49.14 ns |   0.0248 |        - |        - |     104 B |
-| SizeNotDefined |      2 |        63.66 ns |      3.016 ns |       8.507 ns |        61.99 ns |   0.0268 |        - |        - |     112 B |
-|    SizeDefined |    100 |       798.44 ns |     15.259 ns |      32.847 ns |       790.23 ns |   0.1183 |        - |        - |     496 B |
-| SizeNotDefined |    100 |     1,057.29 ns |     42.100 ns |     121.469 ns |     1,056.42 ns |   0.2918 |        - |        - |    1224 B |
-|    SizeDefined |   1000 |     9,180.34 ns |    496.521 ns |   1,400.446 ns |     8,965.82 ns |   0.9766 |        - |        - |    4096 B |
-| SizeNotDefined |   1000 |     9,720.66 ns |    406.184 ns |   1,184.857 ns |     9,401.37 ns |   2.0142 |        - |        - |    8464 B |
-|    SizeDefined |  10000 |   104,645.87 ns |  7,636.303 ns |  22,395.954 ns |    99,032.68 ns |   9.5215 |   1.0986 |        - |   40096 B |
-| SizeNotDefined |  10000 |    95,192.82 ns |  4,341.040 ns |  12,524.893 ns |    92,824.50 ns |  31.2500 |        - |        - |  131440 B |
-|    SizeDefined | 100000 | 1,416,074.69 ns | 55,800.034 ns | 162,771.317 ns | 1,402,166.02 ns | 123.0469 | 123.0469 | 123.0469 |  400300 B |
+| Method         | Size   |            Mean |         Error |         StdDev |          Median |     Gen0 |     Gen1 |     Gen2 | Allocated |
+| -------------- | ------ | --------------: | ------------: | -------------: | --------------: | -------: | -------: | -------: | --------: |
+| SizeDefined    | 2      |        49.50 ns |      1.039 ns |       1.678 ns |        49.14 ns |   0.0248 |        - |        - |     104 B |
+| SizeNotDefined | 2      |        63.66 ns |      3.016 ns |       8.507 ns |        61.99 ns |   0.0268 |        - |        - |     112 B |
+| SizeDefined    | 100    |       798.44 ns |     15.259 ns |      32.847 ns |       790.23 ns |   0.1183 |        - |        - |     496 B |
+| SizeNotDefined | 100    |     1,057.29 ns |     42.100 ns |     121.469 ns |     1,056.42 ns |   0.2918 |        - |        - |    1224 B |
+| SizeDefined    | 1000   |     9,180.34 ns |    496.521 ns |   1,400.446 ns |     8,965.82 ns |   0.9766 |        - |        - |    4096 B |
+| SizeNotDefined | 1000   |     9,720.66 ns |    406.184 ns |   1,184.857 ns |     9,401.37 ns |   2.0142 |        - |        - |    8464 B |
+| SizeDefined    | 10000  |   104,645.87 ns |  7,636.303 ns |  22,395.954 ns |    99,032.68 ns |   9.5215 |   1.0986 |        - |   40096 B |
+| SizeNotDefined | 10000  |    95,192.82 ns |  4,341.040 ns |  12,524.893 ns |    92,824.50 ns |  31.2500 |        - |        - |  131440 B |
+| SizeDefined    | 100000 | 1,416,074.69 ns | 55,800.034 ns | 162,771.317 ns | 1,402,166.02 ns | 123.0469 | 123.0469 | 123.0469 |  400300 B |
 | SizeNotDefined | 100000 | 1,705,672.83 ns | 67,032.839 ns | 186,860.763 ns | 1,621,602.73 ns | 285.1563 | 285.1563 | 285.1563 | 1049485 B |
 
 Notice that, in general, they execute in a similar amount of time; for instance when running the same method with 100000 items, we have the same magnitude of time execution: 1,416,074.69 ns vs 1,705,672.83 ns.
@@ -82,7 +82,7 @@ List<int> myList = new List<int>();
 foreach (var element in Enumerable.Range(0,50))
 {
     myList.Add(element);
-    Console.WriteLine($"Items count: {myList.Count} - List capacity: {myList.Capacity}");   
+    Console.WriteLine($"Items count: {myList.Count} - List capacity: {myList.Capacity}");
 }
 ```
 
@@ -149,7 +149,7 @@ To populate the lists in our Benchmarks we used `Enumerable.Range`. Do you know 
 
 🔗 [C# Tip: LINQ's Enumerable.Range to generate a sequence of consecutive numbers](https://www.code4it.dev/csharptips/enumerable-range)
 
-*This article first appeared on [Code4IT 🐧](https://www.code4it.dev/)*
+_This article first appeared on [Code4IT 🐧](https://www.code4it.dev/)_
 
 ## Wrapping up
 

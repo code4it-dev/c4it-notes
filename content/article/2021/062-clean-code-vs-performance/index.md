@@ -1,13 +1,13 @@
 ---
-title: 'Code opinion: performance or clean code?'
+title: "Code opinion: performance or clean code?"
 date: 2021-07-27
 tags:
-- Clean Code
-- Performance
+  - Clean Code
+  - Performance
 toc: true
 url: /blog/clean-code-vs-performance
 categories:
-- Blog
+  - Blog
 summary: In any application, writing code that is clean and performant is crucial. But we often can't have both. What to choose?
 ---
 
@@ -16,11 +16,11 @@ A few weeks ago I had [a nice discussion on Twitter](https://twitter.com/vjnvisa
 The idea that triggered that discussion comes from [a Tweet by Daniel Moka](https://twitter.com/dmokafa/status/1404801014537064463)
 
 > Wrap long conditions!
-> 
+>
 > A condition statement with multiple booleans makes your code harder to read.
-> 
+>
 > The longer a piece of code is, the more difficult it is to understand.
-> 
+>
 > It's better to extract the condition into a well-named function that reveals the intent.
 
 with an example that showed how much easier is to understand an _if_ statement when the condition evaluation is moved to a different, well-named function, rather than keeping the same condition directly in the _if_ statement.
@@ -83,9 +83,9 @@ But, to retain users in the long run, we should focus on another aspect: **maint
 Given [this IEEE definition](https://ieeexplore.ieee.org/document/5221065) of maintainability,
 
 > a program is maintainable if it meets the following two conditions:
-> 
+>
 > • There is a high probability of determining the cause of a problem in a timely manner the first time it occurs,
-> 
+>
 > • There is a high probability of being able to modify the program without causing an error in some other part of the program.
 
 so, simplifying the definition, we should be able to:

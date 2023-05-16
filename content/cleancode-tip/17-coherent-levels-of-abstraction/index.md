@@ -1,11 +1,11 @@
 ---
-title: 'Clean Code Tip: Methods should have a coherent level of abstraction'
+title: "Clean Code Tip: Methods should have a coherent level of abstraction"
 date: 2022-11-15
 tags:
-- Clean Code
+  - Clean Code
 url: /cleancodetips/coherent-levels-of-abstraction
 categories:
-- Clean Code Tips
+  - Clean Code Tips
 summary: Don't let the reader get lost in the code details!
 ---
 
