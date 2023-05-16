@@ -14,7 +14,9 @@ summary: On November I shared on Twitter an article each day. They were about C#
 
 For this November I decided to share each day an article on Twitter.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m gonna start a new challenge here on Twitter: my personal <a href="https://twitter.com/hashtag/30ArticlesForNovember?src=hash&amp;ref_src=twsrc%5Etfw">#30ArticlesForNovember</a>. I&#39;ll share an interesting article from the sources I follow, so for example <a href="https://twitter.com/ThePracticalDev?ref_src=twsrc%5Etfw">@ThePracticalDev</a>, <a href="https://twitter.com/CodeMazeBlog?ref_src=twsrc%5Etfw">@CodeMazeBlog</a> and <a href="https://twitter.com/CsharpCorner?ref_src=twsrc%5Etfw">@CsharpCorner</a>.<br><br>Will you join me?</p>&mdash; Davide Bellone 🐧 (@BelloneDavide) <a href="https://twitter.com/BelloneDavide/status/1189474483503022081?ref_src=twsrc%5Etfw">October 30, 2019</a></blockquote>
+{{< tweet user="BelloneDavide" id="1189474483503022081" >}}
+
+
 I did it for simple reasons:
 
 - share great content with the Twitter community

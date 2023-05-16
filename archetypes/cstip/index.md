@@ -19,7 +19,7 @@ _This article first appeared on [Code4IT 🐧](https://www.code4it.dev/)_
 ## Wrapping up
 
 
-I hope you enjoyed this article! Let's keep in touch on [Twitter](https://twitter.com/BelloneDavide) or on [LinkedIn](https://www.linkedin.com/in/BelloneDavide/), if you want! 🤜🤛
+I hope you enjoyed this article! Let's keep in touch on [Twitter](https://twitter.com/BelloneDavide) or [LinkedIn](https://www.linkedin.com/in/BelloneDavide/)! 🤜🤛
 
 Happy coding!
 
@@ -39,3 +39,4 @@ Happy coding!
 
 [ ] Nome cartella e slug devono combaciare
 
+[ ] Immagine di copertina
