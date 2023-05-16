@@ -2,6 +2,31 @@
 
 ## Creare articolo
 
+### Tramite npm
+
+Articolo:
+
+```plaintext
+npm run article --slug="mio-slug"
+```
+
+CSTip:
+
+```plaintext
+npm run cstip --slug="mio-slug"
+```
+
+
+Articolo:
+
+```plaintext
+npm run archi --slug="mio-slug"
+```
+
+
+
+### Tramite Hugo
+
 Articolo:
 
 ```plaintext
