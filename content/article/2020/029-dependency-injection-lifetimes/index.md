@@ -1,5 +1,5 @@
 ---
-title: Dependency Injection lifetimes in .NET - my epiphany
+title: Dependency Injection lifetimes in .NET - Scoped vs Transient vs Singleton
 date: 2020-05-26
 tags:
   - CSharp
