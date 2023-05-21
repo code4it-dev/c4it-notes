@@ -1,6 +1,6 @@
 ---
 title: "Understanding IOptions, IOptionsMonitor, and IOptionsSnapshot in .NET 7"
-date: 2023-05-17
+date: 2023-05-23
 url: /blog/ioptions-ioptionsmonitor-ioptionssnapshot
 draft: false
 categories:
@@ -263,18 +263,3 @@ I hope you enjoyed this article! Let's keep in touch on [Twitter](https://twitte
 Happy coding!
 
 🐧
-
-
-[X] Titoli
-
-[X] Grammatica
-
-[X] Bold/Italics
-
-[X] Alt Text per immagini
-
-[X] Frontmatter
-
-[X] Nome cartella e slug devono combaciare
-
-[ ] Immagine di copertina

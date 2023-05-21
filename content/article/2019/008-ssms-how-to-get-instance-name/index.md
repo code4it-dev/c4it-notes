@@ -16,7 +16,7 @@ This article is just a note for something I forget the most: my LocalDB instance
 
 Sometimes when I open **SQL Server Management Studio** (SSMS) I lose time thinking and trying to figure out what is the name of my LocalDb.
 
-The solution is simple: open the terminal and run `SQLLocalDb.exe i`, where _i_ stand for _information_.
+The solution is simple: open the terminal and run `SQLLocalDb.exe i`, where `i` stands for _information_.
 
 Now you can see the list of configured DBs.
 
