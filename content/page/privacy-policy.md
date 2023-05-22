@@ -6,8 +6,6 @@ excludeFromTopNav: true
 showDate: false
 ---
 
-> You know, it's always the same stuff. In short: **I use Google ADs** to display ads on this site. Thanks to those ads I can pay the domain of this blog. **I do not collect any other data from you** - there's only Google Analytics.
-
 Last updated: April 18, 2023
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
