@@ -170,6 +170,10 @@ There are two main differences with `IOptions<T>`:
 1. the name of the property that stores the config value is `CurrentValue` instead of `Value`;
 2. there is a callback that is called every time you update the settings file: `OnChange(Action<TOptions, string?> listener)`. You can use it to perform operations that must be triggered every time the configuration changes.
 
+Note: **`OnChange` returns an object that implements `IDisposable` that you need to dispose**. Otherwise, as [Chris Elbert noticed (ps: follow him on Twitter!) ](https://twitter.com/realchrisebert/status/1403304311510208526), the instance of the class that uses `IOptionsMonitor<T>` will never be disposed.
+
+{{< tweet user="realchrisebert" id="1403304311510208526" >}} 
+
 Again, there is no way to test an `IOptionsMonitor<T>` as we did with `IOptions<T>`. So you should rely on stubs and mocks (again, maybe with [Moq or NSubstitute 🔗](https://code4it.dev/blog/moq-vs-nsubstitute-syntax/)).
 
 ### Demo: the configuration changes, and the callback is called
