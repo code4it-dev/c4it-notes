@@ -1,5 +1,5 @@
 ---
-title: Dependency Injection lifetimes in .NET - my epiphany
+title: Dependency Injection lifetimes in .NET - Scoped vs Transient vs Singleton
 date: 2020-05-26
 tags:
   - CSharp
@@ -148,7 +148,7 @@ Looking at the code snippets above, you'll notice a `Debug.WriteLine` instructio
 
 Finally, after all of this setup, we're ready to go!
 
-## Singleton
+## Singleton: a single instance shared across the whole application lifetime
 
 This is the simplest one: it creates a unique instance of the service, that will be shared across all the application for the whole run time.
 
@@ -165,7 +165,7 @@ This implies that **if you change the internal state of the injected class, all 
 
 Let's say that the IGuidGenerator also exposes a SetGuid method: if you call it on the ItalianGuidMessage class, which is called before the English version (see the Get method of the API controller), the EnglishGuidMessage class will return a different Guid than the original one. All until you restart the application. So pay attention to this!
 
-## Scoped
+## Scoped: dependencies are shared per request
 
 Services with a **scoped lifetime** are created once per client request, so if you call an API multiple times **while the same instance of the application is running**, you'll see that Italian and English messages will always have the same Guid, but the value changes every time you call the endpoint.
 
@@ -179,7 +179,7 @@ Of course, to specify this kind of dependency, you must add it in the ConfigureS
 services.AddScoped<IGuidGenerator, GuidGenerator>();
 ```
 
-## Transient
+## Transient: dependencies are created every time
 
 This lifetime specification injects a different object every time it is requested. You'll never end up with references to the same object.
 
