@@ -3,9 +3,11 @@ title: "C# tip: String.IsNullOrEmpty or String.IsNullOrWhiteSpace?"
 date: 2021-07-06
 tags:
   - CSharp
-url: /csharptips/string-isnullorempty-isnullorwhitespace
+  - Ciccio
+  - Wee 
+url: /what-is-string-isnullorempty-isnullorwhitespace
 categories:
-  - CSharp Tips
+  - What is
 ---
 
 Imagine this: you have created a method that creates a new user in your system, like this:

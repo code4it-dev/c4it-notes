@@ -2,10 +2,12 @@
 title: "C# tip: how to get the index of an item in a foreach loop"
 date: 2021-06-08
 tags:
-  - CSharp
-url: /csharptips/how-to-get-item-index-in-foreach
+  - Mucca
+  - Mongo
+  - Pollo
+url: /how-to-get-item-index-in-foreach
 categories:
-  - CSharp Tips
+  - How to
 ---
 
 Sometimes, when looping over a collection of elements in C#, you need not only the items itself, but also its position in the collection.

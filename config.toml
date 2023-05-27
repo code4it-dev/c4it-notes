@@ -1,5 +1,5 @@
-title = "Code4IT"
-baseURL = "https://code4it.dev/"
+title = "Code4IT Notes"
+baseURL = "https://notes.code4it.dev/"
 
 # Option 1 (recommended): adding the theme as a Hugo module
 # theme = "github.com/Lednerb/bilberry-hugo-theme/v3"
@@ -8,13 +8,13 @@ baseURL = "https://code4it.dev/"
 theme = "bilberry-hugo-theme"
 
 # Generate the robots.txt file for SEO
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 # Change to one of your content languages defined at the end.
 DefaultContentLanguage = "en"
 
 # Enable / Disable Google Analytics statistics for your site
-googleAnalytics = "G-M4Y3LG306F"
+googleAnalytics = ""
 
 # Enable / Disable comments on the articles via Disqus.
 disqusShortname = ""
@@ -29,20 +29,20 @@ disqusShortname = ""
 
   # Description and meta data for the search engines
   author = "Davide Bellone"
-  description = "Code4IT - a blog for dotnet developers"
+  description = "Notes for Code4IT - personal, minimal bites of knowledge"
   keywords = "blog,personal,responsive,search,font awesome,pages,posts,multilingual,highlight.js,syntax highlighting,premium,shortcuts"
 
   # How many articles should be displayed at once?
-  paginate = 7
+  paginate = 30
 
   # Enable / Disable MathJax
   enable_mathjax    = false
 
   # Enable / Disable algolia search
   algolia_search    = true
-  algolia_appId     = "2QZ2VO93S2"
-  algolia_apiKey    = "62034ca515a463a0a0711e90b25839ab"
-  algolia_indexName = "dev_code4it"
+  algolia_appId     = "EVI6ODREY6"
+  algolia_apiKey    = "624ab928dbac1f5d1786075665419dea"
+  algolia_indexName = "notes_code4it"
   # Set this option to false if you want to search within all articles in all languages at once
   algolia_currentLanguageOnly = true
 
@@ -64,7 +64,7 @@ disqusShortname = ""
   giscusCrossOrigin  = "anonymous"
 
   # Enable / Disable Utterances comments
-  utterances            = true
+  utterances            = false
   utterancesJsUrl       = "https://utteranc.es/client.js"
   utterancesRepository  = "code4it-dev/blog-comments"
   utterancesIssueTerm   = "pathname"
@@ -80,7 +80,7 @@ disqusShortname = ""
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "Code4IT - the place for .NET developers, Azure lovers, and everyone else."
+    subtitle = "Short tips, useful for quick access."
 
     # if you want to use libravatar or gravatar for the header image
     avatarEmail = ""
@@ -120,7 +120,7 @@ disqusShortname = ""
     dateFormat = "2006-01-02"
 
     # display the estimated reading time for an article
-    showReadingTime = true
+    showReadingTime = false
 
     # Minimum word count to display the Table of Contents
     tocMinWordCount = 400
