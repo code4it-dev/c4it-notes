@@ -35,6 +35,6 @@ jobs:
           npm install
           npm run data-upload -- -c \
             -f ../public/index.json \
-            -a 2QZ2VO93S2 \
+            -a EVI6ODREY6 \
             -k ${{ secrets.ALGOLIA_ADMIN_API_KEY }} \
-            -n dev_code4it          
+            -n notes_code4it          
