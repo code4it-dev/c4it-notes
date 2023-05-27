@@ -6,7 +6,6 @@ tags:
 url: /csharptips/how-to-get-item-index-in-foreach
 categories:
   - CSharp Tips
-summary: Do you need the index of the current item in a foreach loop with C#? Here you'll see two approaches.
 ---
 
 Sometimes, when looping over a collection of elements in C#, you need not only the items itself, but also its position in the collection.
