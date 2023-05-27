@@ -4,10 +4,8 @@
   "description": "Articolo:",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "article": "node article.js",
-    "archi": "node architecture.js",
-    "cstip": "node cstip.js",
+    "what": "node what-is.js",
+    "how": "node how-to.js",
     "format": "prettier --write \"**/*.md\""
   },
   "repository": {

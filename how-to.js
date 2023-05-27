@@ -1,5 +1,3 @@
-const { exec } = require('child_process');
-
 const execSync = require('child_process').execSync;
 
 const slug = process.env.npm_config_slug;
@@ -10,11 +8,11 @@ if(!slug)
 }
 
 console.table({
-    "tipo" : "C# Tip",
+    "tipo" : "How to?",
     "slug" : slug
 });
 
+
 execSync('git checkout master');
 execSync('git pull');
-execSync('git checkout -b cstip/'+slug);
-execSync('hugo new --kind cstip csharp-tip/'+slug+'/index.md');
+execSync('hugo new --kind how-to how-to/'+slug);

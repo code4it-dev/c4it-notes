@@ -8,11 +8,11 @@ if(!slug)
 }
 
 console.table({
-    "tipo" : "Main Article",
+    "tipo" : "What is?",
     "slug" : slug
 });
 
+
 execSync('git checkout master');
 execSync('git pull');
-execSync('git checkout -b article/'+slug);
-execSync('hugo new --kind article article/2023/'+slug+'/');
+execSync('hugo new --kind what-is what-is/'+slug);
