@@ -1,9 +1,0 @@
-```mermaid
-sequenceDiagram
-    Client->>+ BookingSystem: FindBookings()
-    BookingSystem->>+CarRentalSystem: AvailableCars()
-    CarRentalSystem-->>-BookingSystem: cars[]
-    BookingSystem->>+HotelsSystem: AvailableHotels()
-    HotelsSystem-->>-BookingSystem: hotels[]
-    BookingSystem-->>-Client : Booking(cars[], hotels[])
-```

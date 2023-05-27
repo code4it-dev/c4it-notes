@@ -1,5 +1,0 @@
-sequenceDiagram
-    RssInfoController->>+CachedFeedReader: GetItem()
-    CachedFeedReader->>+RssFeedReader: GetItem()
-    RssFeedReader-->>-CachedFeedReader: RssItem
-    CachedFeedReader-->>-RssInfoController: RssItem
