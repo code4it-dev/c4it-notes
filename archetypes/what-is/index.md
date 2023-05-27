@@ -1,7 +1,7 @@
 ---
-title: "What is {{ replace .Name "-" " " | title }} ?"
+title: "What is {{ replace .Name "-" " " | title }}?"
 date: {{ .Date }}
-url: /what-is
+url: /what-is-{{.Name}}
 draft: false
 categories:
 - What is

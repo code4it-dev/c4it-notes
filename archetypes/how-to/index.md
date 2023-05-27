@@ -1,7 +1,7 @@
 ---
-title: "How to {{ replace .Name "-" " " | title }}"
+title: "How to {{ replace .Name "-" " " | title }}?"
 date: {{ .Date }}
-url: /how-to-post-slug
+url: /how-to-{{.Name}}
 draft: false
 categories:
 - How to
