@@ -15,14 +15,13 @@ What is:
 ```plaintext
 npm run what --slug="mio-slug"
 ```
- 
- 
+
 ## Lanciare in locale
 
 ```plaintext
 hugo server
 ```
- 
+
 ## Colori tema
 
 ```scss
