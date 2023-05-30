@@ -4,9 +4,9 @@ date: {{ .Date }}
 url: /how-to-{{.Name}}
 draft: false
 categories:
-- How to
+    - How to
 tags:
-- Software Architecture
+    - Software Architecture
 ---
 
 Content
