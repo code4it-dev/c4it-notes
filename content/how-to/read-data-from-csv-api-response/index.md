@@ -1,5 +1,5 @@
 ---
-title: "How to Read Data From Csv Api Response?"
+title: "How to Read Data From Csv API Response?"
 date: 2023-06-05
 url: /how-to-read-data-from-csv-api-response
 draft: false
