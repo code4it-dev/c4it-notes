@@ -40,3 +40,8 @@ public async Task<IActionResult> ExportAsCsv()
 ```
 
 It creates an array of bytes (`byte[] result`), with the data expected to be part of the CSV file, and then uses it to create a `FileStreamResult` of type `text/csv`, whose filename is defined with the property `FileDownloadName`.
+
+
+## See also
+
+🔗 [How to Read Data From Csv Api Response?](https://notes.code4it.dev/how-to-read-data-from-csv-api-response/)
