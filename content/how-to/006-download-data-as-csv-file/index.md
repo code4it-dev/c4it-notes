@@ -6,8 +6,10 @@ draft: false
 categories:
     - How to
 tags:
-    - dotNET
+    - dotnet
     - CSharp
+    - CSV
+    - API
 ---
 
 If you have to generate a CSV file and return it from a .NET API endpoint, you have to **install the CsvHelper NuGet package**, and then add the following section:
@@ -40,7 +42,6 @@ public async Task<IActionResult> ExportAsCsv()
 ```
 
 It creates an array of bytes (`byte[] result`), with the data expected to be part of the CSV file, and then uses it to create a `FileStreamResult` of type `text/csv`, whose filename is defined with the property `FileDownloadName`.
-
 
 ## See also
 

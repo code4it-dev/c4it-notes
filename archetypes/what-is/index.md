@@ -10,3 +10,9 @@ tags:
 ---
 
 Content
+
+## Related notes
+
+
+## External references
+

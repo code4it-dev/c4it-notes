@@ -8,6 +8,8 @@ categories:
 tags:
     - dotNET
     - CSharp
+    - CSV
+    - API
 ---
 
 If you have an API endpoint that returns a CSV file (as explained [here](https://notes.code4it.dev/how-to-download-data-as-csv-file/)), you can read it by first **installing the CsvHelper NuGet package**, and then by reading the HTTP response content:

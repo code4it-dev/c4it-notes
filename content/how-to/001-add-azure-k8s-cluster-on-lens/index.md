@@ -8,6 +8,7 @@ categories:
 tags:
   - Azure
   - K8S
+  - Lens
 ---
 
 To navigate a K8S Cluster locally, you need a tool, like Lens.
