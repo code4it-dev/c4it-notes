@@ -4,12 +4,12 @@ date: 2023-06-05
 url: /how-to-read-data-from-csv-api-response
 draft: false
 categories:
-    - How to
+  - How to
 tags:
-    - dotNET
-    - CSharp
-    - CSV
-    - API
+  - dotNET
+  - CSharp
+  - CSV
+  - API
 ---
 
 If you have an API endpoint that returns a CSV file (as explained [here](https://notes.code4it.dev/how-to-download-data-as-csv-file/)), you can read it by first **installing the CsvHelper NuGet package**, and then by reading the HTTP response content:
