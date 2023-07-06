@@ -11,7 +11,6 @@ tags:
 
 You have a `static` class that you only use to store some constants, and you want to get all the values stored within the class.
 
-
 ```cs
 public static class Instances
 {
@@ -40,7 +39,6 @@ string[] allNames = fieldInfos
 ```
 
 And you can also get the related values:
-
 
 ```cs
 string[] allValues = fieldInfos

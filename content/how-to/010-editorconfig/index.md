@@ -5,14 +5,14 @@ url: /how-to-use-editorconfig
 draft: false
 categories:
   - How to
-tags: 
-    - CSharp
-    - Visual Studio
+tags:
+  - CSharp
+  - Visual Studio
 ---
 
 Having tidy code with shared formatting rules is useful and more elegant.
 
-In a .NET application, you can add an *editorconfig* file with all the formatting rules.
+In a .NET application, you can add an _editorconfig_ file with all the formatting rules.
 
 ## Scope of the file
 
@@ -28,16 +28,15 @@ You can format all the files by running `dotnet format`.
 
 You can also specify which kind of formatting you want to apply:
 
-* `dotnet format whitespace` runs whitespace formatting;
-* `dotnet format style` runs code style analyzers;
-* `dotnet format analyzers` runs 3rd party analyzers.
-
+- `dotnet format whitespace` runs whitespace formatting;
+- `dotnet format style` runs code style analyzers;
+- `dotnet format analyzers` runs 3rd party analyzers.
 
 At the end of the article ,you can find the one I'm using (it can be changed if I find more useful rules).
 
 ## How to edit that file
 
-You can edit it manually, but updating the content of the *.editorconfig* file.
+You can edit it manually, but updating the content of the _.editorconfig_ file.
 
 If you prefer a UI, you can locate that file in the Solution Explorer in Visual Studio, open it, and edit it using a UI editor:
 
@@ -495,4 +494,3 @@ dotnet_naming_rule.private_static_fields_none.symbols = private_static_fields
 dotnet_naming_rule.private_static_fields_none.style = underscored
 dotnet_naming_rule.private_static_fields_none.severity = none
 ```
-
